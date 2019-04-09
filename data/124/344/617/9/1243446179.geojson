@@ -1,0 +1,67 @@
+{
+  "id": 1243446179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.0421,20.54964,-13.0421,20.54964",
+    "geom:latitude":20.54964,
+    "geom:longitude":-13.0421,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Maleh",
+    "gn:country_code":"MR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405293,
+    "gn:latitude":20.54964,
+    "gn:longitude":-13.0421,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"El M\u00e2le\u1e25",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405293
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"8a648f75f6f7757ae3c3d0515f970ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1243446179,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1243446179,
+    "wof:lastmodified":1536805758,
+    "wof:name":"El Maleh",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.0421,
+    20.54964,
+    -13.0421,
+    20.54964
+],
+  "geometry": {"coordinates":[-13.0421,20.54964],"type":"Point"}
+}

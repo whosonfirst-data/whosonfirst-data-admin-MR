@@ -1,0 +1,72 @@
+{
+  "id": 1344161797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.72224,16.24013,-13.72224,16.24013",
+    "geom:latitude":16.24013,
+    "geom:longitude":-13.72224,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bagodine",
+    "gn:country_code":"MR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381231,
+    "gn:latitude":16.24013,
+    "gn:longitude":-13.72224,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagodine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagoudine",
+        "Bagodine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091694985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381231,
+        "wk:page":"Bagodine"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"91deb44521232ec1f57d6a8756ed63c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694985,
+            "locality_id":1344161797,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1344161797,
+    "wof:lastmodified":1537665813,
+    "wof:name":"Bagodine",
+    "wof:parent_id":1091694985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.72224,
+    16.24012999999999,
+    -13.72224,
+    16.24012999999999
+],
+  "geometry": {"coordinates":[-13.72224,16.24012999999999],"type":"Point"}
+}

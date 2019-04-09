@@ -1,0 +1,71 @@
+{
+  "id": 1327054269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.80672,16.04187,-12.80672,16.04187",
+    "geom:latitude":16.04187,
+    "geom:longitude":-12.80672,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tiale",
+    "gn:country_code":"MR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379586,
+    "gn:latitude":16.04187,
+    "gn:longitude":-12.80672,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ti\u00e2l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Filk\u00e9",
+        "Ti\u00e2l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379586
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c363b9f48f821bb77dc4ef5cf3229c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1327054269,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1327054269,
+    "wof:lastmodified":1537665805,
+    "wof:name":"Tiale",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.80672,
+    16.04187,
+    -12.80672,
+    16.04187
+],
+  "geometry": {"coordinates":[-12.80672,16.04187],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209423729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.838,16.6154,-9.838,16.6154",
+    "geom:latitude":16.6154,
+    "geom:longitude":-9.838,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Saouggani",
+    "gn:country_code":"MR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914216,
+    "gn:latitude":16.6154,
+    "gn:longitude":-9.838,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Saouggani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914216
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bff84769ff51b1f28b035de7868e88d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209423729
+        }
+    ],
+    "wof:id":1209423729,
+    "wof:lastmodified":1536287446,
+    "wof:name":"Saouggani",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.838,
+    16.6154,
+    -9.838,
+    16.6154
+],
+  "geometry": {"coordinates":[-9.838,16.6154],"type":"Point"}
+}

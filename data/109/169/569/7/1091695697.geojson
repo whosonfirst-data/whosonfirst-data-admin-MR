@@ -1,0 +1,88 @@
+{
+  "id": 1091695697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.766092,
+    "geom:area_square_m":32501864995.787659,
+    "geom:bbox":"-15.3127336603,16.9142803355,-12.6690063477,19.0004882813",
+    "geom:latitude":18.13305,
+    "geom:longitude":-14.122046,
+    "iso:country":"MR",
+    "lbl:latitude":18.231396,
+    "lbl:longitude":-14.142025,
+    "meso:adm1_name":"Trarza",
+    "meso:gadm_admin":"Boutilimit",
+    "meso:gadm_hasc2":"MR.TR.BT",
+    "meso:gaul_admin":"Boutilimit",
+    "meso:mps_x":-14.142025,
+    "meso:mps_y":18.231396,
+    "meso:name_local":"Boutilimit",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":18.231396,
+    "mps:longitude":-14.142025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Boutilimit"
+    ],
+    "name:eng_x_variant":[
+        "Boutilimit"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"",
+    "statoids:country":"MR",
+    "statoids:hasc":"MR.TR",
+    "statoids:name":"Boutilimit",
+    "statoids:population":"63193",
+    "statoids:statoid":"MR.TR.BT",
+    "statoids:timezone":"+0",
+    "statoids:type":"department",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MR.TR.BT"
+    },
+    "wof:country":"MR",
+    "wof:created":1473879552,
+    "wof:geomhash":"563da48559e5f502a43a997a4096620d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695697,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1091695697,
+    "wof:lastmodified":1536614939,
+    "wof:name":"Boutilimit",
+    "wof:parent_id":85674881,
+    "wof:placetype":"county",
+    "wof:placetype_local":"department",
+    "wof:population":63193,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"BT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31273366026741,
+    16.91428033548304,
+    -12.66900634765625,
+    19.00048828125004
+],
+  "geometry": {"coordinates":[[[-15.25673556736374,17.47270687165442],[-15.27133366026739,17.74447136831217],[-15.21803366026741,17.84047136831218],[-15.12433366026736,17.86237136831213],[-15.00403366026742,17.95817136831211],[-15.03213366026736,18.12697136831217],[-14.99663366026737,18.16727136831211],[-14.26208496093747,19.00048828125004],[-14.2216796875,19.00048828125004],[-13.24407958984376,19.00048828125004],[-12.66900634765625,18.55712890625004],[-13.453125,17.99987792968752],[-13.73358154296874,17.80010986328129],[-13.73362998524773,17.8000675921324],[-13.95867919921877,17.60369873046875],[-14.32012939453128,17.08807373046877],[-14.5625,16.91430664062501],[-14.56253596145992,16.91428033548304],[-14.61483366026738,17.11807136831219],[-14.64413366026739,17.14007136831216],[-14.65443366026741,17.14487136831212],[-14.66303366026737,17.15507136831212],[-14.68833366026735,17.16637136831219],[-14.87943366026742,17.20607136831214],[-15.00043366026737,17.24717136831212],[-15.17333366026737,17.36447136831217],[-15.31243366026737,17.31717136831213],[-15.31273366026741,17.31977136831214],[-15.2567336602674,17.47267136831211],[-15.25673556736374,17.47270687165442]]],"type":"Polygon"}
+}

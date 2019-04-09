@@ -1,0 +1,71 @@
+{
+  "id": 1259582357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06104,16.64882,-13.06104,16.64882",
+    "geom:latitude":16.64882,
+    "geom:longitude":-13.06104,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Barkewol",
+    "gn:country_code":"MR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381158,
+    "gn:latitude":16.64882,
+    "gn:longitude":-13.06104,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bark\u00e9wol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bark\u00e9ouol",
+        "Bark\u00e9wol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381158
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0c5c6cd955b86dd111ea14c6ea76a9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695533,
+            "locality_id":1259582357,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1259582357,
+    "wof:lastmodified":1537665812,
+    "wof:name":"Barkewol",
+    "wof:parent_id":1091695533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06104,
+    16.64882,
+    -13.06104,
+    16.64882
+],
+  "geometry": {"coordinates":[-13.06104,16.64882],"type":"Point"}
+}

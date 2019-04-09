@@ -1,0 +1,71 @@
+{
+  "id": 1293133861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44889,16.37552,-12.44889,16.37552",
+    "geom:latitude":16.37552,
+    "geom:longitude":-12.44889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Harach",
+    "gn:country_code":"MR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378388,
+    "gn:latitude":16.37552,
+    "gn:longitude":-12.44889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Harach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larach",
+        "El Harach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378388
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"fb15d36331813b4eb3af5c017ca714ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1293133861,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1293133861,
+    "wof:lastmodified":1537665801,
+    "wof:name":"El Harach",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44889,
+    16.37552,
+    -12.44889,
+    16.37552
+],
+  "geometry": {"coordinates":[-12.44889,16.37552],"type":"Point"}
+}

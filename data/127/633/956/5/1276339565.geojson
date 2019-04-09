@@ -1,0 +1,71 @@
+{
+  "id": 1276339565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.04855,16.82983,-13.04855,16.82983",
+    "geom:latitude":16.82983,
+    "geom:longitude":-13.04855,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Aguini",
+    "gn:country_code":"MR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381829,
+    "gn:latitude":16.82983,
+    "gn:longitude":-13.04855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aguini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguinni",
+        "Aguini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381829
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"aefb1d80c60080fe1d21a6693c8ae6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695533,
+            "locality_id":1276339565,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1276339565,
+    "wof:lastmodified":1537665814,
+    "wof:name":"Aguini",
+    "wof:parent_id":1091695533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.04855,
+    16.82983,
+    -13.04855,
+    16.82983
+],
+  "geometry": {"coordinates":[-13.04855,16.82983],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327052901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.90351,16.28915,-13.90351,16.28915",
+    "geom:latitude":16.28915,
+    "geom:longitude":-13.90351,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Abdallah Dieri",
+    "gn:country_code":"MR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382075,
+    "gn:latitude":16.28915,
+    "gn:longitude":-13.90351,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abdallah Di\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdallah Diori",
+        "Abdallah Di\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382075
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4d0389f661a7449fa193cd7cabcdf533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1327052901,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1327052901,
+    "wof:lastmodified":1537665815,
+    "wof:name":"Abdallah Dieri",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.90351,
+    16.28915,
+    -13.90351,
+    16.28915
+],
+  "geometry": {"coordinates":[-13.90351,16.28915],"type":"Point"}
+}

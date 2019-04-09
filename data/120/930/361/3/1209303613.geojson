@@ -1,0 +1,61 @@
+{
+  "id": 1209303613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.07349,15.01925,-12.07349,15.01925",
+    "geom:latitude":15.01925,
+    "geom:longitude":-12.07349,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mbalou",
+    "gn:country_code":"MR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378067,
+    "gn:latitude":15.01925,
+    "gn:longitude":-12.07349,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"Mbalou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378067
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b03ccb70e56c31c9168430b5c9b0cc33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209303613
+        }
+    ],
+    "wof:id":1209303613,
+    "wof:lastmodified":1536291271,
+    "wof:name":"Mbalou",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.07349,
+    15.01925,
+    -12.07349,
+    15.01925
+],
+  "geometry": {"coordinates":[-12.07349,15.01925],"type":"Point"}
+}

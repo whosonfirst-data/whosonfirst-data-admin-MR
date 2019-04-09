@@ -1,0 +1,61 @@
+{
+  "id": 1209112201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81435,15.63086,-12.81435,15.63086",
+    "geom:latitude":15.63086,
+    "geom:longitude":-12.81435,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tacheur",
+    "gn:country_code":"MR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376578,
+    "gn:latitude":15.63086,
+    "gn:longitude":-12.81435,
+    "gn:modification_date":"2007-11-27",
+    "gn:name":"Tacheur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376578
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"15cb080699f3ad9f608219c1b5b766b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209112201
+        }
+    ],
+    "wof:id":1209112201,
+    "wof:lastmodified":1536297369,
+    "wof:name":"Tacheur",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81435,
+    15.63086,
+    -12.81435,
+    15.63086
+],
+  "geometry": {"coordinates":[-12.81435,15.63086],"type":"Point"}
+}

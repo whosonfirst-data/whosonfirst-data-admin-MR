@@ -1,0 +1,61 @@
+{
+  "id": 1209095377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.06693,15.23898,-12.06693,15.23898",
+    "geom:latitude":15.23898,
+    "geom:longitude":-12.06693,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Amague-Bedia",
+    "gn:country_code":"MR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381640,
+    "gn:latitude":15.23898,
+    "gn:longitude":-12.06693,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"Amagu\u00e9-B\u00e9dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381640
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f85d9e3dc010f5edeea17e0c1b709e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209095377
+        }
+    ],
+    "wof:id":1209095377,
+    "wof:lastmodified":1536297903,
+    "wof:name":"Amague-Bedia",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.06693,
+    15.238979999999998,
+    -12.06693,
+    15.238979999999998
+],
+  "geometry": {"coordinates":[-12.06693,15.23898],"type":"Point"}
+}

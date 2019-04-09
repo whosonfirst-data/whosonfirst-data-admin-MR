@@ -1,0 +1,67 @@
+{
+  "id": 1310600423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.30417,16.66525,-14.30417,16.66525",
+    "geom:latitude":16.66525,
+    "geom:longitude":-14.30417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sare Ndogou Boubakar Baili",
+    "gn:country_code":"MR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376794,
+    "gn:latitude":16.66525,
+    "gn:longitude":-14.30417,
+    "gn:modification_date":"2007-09-19",
+    "gn:name":"Sar\u00e9 Ndogou Boubakar Ba\u00efli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376794
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"3b55e456613896dee223f7ad9c4453a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695129,
+            "locality_id":1310600423,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1310600423,
+    "wof:lastmodified":1536780530,
+    "wof:name":"Sare Ndogou Boubakar Baili",
+    "wof:parent_id":1091695129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.30417,
+    16.66525,
+    -14.30417,
+    16.66525
+],
+  "geometry": {"coordinates":[-14.30417,16.66525],"type":"Point"}
+}

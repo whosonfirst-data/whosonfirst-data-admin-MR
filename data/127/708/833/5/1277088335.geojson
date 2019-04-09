@@ -1,0 +1,67 @@
+{
+  "id": 1277088335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1962,16.5467,-7.1962,16.5467",
+    "geom:latitude":16.5467,
+    "geom:longitude":-7.1962,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Aouinet Oulad Niari",
+    "gn:country_code":"MR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893472,
+    "gn:latitude":16.5467,
+    "gn:longitude":-7.1962,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"\u2018Aou\u00eenet Oul\u00e2d Ni\u00e2ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893472
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d65bc82de48ea108ab13440692463e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":1277088335,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1277088335,
+    "wof:lastmodified":1536759655,
+    "wof:name":"`Aouinet Oulad Niari",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1962,
+    16.5467,
+    -7.1962,
+    16.5467
+],
+  "geometry": {"coordinates":[-7.1962,16.5467],"type":"Point"}
+}

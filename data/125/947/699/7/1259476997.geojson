@@ -1,0 +1,71 @@
+{
+  "id": 1259476997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.71467,15.54038,-11.71467,15.54038",
+    "geom:latitude":15.54038,
+    "geom:longitude":-11.71467,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ould Yenje",
+    "gn:country_code":"MR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377211,
+    "gn:latitude":15.54038,
+    "gn:longitude":-11.71467,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ould Yenj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ould Yanja",
+        "Ould Yenj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377211
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"665c8ac2a99a3dc4e860c4595aa5ddcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1259476997,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1259476997,
+    "wof:lastmodified":1537665796,
+    "wof:name":"Ould Yenje",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.71467,
+    15.54038,
+    -11.71467,
+    15.54038
+],
+  "geometry": {"coordinates":[-11.71467,15.54038],"type":"Point"}
+}

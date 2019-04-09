@@ -1,0 +1,89 @@
+{
+  "id": 1091695295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.839796,
+    "geom:area_square_m":9961089594.547775,
+    "geom:bbox":"-7.92433366027,15.7922713683,-6.71133366027,17.0288713683",
+    "geom:latitude":16.409599,
+    "geom:longitude":-7.316029,
+    "iso:country":"MR",
+    "lbl:latitude":16.475326,
+    "lbl:longitude":-7.256098,
+    "meso:adm1_name":"Hodh Ech Chargi",
+    "meso:gadm_admin":"N\u00e9ma",
+    "meso:gadm_hasc2":"MR.HC.NE",
+    "meso:gaul_admin":"Nema",
+    "meso:mps_x":-7.256098,
+    "meso:mps_y":16.475326,
+    "meso:name_local":"Nema",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":16.475326,
+    "mps:longitude":-7.256098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:eng_x_variant":[
+        "Nema",
+        "N\u00e9ma"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"",
+    "statoids:country":"MR",
+    "statoids:hasc":"MR.HC",
+    "statoids:name":"N\u00e9ma",
+    "statoids:population":"87048",
+    "statoids:statoid":"MR.HC.NE",
+    "statoids:timezone":"+0",
+    "statoids:type":"department",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MR.HC.NE"
+    },
+    "wof:country":"MR",
+    "wof:created":1473879536,
+    "wof:geomhash":"0af50bd83780ce4a11fcf7acb4234248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1091695295,
+    "wof:lastmodified":1536614938,
+    "wof:name":"Nema",
+    "wof:parent_id":85674901,
+    "wof:placetype":"county",
+    "wof:placetype_local":"department",
+    "wof:population":87048,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"NE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92433366026736,
+    15.79227136831214,
+    -6.71133366026736,
+    17.02887136831215
+],
+  "geometry": {"coordinates":[[[-6.71133366026736,16.73747136831219],[-6.71193366026736,16.72907136831217],[-6.75663366026739,16.06327136831219],[-6.75693366026743,16.05967136831213],[-7.33373366026741,16.12677136831218],[-7.33703366026742,16.12247136831211],[-7.49213366026743,16.01807136831218],[-7.82733366026739,15.79227136831214],[-7.80903366026741,15.83937136831216],[-7.85313366026735,16.16477136831217],[-7.85133366026737,16.16787136831216],[-7.87363366026738,16.33097136831213],[-7.87713366026742,16.35677136831218],[-7.81813366026743,16.55177136831217],[-7.81693366026736,16.55557136831217],[-7.82443366026743,16.56107136831213],[-7.91693366026739,16.62957136831212],[-7.92263366026739,16.63377136831217],[-7.92433366026736,16.63557136831216],[-7.2879336602674,16.84687136831212],[-7.2752336602674,16.85107136831217],[-7.25383366026743,17.01407136831213],[-7.25283366026738,17.02197136831217],[-7.25083366026736,17.02887136831215],[-6.95603366026737,16.70527136831213],[-6.71133366026736,16.73747136831219]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242582395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96908,16.56067,-12.96908,16.56067",
+    "geom:latitude":16.56067,
+    "geom:longitude":-12.96908,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bahara",
+    "gn:country_code":"MR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380893,
+    "gn:latitude":16.56067,
+    "gn:longitude":-12.96908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bahara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u00fb Ou\u00e2ra",
+        "Bouara",
+        "Bahara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380893
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c613da2b1d9a64ff151f48c05c56b6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695173,
+            "locality_id":1242582395,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1242582395,
+    "wof:lastmodified":1537665811,
+    "wof:name":"Bahara",
+    "wof:parent_id":1091695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96908,
+    16.56067,
+    -12.96908,
+    16.56067
+],
+  "geometry": {"coordinates":[-12.96908,16.56067],"type":"Point"}
+}

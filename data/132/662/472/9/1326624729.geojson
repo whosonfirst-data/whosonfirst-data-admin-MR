@@ -1,0 +1,80 @@
+{
+  "id": 1326624729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.03953,19.94369,-13.03953,19.94369",
+    "geom:latitude":19.94369,
+    "geom:longitude":-13.03953,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"9212615.0",
+    "gn:asciiname":"Tinial",
+    "gn:country_code":"MR",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11395611,
+    "gn:latitude":19.94369,
+    "gn:longitude":-13.03953,
+    "gn:modification_date":"2016-12-15",
+    "gn:name":"Tinial",
+    "gn:population":70,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_historical":[
+        "Lekhnagh"
+    ],
+    "name:fra_x_preferred":[
+        "Jouali"
+    ],
+    "name:fra_x_variant":[
+        "Lekhnagh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395611
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ff3c696844a8856517ee16a3fa9ca474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1326624729,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1326624729,
+    "wof:lastmodified":1537665817,
+    "wof:name":"Tinial",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.03953,
+    19.94369,
+    -13.03953,
+    19.94369
+],
+  "geometry": {"coordinates":[-13.03953,19.94369],"type":"Point"}
+}

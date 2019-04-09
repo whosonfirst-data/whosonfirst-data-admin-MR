@@ -1,0 +1,67 @@
+{
+  "id": 1243161233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22905,15.08902,-12.22905,15.08902",
+    "geom:latitude":15.08902,
+    "geom:longitude":-12.22905,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mamaeli",
+    "gn:country_code":"MR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378122,
+    "gn:latitude":15.08902,
+    "gn:longitude":-12.22905,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"Mama\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378122
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"3ee56ceaea667f8975d088fa2d6efb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1243161233,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1243161233,
+    "wof:lastmodified":1536720141,
+    "wof:name":"Mamaeli",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22905,
+    15.08902,
+    -12.22905,
+    15.08902
+],
+  "geometry": {"coordinates":[-12.22905,15.08902],"type":"Point"}
+}

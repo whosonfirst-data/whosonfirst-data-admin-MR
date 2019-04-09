@@ -1,0 +1,71 @@
+{
+  "id": 1292908373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.31579,16.88357,-13.31579,16.88357",
+    "geom:latitude":16.88357,
+    "geom:longitude":-13.31579,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bofal",
+    "gn:country_code":"MR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380821,
+    "gn:latitude":16.88357,
+    "gn:longitude":-13.31579,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bofal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boufal",
+        "Bofal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380821
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c2cb17e5f95bb63981bea4573dbb0fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695533,
+            "locality_id":1292908373,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1292908373,
+    "wof:lastmodified":1537665810,
+    "wof:name":"Bofal",
+    "wof:parent_id":1091695533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.31579,
+    16.88357,
+    -13.31579,
+    16.88357
+],
+  "geometry": {"coordinates":[-13.31579,16.88357],"type":"Point"}
+}

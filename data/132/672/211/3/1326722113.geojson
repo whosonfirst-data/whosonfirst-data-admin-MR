@@ -1,0 +1,67 @@
+{
+  "id": 1326722113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.1399,20.33449,-13.1399,20.33449",
+    "geom:latitude":20.33449,
+    "geom:longitude":-13.1399,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taouarit",
+    "gn:country_code":"MR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405049,
+    "gn:latitude":20.33449,
+    "gn:longitude":-13.1399,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Taou\u00e2r\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405049
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6bcb5186cccda6d1aa9b0745d5d1327f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1326722113,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1326722113,
+    "wof:lastmodified":1536710729,
+    "wof:name":"Taouarit",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.1399,
+    20.33449,
+    -13.1399,
+    20.33449
+],
+  "geometry": {"coordinates":[-13.1399,20.33449],"type":"Point"}
+}

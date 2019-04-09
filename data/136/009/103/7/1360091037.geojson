@@ -1,0 +1,71 @@
+{
+  "id": 1360091037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.08493,16.23181,-13.08493,16.23181",
+    "geom:latitude":16.23181,
+    "geom:longitude":-13.08493,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ngappougou",
+    "gn:country_code":"MR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377518,
+    "gn:latitude":16.23181,
+    "gn:longitude":-13.08493,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngappougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngapougou",
+        "Ngappougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377518
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ffc6e219b4eec5732cc77e4168c0ecb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1360091037,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1360091037,
+    "wof:lastmodified":1537665798,
+    "wof:name":"Ngappougou",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.08493,
+    16.23181,
+    -13.08493,
+    16.23181
+],
+  "geometry": {"coordinates":[-13.08493,16.23181],"type":"Point"}
+}

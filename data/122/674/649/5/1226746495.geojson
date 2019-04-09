@@ -1,0 +1,67 @@
+{
+  "id": 1226746495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.26531,16.56718,-14.26531,16.56718",
+    "geom:latitude":16.56718,
+    "geom:longitude":-14.26531,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tienel",
+    "gn:country_code":"MR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650577,
+    "gn:latitude":16.56718,
+    "gn:longitude":-14.26531,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Ti\u00e9nel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650577
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"353637d7d98cbe9037c3ad179c4b2b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695129,
+            "locality_id":1226746495,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1226746495,
+    "wof:lastmodified":1536714756,
+    "wof:name":"Tienel",
+    "wof:parent_id":1091695129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.26531,
+    16.56718,
+    -14.26531,
+    16.56718
+],
+  "geometry": {"coordinates":[-14.26531,16.56718],"type":"Point"}
+}

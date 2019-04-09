@@ -1,0 +1,67 @@
+{
+  "id": 1209524077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36528,15.81722,-9.36528,15.81722",
+    "geom:latitude":15.81722,
+    "geom:longitude":-9.36528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kobenni",
+    "gn:cc2":"MR",
+    "gn:country_code":"MR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597437,
+    "gn:latitude":15.81722,
+    "gn:longitude":-9.36528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kobenni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobonni",
+        "Kobenni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597437,
+        "wk:page":"Kobenni"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"47fb17757b984ab9821ff4229293fad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209524077
+        }
+    ],
+    "wof:id":1209524077,
+    "wof:lastmodified":1537665815,
+    "wof:name":"Kobenni",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36528,
+    15.81722,
+    -9.36528,
+    15.81722
+],
+  "geometry": {"coordinates":[-9.36528,15.81722],"type":"Point"}
+}

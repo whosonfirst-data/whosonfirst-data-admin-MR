@@ -1,0 +1,67 @@
+{
+  "id": 1242589339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.27685,15.66478,-11.27685,15.66478",
+    "geom:latitude":15.66478,
+    "geom:longitude":-11.27685,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lehoueidni",
+    "gn:country_code":"MR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378332,
+    "gn:latitude":15.66478,
+    "gn:longitude":-11.27685,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"L\u00e9houe\u00efdni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378332
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"904ad9b69286bd178eaa2dce358d573b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":1242589339,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1242589339,
+    "wof:lastmodified":1537044814,
+    "wof:name":"Lehoueidni",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.27685,
+    15.66478,
+    -11.27685,
+    15.66478
+],
+  "geometry": {"coordinates":[-11.27685,15.66478],"type":"Point"}
+}

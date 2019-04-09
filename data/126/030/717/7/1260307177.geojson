@@ -1,0 +1,67 @@
+{
+  "id": 1260307177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.00679,20.23441,-13.00679,20.23441",
+    "geom:latitude":20.23441,
+    "geom:longitude":-13.00679,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Toumbahjit",
+    "gn:country_code":"MR",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7395467,
+    "gn:latitude":20.23441,
+    "gn:longitude":-13.00679,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Toumbahj\u00ee\u1e6d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7395467
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"828d1c0cf5f5c9cae9ec5ef404f11671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1260307177,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1260307177,
+    "wof:lastmodified":1536680184,
+    "wof:name":"Toumbahjit",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.00679,
+    20.23441,
+    -13.00679,
+    20.23441
+],
+  "geometry": {"coordinates":[-13.00679,20.23441],"type":"Point"}
+}

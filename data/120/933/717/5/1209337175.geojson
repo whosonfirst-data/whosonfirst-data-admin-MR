@@ -1,0 +1,65 @@
+{
+  "id": 1209337175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.92791,16.31368,-13.92791,16.31368",
+    "geom:latitude":16.31368,
+    "geom:longitude":-13.92791,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vane Vane",
+    "gn:country_code":"MR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375712,
+    "gn:latitude":16.31368,
+    "gn:longitude":-13.92791,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vane Vane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vannvane",
+        "Vane Vane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375712
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a27eaa62c5fab8f3083a10dfb0b5b8c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209337175
+        }
+    ],
+    "wof:id":1209337175,
+    "wof:lastmodified":1537665790,
+    "wof:name":"Vane Vane",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.92791,
+    16.31368,
+    -13.92791,
+    16.31368
+],
+  "geometry": {"coordinates":[-13.92791,16.31368],"type":"Point"}
+}

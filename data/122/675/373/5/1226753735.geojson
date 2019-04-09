@@ -1,0 +1,67 @@
+{
+  "id": 1226753735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.69226,15.94416,-12.69226,15.94416",
+    "geom:latitude":15.94416,
+    "geom:longitude":-12.69226,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nemahidi",
+    "gn:country_code":"MR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377536,
+    "gn:latitude":15.94416,
+    "gn:longitude":-12.69226,
+    "gn:modification_date":"2007-11-26",
+    "gn:name":"Nemahidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377536
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"33d923a6c0a6c2743f7ff62e9f96740f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1226753735,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1226753735,
+    "wof:lastmodified":1536704240,
+    "wof:name":"Nemahidi",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.69226,
+    15.94416,
+    -12.69226,
+    15.94416
+],
+  "geometry": {"coordinates":[-12.69226,15.94416],"type":"Point"}
+}

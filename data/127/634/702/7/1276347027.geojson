@@ -1,0 +1,71 @@
+{
+  "id": 1276347027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.68526,16.93318,-12.68526,16.93318",
+    "geom:latitude":16.93318,
+    "geom:longitude":-12.68526,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"'Aleib",
+    "gn:country_code":"MR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381657,
+    "gn:latitude":16.93318,
+    "gn:longitude":-12.68526,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2019Ale\u00efb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00caleib",
+        "\u2019Ale\u00efb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381657
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"8f8badc406260a0d0d9b1337298d065f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":1276347027,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1276347027,
+    "wof:lastmodified":1537665814,
+    "wof:name":"'Aleib",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.68526,
+    16.93318,
+    -12.68526,
+    16.93318
+],
+  "geometry": {"coordinates":[-12.68526,16.93318],"type":"Point"}
+}

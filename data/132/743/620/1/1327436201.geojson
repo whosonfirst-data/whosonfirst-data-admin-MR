@@ -1,0 +1,71 @@
+{
+  "id": 1327436201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.74413,16.1605,-13.74413,16.1605",
+    "geom:latitude":16.1605,
+    "geom:longitude":-13.74413,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dawalel",
+    "gn:country_code":"MR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380409,
+    "gn:latitude":16.1605,
+    "gn:longitude":-13.74413,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e2walel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daoua",
+        "D\u00e2walel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091694985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380409
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bc7b2a7fc75ce02592bba90baf077e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694985,
+            "locality_id":1327436201,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1327436201,
+    "wof:lastmodified":1537665809,
+    "wof:name":"Dawalel",
+    "wof:parent_id":1091694985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.74413,
+    16.1605,
+    -13.74413,
+    16.1605
+],
+  "geometry": {"coordinates":[-13.74413,16.1605],"type":"Point"}
+}

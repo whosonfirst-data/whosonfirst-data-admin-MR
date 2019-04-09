@@ -1,0 +1,72 @@
+{
+  "id": 1327317581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.85106,15.05655,-11.85106,15.05655",
+    "geom:latitude":15.05655,
+    "geom:longitude":-11.85106,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Baediam",
+    "gn:country_code":"MR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381236,
+    "gn:latitude":15.05655,
+    "gn:longitude":-11.85106,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ba\u00e9diam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boediam",
+        "Ba\u00e9diam\u00e9",
+        "Ba\u00e9diam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381236
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"dd7b34ca1d88c502c7000f527210046e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1327317581,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1327317581,
+    "wof:lastmodified":1537665813,
+    "wof:name":"Baediam",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.85106,
+    15.05655,
+    -11.85106,
+    15.05655
+],
+  "geometry": {"coordinates":[-11.85106,15.05655],"type":"Point"}
+}

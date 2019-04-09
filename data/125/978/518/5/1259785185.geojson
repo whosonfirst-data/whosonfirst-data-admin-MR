@@ -1,0 +1,67 @@
+{
+  "id": 1259785185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.29936,15.52341,-11.29936,15.52341",
+    "geom:latitude":15.52341,
+    "geom:longitude":-11.29936,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Derik Guirfafe",
+    "gn:country_code":"MR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380329,
+    "gn:latitude":15.52341,
+    "gn:longitude":-11.29936,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"D\u00e9rik Guirfaf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380329
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f0144b39151b8037b8b8f6fdfc3495cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":1259785185,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1259785185,
+    "wof:lastmodified":1536921363,
+    "wof:name":"Derik Guirfafe",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.29936,
+    15.52341,
+    -11.29936,
+    15.52341
+],
+  "geometry": {"coordinates":[-11.29936,15.52341],"type":"Point"}
+}

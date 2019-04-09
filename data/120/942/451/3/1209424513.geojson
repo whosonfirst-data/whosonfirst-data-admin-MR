@@ -1,0 +1,65 @@
+{
+  "id": 1209424513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96138,15.18529,-6.96138,15.18529",
+    "geom:latitude":15.18529,
+    "geom:longitude":-6.96138,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Segue",
+    "gn:country_code":"MR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451462,
+    "gn:latitude":15.18529,
+    "gn:longitude":-6.96138,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9g\u00e9",
+        "S\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451462
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"badf2830cf57c9ef9afe8a7bc89a60aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209424513
+        }
+    ],
+    "wof:id":1209424513,
+    "wof:lastmodified":1537665815,
+    "wof:name":"Segue",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96138,
+    15.18529,
+    -6.96138,
+    15.18529
+],
+  "geometry": {"coordinates":[-6.96138,15.18529],"type":"Point"}
+}

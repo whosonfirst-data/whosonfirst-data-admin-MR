@@ -1,0 +1,89 @@
+{
+  "id": 1091695431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.500701,
+    "geom:area_square_m":17758620654.377102,
+    "geom:bbox":"-10.0050336603,16.1756713683,-8.28918457031,17.5565185547",
+    "geom:latitude":16.851361,
+    "geom:longitude":-9.273798,
+    "iso:country":"MR",
+    "lbl:latitude":16.817561,
+    "lbl:longitude":-9.290018,
+    "meso:adm1_name":"Hodh El Gharbi",
+    "meso:gadm_admin":"A\u00efoun",
+    "meso:gadm_hasc2":"MR.HG.AI",
+    "meso:gaul_admin":"Aioun",
+    "meso:mps_x":-9.290018,
+    "meso:mps_y":16.817561,
+    "meso:name_local":"Aioun",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":16.817561,
+    "mps:longitude":-9.290018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "A\u00efoun"
+    ],
+    "name:eng_x_variant":[
+        "Aioun",
+        "A\u00efoun"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"",
+    "statoids:country":"MR",
+    "statoids:hasc":"MR.HG",
+    "statoids:name":"A\u00efoun",
+    "statoids:population":"65237",
+    "statoids:statoid":"MR.HG.AI",
+    "statoids:timezone":"+0",
+    "statoids:type":"department",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MR.HG.AI"
+    },
+    "wof:country":"MR",
+    "wof:created":1473879542,
+    "wof:geomhash":"d3a042b8ca6fce7717a8ba41aa7b51a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1091695431,
+    "wof:lastmodified":1536614939,
+    "wof:name":"Aioun",
+    "wof:parent_id":85674905,
+    "wof:placetype":"county",
+    "wof:placetype_local":"department",
+    "wof:population":65237,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"AI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0050336602674,
+    16.17567136831218,
+    -8.28918457031252,
+    17.55651855468752
+],
+  "geometry": {"coordinates":[[[-9.72259521484372,17.55651855468752],[-9.715087890625,17.55090332031254],[-9.14959716796878,17.28228759765623],[-8.59832763671874,17.35070800781251],[-8.46008300781252,17.20428466796874],[-8.28918457031252,17.02307128906247],[-8.28920908813727,17.02304533901485],[-8.51800537109372,16.78088378906251],[-8.68652343749997,16.60131835937502],[-8.75042724609373,16.53192138671871],[-8.89367675781249,16.39190673828129],[-8.89398769326472,16.39167841959671],[-9.08313366026742,16.32247136831218],[-9.11773366026737,16.31517136831214],[-9.1592336602674,16.30487136831212],[-9.18163366026742,16.3015713683121],[-9.32713366026742,16.28017136831213],[-9.55623366026738,16.20167136831217],[-9.6396336602674,16.24807136831217],[-9.8283336602674,16.24157136831215],[-9.93773366026741,16.17827136831219],[-9.94223366026742,16.17567136831218],[-9.94763366026737,16.39647136831213],[-9.9719336602674,16.47037136831216],[-9.95253366026744,16.5671713683121],[-9.95333366026737,16.57227136831219],[-10.0050336602674,16.88897136831214],[-9.72593366026738,17.54857136831215],[-9.72259521484372,17.55651855468752]]],"type":"Polygon"}
+}

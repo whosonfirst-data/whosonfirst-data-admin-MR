@@ -1,0 +1,67 @@
+{
+  "id": 1226350029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.24782,15.96408,-11.24782,15.96408",
+    "geom:latitude":15.96408,
+    "geom:longitude":-11.24782,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mkhaizine",
+    "gn:country_code":"MR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377880,
+    "gn:latitude":15.96408,
+    "gn:longitude":-11.24782,
+    "gn:modification_date":"2007-09-17",
+    "gn:name":"Mkha\u00efzine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377880
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0895c946df020b697d9d16ba224d30eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":1226350029,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1226350029,
+    "wof:lastmodified":1536783704,
+    "wof:name":"Mkhaizine",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.24782,
+    15.96408,
+    -11.24782,
+    15.96408
+],
+  "geometry": {"coordinates":[-11.24782,15.96408],"type":"Point"}
+}

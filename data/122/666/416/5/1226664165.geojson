@@ -1,0 +1,67 @@
+{
+  "id": 1226664165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.53333,16.56667,-15.53333,16.56667",
+    "geom:latitude":16.56667,
+    "geom:longitude":-15.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Keur Koure",
+    "gn:country_code":"MR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378649,
+    "gn:latitude":16.56667,
+    "gn:longitude":-15.53333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Keur Kour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378649
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6062543b0fd45d20acb879a1829b71b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695159,
+            "locality_id":1226664165,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1226664165,
+    "wof:lastmodified":1536831951,
+    "wof:name":"Keur Koure",
+    "wof:parent_id":1091695159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.53333,
+    16.56667,
+    -15.53333,
+    16.56667
+],
+  "geometry": {"coordinates":[-15.53333,16.56667],"type":"Point"}
+}

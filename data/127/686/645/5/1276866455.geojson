@@ -1,0 +1,67 @@
+{
+  "id": 1276866455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.25167,17.96444,-12.25167,17.96444",
+    "geom:latitude":17.96444,
+    "geom:longitude":-12.25167,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"N'Beika",
+    "gn:country_code":"MR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9230356,
+    "gn:latitude":17.96444,
+    "gn:longitude":-12.25167,
+    "gn:modification_date":"2014-07-17",
+    "gn:name":"N'Beika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674909,
+        1091695647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9230356
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"fb04b6b2056290620b1eaf2098d2b335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695647,
+            "locality_id":1276866455,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":1276866455,
+    "wof:lastmodified":1537056667,
+    "wof:name":"N'Beika",
+    "wof:parent_id":1091695647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.25167,
+    17.96444,
+    -12.25167,
+    17.96444
+],
+  "geometry": {"coordinates":[-12.25167,17.96444],"type":"Point"}
+}

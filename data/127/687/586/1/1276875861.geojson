@@ -1,0 +1,67 @@
+{
+  "id": 1276875861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4567,15.5025,-9.4567,15.5025",
+    "geom:latitude":15.5025,
+    "geom:longitude":-9.4567,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dabai Sonkarou",
+    "gn:country_code":"MR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380452,
+    "gn:latitude":15.5025,
+    "gn:longitude":-9.4567,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Daba\u00ef Sonkarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380452
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c88b25245873b7a913f4e72d5ed260d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":1276875861,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1276875861,
+    "wof:lastmodified":1537044638,
+    "wof:name":"Dabai Sonkarou",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4567,
+    15.5025,
+    -9.4567,
+    15.5025
+],
+  "geometry": {"coordinates":[-9.4567,15.5025],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259993563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97333,15.67192,-7.97333,15.67192",
+    "geom:latitude":15.67192,
+    "geom:longitude":-7.97333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yengui",
+    "gn:country_code":"MR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375678,
+    "gn:latitude":15.67192,
+    "gn:longitude":-7.97333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00e8ngui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00e8ngi",
+        "Y\u00e8ngui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375678
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7c187eee6e403411952aa3ef78669f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":1259993563,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1259993563,
+    "wof:lastmodified":1537665790,
+    "wof:name":"Yengui",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97333,
+    15.67192,
+    -7.97333,
+    15.67192
+],
+  "geometry": {"coordinates":[-7.97333,15.67192],"type":"Point"}
+}

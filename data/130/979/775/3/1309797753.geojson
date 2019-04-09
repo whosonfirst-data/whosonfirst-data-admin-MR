@@ -1,0 +1,67 @@
+{
+  "id": 1309797753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.00702,20.24491,-13.00702,20.24491",
+    "geom:latitude":20.24491,
+    "geom:longitude":-13.00702,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tnakel er Reg",
+    "gn:country_code":"MR",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7395469,
+    "gn:latitude":20.24491,
+    "gn:longitude":-13.00702,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Tn\u00e2kel er Reg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7395469
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"03aa2e526c14279ad97890b56324cbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1309797753,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1309797753,
+    "wof:lastmodified":1536943243,
+    "wof:name":"Tnakel er Reg",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.00702,
+    20.24491,
+    -13.00702,
+    20.24491
+],
+  "geometry": {"coordinates":[-13.00702,20.24491],"type":"Point"}
+}

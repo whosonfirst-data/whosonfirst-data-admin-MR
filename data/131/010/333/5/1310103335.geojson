@@ -1,0 +1,71 @@
+{
+  "id": 1310103335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.86379,16.75225,-14.86379,16.75225",
+    "geom:latitude":16.75225,
+    "geom:longitude":-14.86379,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dar Cheikh Abdallai",
+    "gn:country_code":"MR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380402,
+    "gn:latitude":16.75225,
+    "gn:longitude":-14.86379,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar Che\u00efkh Abdalla\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar-Cheikh-Abdallaye",
+        "Dar Che\u00efkh Abdalla\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380402
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1d34af0b0407da2004aec2c7275b60e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695385,
+            "locality_id":1310103335,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1310103335,
+    "wof:lastmodified":1537665809,
+    "wof:name":"Dar Cheikh Abdallai",
+    "wof:parent_id":1091695385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.86379,
+    16.75225,
+    -14.86379,
+    16.75225
+],
+  "geometry": {"coordinates":[-14.86379,16.75225],"type":"Point"}
+}

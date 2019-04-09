@@ -1,0 +1,71 @@
+{
+  "id": 1293006607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.48859,16.26162,-13.48859,16.26162",
+    "geom:latitude":16.26162,
+    "geom:longitude":-13.48859,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mbidane Alambe",
+    "gn:country_code":"MR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378035,
+    "gn:latitude":16.26162,
+    "gn:longitude":-13.48859,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbid\u00e2ne Alamb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbid\u00e2ne el Ambat",
+        "Mbid\u00e2ne Alamb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378035
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2226b3cf8063647e635232af27bb759e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1293006607,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1293006607,
+    "wof:lastmodified":1537665800,
+    "wof:name":"Mbidane Alambe",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.48859,
+    16.26162,
+    -13.48859,
+    16.26162
+],
+  "geometry": {"coordinates":[-13.48859,16.26162],"type":"Point"}
+}

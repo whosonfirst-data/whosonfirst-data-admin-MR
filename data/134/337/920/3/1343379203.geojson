@@ -1,0 +1,71 @@
+{
+  "id": 1343379203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.30924,15.84606,-12.30924,15.84606",
+    "geom:latitude":15.84606,
+    "geom:longitude":-12.30924,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Debouss",
+    "gn:country_code":"MR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380379,
+    "gn:latitude":15.84606,
+    "gn:longitude":-12.30924,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9bouss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9bous",
+        "D\u00e9bouss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380379
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a2eac98470313755cbdd04e62f73ee5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1343379203,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1343379203,
+    "wof:lastmodified":1537665809,
+    "wof:name":"Debouss",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.30924,
+    15.84606,
+    -12.30924,
+    15.84606
+],
+  "geometry": {"coordinates":[-12.30924,15.84606],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293199871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.94957,16.26439,-13.94957,16.26439",
+    "geom:latitude":16.26439,
+    "geom:longitude":-13.94957,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Diammel Vidim",
+    "gn:country_code":"MR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380300,
+    "gn:latitude":16.26439,
+    "gn:longitude":-13.94957,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diammel Vidim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diamel Vidim",
+        "Diammel Vidim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380300
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4f0e01624ea6b0e19b0d87591ee19019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1293199871,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1293199871,
+    "wof:lastmodified":1537665808,
+    "wof:name":"Diammel Vidim",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.94957,
+    16.26439,
+    -13.94957,
+    16.26439
+],
+  "geometry": {"coordinates":[-13.94957,16.26439],"type":"Point"}
+}

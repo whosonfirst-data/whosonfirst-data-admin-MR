@@ -1,0 +1,71 @@
+{
+  "id": 1259396589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.79677,15.99678,-8.79677,15.99678",
+    "geom:latitude":15.99678,
+    "geom:longitude":-8.79677,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ziwaz",
+    "gn:country_code":"MR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375588,
+    "gn:latitude":15.99678,
+    "gn:longitude":-8.79677,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ziwaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziouaz",
+        "Ziwaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375588
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4fc89c5970c19186a3f3a7e6d95088a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695039,
+            "locality_id":1259396589,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1259396589,
+    "wof:lastmodified":1537665789,
+    "wof:name":"Ziwaz",
+    "wof:parent_id":1091695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.79677,
+    15.99678,
+    -8.79677,
+    15.99678
+],
+  "geometry": {"coordinates":[-8.79677,15.99678],"type":"Point"}
+}

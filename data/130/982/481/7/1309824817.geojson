@@ -1,0 +1,68 @@
+{
+  "id": 1309824817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.03556,17.075,-12.03556,17.075",
+    "geom:latitude":17.075,
+    "geom:longitude":-12.03556,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kamour",
+    "gn:country_code":"MR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9222768,
+    "gn:latitude":17.075,
+    "gn:longitude":-12.03556,
+    "gn:modification_date":"2014-07-16",
+    "gn:name":"Kamour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9222768,
+        "wk:page":"Kamour"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2bddabf7233b0d5fe4c908924b46b194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695319,
+            "locality_id":1309824817,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1309824817,
+    "wof:lastmodified":1537568539,
+    "wof:name":"Kamour",
+    "wof:parent_id":1091695319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.03556,
+    17.075,
+    -12.03556,
+    17.075
+],
+  "geometry": {"coordinates":[-12.03556,17.075],"type":"Point"}
+}

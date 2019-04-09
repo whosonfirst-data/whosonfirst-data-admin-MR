@@ -1,0 +1,72 @@
+{
+  "id": 1343473445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.1,17.31667,-16.1,17.31667",
+    "geom:latitude":17.31667,
+    "geom:longitude":-16.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hassi Guendres",
+    "gn:cc2":"MR",
+    "gn:country_code":"MR",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375536,
+    "gn:latitude":17.31667,
+    "gn:longitude":-16.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hassi Guendres",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hassi Guenderes",
+        "Hassi Guendres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375536
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"21f0a11dd31cccd2f472774c442d20a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695675,
+            "locality_id":1343473445,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1343473445,
+    "wof:lastmodified":1537665789,
+    "wof:name":"Hassi Guendres",
+    "wof:parent_id":1091695675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.1,
+    17.31667,
+    -16.1,
+    17.31667
+],
+  "geometry": {"coordinates":[-16.1,17.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243264809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.16668,16.07317,-12.16668,16.07317",
+    "geom:latitude":16.07317,
+    "geom:longitude":-12.16668,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bokkoul",
+    "gn:country_code":"MR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380933,
+    "gn:latitude":16.07317,
+    "gn:longitude":-12.16668,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bokkoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokol",
+        "Bokkoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380933
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"655e3842a5db1b0c72ddf5a3ff183f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1243264809,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1243264809,
+    "wof:lastmodified":1537665811,
+    "wof:name":"Bokkoul",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.16668,
+    16.07317,
+    -12.16668,
+    16.07317
+],
+  "geometry": {"coordinates":[-12.16668,16.07317],"type":"Point"}
+}

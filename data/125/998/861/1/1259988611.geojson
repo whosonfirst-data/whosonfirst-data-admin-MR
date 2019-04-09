@@ -1,0 +1,71 @@
+{
+  "id": 1259988611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5077,16.4494,-9.5077,16.4494",
+    "geom:latitude":16.4494,
+    "geom:longitude":-9.5077,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Treid",
+    "gn:country_code":"MR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375741,
+    "gn:latitude":16.4494,
+    "gn:longitude":-9.5077,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tre\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Treyd",
+        "Tre\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375741
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7e27164306bfcf5dff00aea3d9b10dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":1259988611,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1259988611,
+    "wof:lastmodified":1537665790,
+    "wof:name":"Treid",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5077,
+    16.4494,
+    -9.5077,
+    16.4494
+],
+  "geometry": {"coordinates":[-9.5077,16.4494],"type":"Point"}
+}

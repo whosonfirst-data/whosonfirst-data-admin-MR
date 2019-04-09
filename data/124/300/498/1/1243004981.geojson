@@ -1,0 +1,71 @@
+{
+  "id": 1243004981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.98728,16.4827,-13.98728,16.4827",
+    "geom:latitude":16.4827,
+    "geom:longitude":-13.98728,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Diandia",
+    "gn:country_code":"MR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377579,
+    "gn:latitude":16.4827,
+    "gn:longitude":-13.98728,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diandia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndian Dia",
+        "Diandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377579
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4021f8ed4860a38f0bb392bdc077644e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1243004981,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1243004981,
+    "wof:lastmodified":1537665798,
+    "wof:name":"Diandia",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.98728,
+    16.4827,
+    -13.98728,
+    16.4827
+],
+  "geometry": {"coordinates":[-13.98728,16.4827],"type":"Point"}
+}

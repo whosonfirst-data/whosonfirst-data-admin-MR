@@ -1,0 +1,67 @@
+{
+  "id": 1276122979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.8685,16.6398,-14.8685,16.6398",
+    "geom:latitude":16.6398,
+    "geom:longitude":-14.8685,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Donaye Taredji",
+    "gn:country_code":"MR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8604529,
+    "gn:latitude":16.6398,
+    "gn:longitude":-14.8685,
+    "gn:modification_date":"2013-08-13",
+    "gn:name":"Donaye Taredji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8604529
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1a264c11e73b2632e2e0ceb5a05e6165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1276122979,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276122979,
+    "wof:lastmodified":1537057874,
+    "wof:name":"Donaye Taredji",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.8685,
+    16.6398,
+    -14.8685,
+    16.6398
+],
+  "geometry": {"coordinates":[-14.8685,16.6398],"type":"Point"}
+}

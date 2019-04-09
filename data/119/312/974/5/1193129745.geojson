@@ -1,0 +1,71 @@
+{
+  "id": 1193129745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.73528,16.48722,-15.73528,16.48722",
+    "geom:latitude":16.48722,
+    "geom:longitude":-15.73528,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Keur Madike",
+    "gn:country_code":"MR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378648,
+    "gn:latitude":16.48722,
+    "gn:longitude":-15.73528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Keur Madik\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keurinadih\u00e9",
+        "Keur Madik\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378648
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"884cfc6d3b0c9f743b025d6d4a1fbe2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1193129745,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1193129745,
+    "wof:lastmodified":1537665802,
+    "wof:name":"Keur Madike",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.73528,
+    16.48722,
+    -15.73528,
+    16.48722
+],
+  "geometry": {"coordinates":[-15.73528,16.48722],"type":"Point"}
+}

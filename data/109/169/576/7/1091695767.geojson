@@ -1,0 +1,88 @@
+{
+  "id": 1091695767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":5.474862,
+    "geom:area_square_m":64162631579.734459,
+    "geom:bbox":"-11.0794067383,17.2822875977,-7.98760986328,19.7255249023",
+    "geom:latitude":18.692409,
+    "geom:longitude":-9.720653,
+    "iso:country":"MR",
+    "lbl:latitude":18.634038,
+    "lbl:longitude":-9.72096,
+    "meso:adm1_name":"Tagant",
+    "meso:gadm_admin":"Tichitt",
+    "meso:gadm_hasc2":"MR.TG.TC",
+    "meso:gaul_admin":"Tichitt",
+    "meso:mps_x":-9.72096,
+    "meso:mps_y":18.634038,
+    "meso:name_local":"Tichitt",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":18.634038,
+    "mps:longitude":-9.72096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tichitt"
+    ],
+    "name:eng_x_variant":[
+        "Tichitt"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"",
+    "statoids:country":"MR",
+    "statoids:hasc":"MR.TG",
+    "statoids:name":"Tichitt",
+    "statoids:population":"4349",
+    "statoids:statoid":"MR.TG.TC",
+    "statoids:timezone":"+0",
+    "statoids:type":"department",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MR.TG.TC"
+    },
+    "wof:country":"MR",
+    "wof:created":1473879555,
+    "wof:geomhash":"c00f0da578b4b8da5086f9cb2ea816af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695767,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":1091695767,
+    "wof:lastmodified":1536614939,
+    "wof:name":"Tichitt",
+    "wof:parent_id":85674909,
+    "wof:placetype":"county",
+    "wof:placetype_local":"department",
+    "wof:population":4349,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"TC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.07940673828124,
+    17.28228759765623,
+    -7.98760986328125,
+    19.72552490234374
+],
+  "geometry": {"coordinates":[[[-10.97393355692437,18.30929689404782],[-10.97383366026737,18.33397136831215],[-11.00233366026736,19.28027136831217],[-11.01333150383111,19.71148681640623],[-11.01330566406248,19.71148681640623],[-7.98760986328125,19.72552490234374],[-7.98765324645511,19.72543018882973],[-9.14693366026736,17.28807136831215],[-9.14942295949323,17.28281618105754],[-9.14959716796878,17.28228759765623],[-9.715087890625,17.55090332031254],[-9.72259521484372,17.55651855468752],[-10.33251953125002,17.51831054687496],[-10.75988769531254,17.63409423828122],[-11.07940673828124,17.72290039062499],[-11.02148437499996,18.0372924804688],[-10.98010253906246,18.26208496093747],[-10.974609375,18.294921875],[-10.97161865234372,18.30468750000004],[-10.97058105468748,18.31109619140621],[-10.97387695312503,18.309326171875],[-10.97393355692437,18.30929689404782]]],"type":"Polygon"}
+}

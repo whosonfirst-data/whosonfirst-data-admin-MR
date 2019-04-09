@@ -1,0 +1,72 @@
+{
+  "id": 1343676515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33964,20.82678,-12.33964,20.82678",
+    "geom:latitude":20.82678,
+    "geom:longitude":-12.33964,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jraif",
+    "gn:country_code":"MR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378758,
+    "gn:latitude":20.82678,
+    "gn:longitude":-12.33964,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jra\u00eff",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Traif",
+        "Jra\u00eff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378758,
+        "wk:page":"Jraif"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"66808cbb1327b95cec2cb9f3d448c9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695857,
+            "locality_id":1343676515,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1343676515,
+    "wof:lastmodified":1537665803,
+    "wof:name":"Jraif",
+    "wof:parent_id":1091695857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33964,
+    20.82678,
+    -12.33964,
+    20.82678
+],
+  "geometry": {"coordinates":[-12.33964,20.82678],"type":"Point"}
+}

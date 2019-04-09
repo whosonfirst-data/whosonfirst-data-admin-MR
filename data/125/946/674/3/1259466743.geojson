@@ -1,0 +1,71 @@
+{
+  "id": 1259466743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.92407,15.19317,-11.92407,15.19317",
+    "geom:latitude":15.19317,
+    "geom:longitude":-11.92407,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Debe Chorfa",
+    "gn:country_code":"MR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380384,
+    "gn:latitude":15.19317,
+    "gn:longitude":-11.92407,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9b\u00e9 Chorfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9b\u00e9 Sorfa",
+        "D\u00e9b\u00e9 Chorfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380384
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d5ebc481039ec01df73a66156c370955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1259466743,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1259466743,
+    "wof:lastmodified":1537665809,
+    "wof:name":"Debe Chorfa",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.92407,
+    15.19317,
+    -11.92407,
+    15.19317
+],
+  "geometry": {"coordinates":[-11.92407,15.19317],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259795587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.10435,15.69867,-11.10435,15.69867",
+    "geom:latitude":15.69867,
+    "geom:longitude":-11.10435,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El `Erg",
+    "gn:country_code":"MR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378335,
+    "gn:latitude":15.69867,
+    "gn:longitude":-11.10435,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"El \u2018Erg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leherik",
+        "El \u2018Erg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378335
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"69ab8805d731f9d6d562d3ce120d0660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":1259795587,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1259795587,
+    "wof:lastmodified":1537665801,
+    "wof:name":"El `Erg",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.10435,
+    15.69867,
+    -11.10435,
+    15.69867
+],
+  "geometry": {"coordinates":[-11.10435,15.69867],"type":"Point"}
+}

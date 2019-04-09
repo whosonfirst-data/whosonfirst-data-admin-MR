@@ -1,0 +1,67 @@
+{
+  "id": 1360008499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.90897,16.7009,-12.90897,16.7009",
+    "geom:latitude":16.7009,
+    "geom:longitude":-12.90897,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Goueissi",
+    "gn:country_code":"MR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379981,
+    "gn:latitude":16.7009,
+    "gn:longitude":-12.90897,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"El Goue\u00efssi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379981
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"938930d9a991ebdcf6dd07d432799a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695533,
+            "locality_id":1360008499,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1360008499,
+    "wof:lastmodified":1537053829,
+    "wof:name":"El Goueissi",
+    "wof:parent_id":1091695533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.90897,
+    16.7009,
+    -12.90897,
+    16.7009
+],
+  "geometry": {"coordinates":[-12.90897,16.7009],"type":"Point"}
+}

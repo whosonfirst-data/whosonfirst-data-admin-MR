@@ -1,0 +1,71 @@
+{
+  "id": 1310006309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.11946,16.36917,-13.11946,16.36917",
+    "geom:latitude":16.36917,
+    "geom:longitude":-13.11946,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Monguel Foulbe Dieri",
+    "gn:country_code":"MR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377821,
+    "gn:latitude":16.36917,
+    "gn:longitude":-13.11946,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00f4nguel Foulb\u00e9 Di\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monguel Foubd\u00e9 Di\u00e9ri",
+        "M\u00f4nguel Foulb\u00e9 Di\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377821
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"dbb50784d10117127eb3b1a4dad7e0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695173,
+            "locality_id":1310006309,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1310006309,
+    "wof:lastmodified":1537665799,
+    "wof:name":"Monguel Foulbe Dieri",
+    "wof:parent_id":1091695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.11946,
+    16.36917,
+    -13.11946,
+    16.36917
+],
+  "geometry": {"coordinates":[-13.11946,16.36917],"type":"Point"}
+}

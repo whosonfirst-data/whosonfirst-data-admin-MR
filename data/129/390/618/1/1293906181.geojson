@@ -1,0 +1,71 @@
+{
+  "id": 1293906181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.85826,16.2281,-13.85826,16.2281",
+    "geom:latitude":16.2281,
+    "geom:longitude":-13.85826,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mbotto",
+    "gn:country_code":"MR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378029,
+    "gn:latitude":16.2281,
+    "gn:longitude":-13.85826,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbotto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mboto",
+        "Mbotto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091694985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378029
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"771d79442d8a5ddeaa0881805ec62b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694985,
+            "locality_id":1293906181,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1293906181,
+    "wof:lastmodified":1537665800,
+    "wof:name":"Mbotto",
+    "wof:parent_id":1091694985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.85826,
+    16.2281,
+    -13.85826,
+    16.2281
+],
+  "geometry": {"coordinates":[-13.85826,16.2281],"type":"Point"}
+}

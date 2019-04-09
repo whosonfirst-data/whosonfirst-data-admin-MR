@@ -1,0 +1,72 @@
+{
+  "id": 1310212517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.3434,17.4454,-11.3434,17.4454",
+    "geom:latitude":17.4454,
+    "geom:longitude":-11.3434,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boumdeid",
+    "gn:country_code":"MR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380756,
+    "gn:latitude":17.4454,
+    "gn:longitude":-11.3434,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bo\u00fbmde\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boumde\u00eft",
+        "Bo\u00fbmde\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380756,
+        "wk:page":"Boumdeid"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a5b12859a23555fe6189c005e2f98801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695577,
+            "locality_id":1310212517,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1310212517,
+    "wof:lastmodified":1537665810,
+    "wof:name":"Boumdeid",
+    "wof:parent_id":1091695577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.3434,
+    17.4454,
+    -11.3434,
+    17.4454
+],
+  "geometry": {"coordinates":[-11.3434,17.4454],"type":"Point"}
+}

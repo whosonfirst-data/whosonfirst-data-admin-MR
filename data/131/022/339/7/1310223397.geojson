@@ -1,0 +1,71 @@
+{
+  "id": 1310223397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.11781,15.61776,-13.11781,15.61776",
+    "geom:latitude":15.61776,
+    "geom:longitude":-13.11781,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yama",
+    "gn:country_code":"MR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375687,
+    "gn:latitude":15.61776,
+    "gn:longitude":-13.11781,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Yama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yiama",
+        "Yama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375687
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ae63c192cc987a7ee6e7041444135069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694811,
+            "locality_id":1310223397,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1310223397,
+    "wof:lastmodified":1537665790,
+    "wof:name":"Yama",
+    "wof:parent_id":1091694811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.11781,
+    15.61776,
+    -13.11781,
+    15.61776
+],
+  "geometry": {"coordinates":[-13.11781,15.61776],"type":"Point"}
+}

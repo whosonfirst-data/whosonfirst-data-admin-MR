@@ -1,0 +1,67 @@
+{
+  "id": 1209817239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.92079,15.19325,-10.92079,15.19325",
+    "geom:latitude":15.19325,
+    "geom:longitude":-10.92079,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Moussala",
+    "gn:country_code":"MR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377730,
+    "gn:latitude":15.19325,
+    "gn:longitude":-10.92079,
+    "gn:modification_date":"2007-10-02",
+    "gn:name":"Moussala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377730
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"64e3d7a136ede63cc8f3df31ed024917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":1209817239,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1209817239,
+    "wof:lastmodified":1536382598,
+    "wof:name":"Moussala",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.92079,
+    15.19325,
+    -10.92079,
+    15.19325
+],
+  "geometry": {"coordinates":[-10.92079,15.19325],"type":"Point"}
+}

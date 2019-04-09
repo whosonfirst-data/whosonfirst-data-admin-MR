@@ -1,0 +1,71 @@
+{
+  "id": 1242576575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.70872,16.34039,-13.70872,16.34039",
+    "geom:latitude":16.34039,
+    "geom:longitude":-13.70872,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Belel Gaoudi",
+    "gn:country_code":"MR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381078,
+    "gn:latitude":16.34039,
+    "gn:longitude":-13.70872,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9l\u00e9l Gaoudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9lel Gaodi",
+        "B\u00e9l\u00e9l Gaoudi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091694985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381078
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b12ee34f308355f82db46f2e99e7f026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694985,
+            "locality_id":1242576575,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1242576575,
+    "wof:lastmodified":1537665812,
+    "wof:name":"Belel Gaoudi",
+    "wof:parent_id":1091694985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.70872,
+    16.34039,
+    -13.70872,
+    16.34039
+],
+  "geometry": {"coordinates":[-13.70872,16.34039],"type":"Point"}
+}

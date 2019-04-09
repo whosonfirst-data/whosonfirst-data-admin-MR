@@ -1,0 +1,67 @@
+{
+  "id": 1276892135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.35,16.56667,-15.35,16.56667",
+    "geom:latitude":16.56667,
+    "geom:longitude":-15.35,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gourel Bakar Sy",
+    "gn:country_code":"MR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379344,
+    "gn:latitude":16.56667,
+    "gn:longitude":-15.35,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Gourel Bakar Sy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379344
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"53a85c32dd3f465c7a6865cc7bd01ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1276892135,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276892135,
+    "wof:lastmodified":1537023681,
+    "wof:name":"Gourel Bakar Sy",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.35,
+    16.56667,
+    -15.35,
+    16.56667
+],
+  "geometry": {"coordinates":[-15.35,16.56667],"type":"Point"}
+}

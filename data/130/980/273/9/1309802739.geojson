@@ -1,0 +1,67 @@
+{
+  "id": 1309802739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.25596,16.62409,-14.25596,16.62409",
+    "geom:latitude":16.62409,
+    "geom:longitude":-14.25596,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tialgou",
+    "gn:country_code":"MR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376247,
+    "gn:latitude":16.62409,
+    "gn:longitude":-14.25596,
+    "gn:modification_date":"2007-09-19",
+    "gn:name":"Tialgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376247
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0f0f6d9d78ffaff0472cb91da6ce8b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695129,
+            "locality_id":1309802739,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1309802739,
+    "wof:lastmodified":1536936243,
+    "wof:name":"Tialgou",
+    "wof:parent_id":1091695129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.25596,
+    16.62409,
+    -14.25596,
+    16.62409
+],
+  "geometry": {"coordinates":[-14.25596,16.62409],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1226560259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1843,15.15846,-12.1843,15.15846",
+    "geom:latitude":15.15846,
+    "geom:longitude":-12.1843,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Selibaby",
+    "gn:country_code":"MR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2376719,
+    "gn:latitude":15.15846,
+    "gn:longitude":-12.1843,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"S\u00e9libaby",
+    "gn:population":18424,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u0628\u0627\u0628\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0644\u064a\u0628\u0627\u0628\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e9libaby"
+    ],
+    "name:und_x_variant":[
+        "S\u00e9libaby",
+        "S\u00e9libabi",
+        "Saylib\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376719,
+        "wk:page":"S%C3%A9libaby"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"84beccbc56b290ebc45b010381515dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1226560259,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1226560259,
+    "wof:lastmodified":1537665793,
+    "wof:name":"Selibaby",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:population":18424,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1843,
+    15.15846,
+    -12.1843,
+    15.15846
+],
+  "geometry": {"coordinates":[-12.1843,15.15846],"type":"Point"}
+}

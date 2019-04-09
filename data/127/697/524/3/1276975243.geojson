@@ -1,0 +1,67 @@
+{
+  "id": 1276975243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19468,15.36909,-12.19468,15.36909",
+    "geom:latitude":15.36909,
+    "geom:longitude":-12.19468,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tourime",
+    "gn:country_code":"MR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375769,
+    "gn:latitude":15.36909,
+    "gn:longitude":-12.19468,
+    "gn:modification_date":"2007-11-13",
+    "gn:name":"Tourim\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375769
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1495ade146e1f836abf181268852d92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1276975243,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1276975243,
+    "wof:lastmodified":1536913857,
+    "wof:name":"Tourime",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19468,
+    15.36909,
+    -12.19468,
+    15.36909
+],
+  "geometry": {"coordinates":[-12.19468,15.36909],"type":"Point"}
+}

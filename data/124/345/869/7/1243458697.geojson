@@ -1,0 +1,67 @@
+{
+  "id": 1243458697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88984,15.59846,-7.88984,15.59846",
+    "geom:latitude":15.59846,
+    "geom:longitude":-7.88984,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Koumbi Dyofi",
+    "gn:country_code":"MR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378482,
+    "gn:latitude":15.59846,
+    "gn:longitude":-7.88984,
+    "gn:modification_date":"2008-06-10",
+    "gn:name":"Koumbi Dyofi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378482
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"02b1776b541a8e8605396c777e441ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":1243458697,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1243458697,
+    "wof:lastmodified":1536788265,
+    "wof:name":"Koumbi Dyofi",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88984,
+    15.59846,
+    -7.88984,
+    15.59846
+],
+  "geometry": {"coordinates":[-7.88984,15.59846],"type":"Point"}
+}

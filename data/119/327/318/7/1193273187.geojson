@@ -1,0 +1,67 @@
+{
+  "id": 1193273187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8754,18.1768,-15.8754,18.1768",
+    "geom:latitude":18.1768,
+    "geom:longitude":-15.8754,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beila",
+    "gn:country_code":"MR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595354,
+    "gn:latitude":18.1768,
+    "gn:longitude":-15.8754,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Be\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595354
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6a78d55ec4fc0b98bb021464dcc5d6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695675,
+            "locality_id":1193273187,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1193273187,
+    "wof:lastmodified":1536368258,
+    "wof:name":"Beila",
+    "wof:parent_id":1091695675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8754,
+    18.1768,
+    -15.8754,
+    18.1768
+],
+  "geometry": {"coordinates":[-15.8754,18.1768],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193010729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.59773,16.62185,-14.59773,16.62185",
+    "geom:latitude":16.62185,
+    "geom:longitude":-14.59773,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Belano",
+    "gn:country_code":"MR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381085,
+    "gn:latitude":16.62185,
+    "gn:longitude":-14.59773,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9lano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9lane",
+        "B\u00e9lano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381085
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"08696328dad4347d7025411b1354ef4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1193010729,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1193010729,
+    "wof:lastmodified":1537665812,
+    "wof:name":"Belano",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.59773,
+    16.62185,
+    -14.59773,
+    16.62185
+],
+  "geometry": {"coordinates":[-14.59773,16.62185],"type":"Point"}
+}

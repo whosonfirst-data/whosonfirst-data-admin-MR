@@ -1,0 +1,71 @@
+{
+  "id": 1276772753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74543,15.56601,-8.74543,15.56601",
+    "geom:latitude":15.56601,
+    "geom:longitude":-8.74543,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Toeil",
+    "gn:country_code":"MR",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375898,
+    "gn:latitude":15.56601,
+    "gn:longitude":-8.74543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"To\u00e9il",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toue\u00efl",
+        "To\u00e9il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375898
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9d3756a822fec3af8908090b2f8888ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695039,
+            "locality_id":1276772753,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1276772753,
+    "wof:lastmodified":1537665791,
+    "wof:name":"Toeil",
+    "wof:parent_id":1091695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74543,
+    15.56601,
+    -8.74543,
+    15.56601
+],
+  "geometry": {"coordinates":[-8.74543,15.56601],"type":"Point"}
+}

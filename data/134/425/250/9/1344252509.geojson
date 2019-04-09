@@ -1,0 +1,74 @@
+{
+  "id": 1344252509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.51389,19.35644,-16.51389,19.35644",
+    "geom:latitude":19.35644,
+    "geom:longitude":-16.51389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nouamghar",
+    "gn:country_code":"MR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377442,
+    "gn:latitude":19.35644,
+    "gn:longitude":-16.51389,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Nou\u00e2mgh\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mamghar",
+        "Memrhar",
+        "El Memrhar",
+        "Nwanghar",
+        "El Memghar",
+        "Nouamrhar",
+        "El Momchar",
+        "Nou\u00e2mgh\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377442
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"dacef2bbfc51e837e17efc0369ce88c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "locality_id":1344252509,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344252509,
+    "wof:lastmodified":1537665797,
+    "wof:name":"Nouamghar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.51389,
+    19.35644,
+    -16.51389,
+    19.35644
+],
+  "geometry": {"coordinates":[-16.51389,19.35644],"type":"Point"}
+}

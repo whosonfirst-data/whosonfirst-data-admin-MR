@@ -1,0 +1,67 @@
+{
+  "id": 1226028559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22496,15.30781,-12.22496,15.30781",
+    "geom:latitude":15.30781,
+    "geom:longitude":-12.22496,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Keninkoumou",
+    "gn:country_code":"MR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378663,
+    "gn:latitude":15.30781,
+    "gn:longitude":-12.22496,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"K\u00e9ninkoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378663
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b938659d2d4492400efcafbcd024d5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1226028559,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1226028559,
+    "wof:lastmodified":1536749845,
+    "wof:name":"Keninkoumou",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22496,
+    15.30781,
+    -12.22496,
+    15.30781
+],
+  "geometry": {"coordinates":[-12.22496,15.30781],"type":"Point"}
+}

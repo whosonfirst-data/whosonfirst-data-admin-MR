@@ -1,0 +1,71 @@
+{
+  "id": 1292897643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.00214,20.06725,-13.00214,20.06725",
+    "geom:latitude":20.06725,
+    "geom:longitude":-13.00214,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Toueighida",
+    "gn:country_code":"MR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534195,
+    "gn:latitude":20.06725,
+    "gn:longitude":-13.00214,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Toue\u00efgh\u00eeda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toue\u00efgh\u00eeda",
+        "Toungad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534195
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d6892eb33c66f47520c9334884c6bacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1292897643,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1292897643,
+    "wof:lastmodified":1537665816,
+    "wof:name":"Toueighida",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.00214,
+    20.06725,
+    -13.00214,
+    20.06725
+],
+  "geometry": {"coordinates":[-13.00214,20.06725],"type":"Point"}
+}

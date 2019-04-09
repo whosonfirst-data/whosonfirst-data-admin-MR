@@ -1,0 +1,67 @@
+{
+  "id": 1293381789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.0509,20.56927,-13.0509,20.56927",
+    "geom:latitude":20.56927,
+    "geom:longitude":-13.0509,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Foum Ajar",
+    "gn:country_code":"MR",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405328,
+    "gn:latitude":20.56927,
+    "gn:longitude":-13.0509,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Foum Aj\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405328
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"69c248e0cd74561cd6f92ef2323ad2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1293381789,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1293381789,
+    "wof:lastmodified":1536940122,
+    "wof:name":"Foum Ajar",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.0509,
+    20.56927,
+    -13.0509,
+    20.56927
+],
+  "geometry": {"coordinates":[-13.0509,20.56927],"type":"Point"}
+}

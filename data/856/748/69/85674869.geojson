@@ -1,0 +1,317 @@
+{
+  "id": 85674869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.387765,
+    "geom:area_square_m":39355664295.981285,
+    "geom:bbox":"-16.0352336603,18.9962713683,-14.1544189453,21.1508713683",
+    "geom:latitude":20.028239,
+    "geom:longitude":-14.995566,
+    "gn:population":11500,
+    "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Inchiri Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":20.028556,
+    "lbl:longitude":-14.945378,
+    "meso:name_local":"Inchiri",
+    "meso:source":"mz",
+    "mps:latitude":19.870116,
+    "mps:longitude":-15.089326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0625\u064a\u0646\u0634\u064a\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0625\u0646\u0634\u064a\u0631\u064a",
+        "\u0625\u0646\u0634\u064a\u0631\u064a",
+        "\u0625\u064a\u0646\u0634\u064a\u0631\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0406\u043d\u0448\u044b\u0440\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09a8\u0995\u09bf\u09b0\u09bf \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0448\u0438\u0440\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u56e0\u5e0c\u91cc\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Inchiri"
+    ],
+    "name:dut_x_preferred":[
+        "Inchiri"
+    ],
+    "name:eng_x_preferred":[
+        "Inchiri Region"
+    ],
+    "name:eng_x_variant":[
+        "Inchiri"
+    ],
+    "name:epo_x_preferred":[
+        "In\u015diri"
+    ],
+    "name:fin_x_preferred":[
+        "Inchirin maakunta"
+    ],
+    "name:fra_x_preferred":[
+        "Inchiri"
+    ],
+    "name:fra_x_variant":[
+        "R\u00e9gion de l\u2019Inchiri",
+        "Wilaya de l\u2019Inchiri"
+    ],
+    "name:fre_x_preferred":[
+        "Inchiri"
+    ],
+    "name:ger_x_preferred":[
+        "Inchiri"
+    ],
+    "name:gre_x_preferred":[
+        "\u0399\u03bd\u03c4\u03c3\u03af\u03c1\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0aa8\u0acd\u0a9a\u0ac0\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0928\u094d\u0915\u0940\u0930\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Inchiri"
+    ],
+    "name:ita_x_preferred":[
+        "Regione di Inchiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30b7\u30ea\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0c82\u0c9a\u0cb0\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc778\uc2dc\ub9ac \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "In\u0161iri vil\u0101js"
+    ],
+    "name:lit_x_preferred":[
+        "In\u0161irio vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u0907\u0902\u091a\u093f\u0930\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Inchiri"
+    ],
+    "name:nob_x_preferred":[
+        "Inchiri"
+    ],
+    "name:pol_x_preferred":[
+        "Insziri"
+    ],
+    "name:por_x_preferred":[
+        "Inchiri"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Inchiri"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea Inchiri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0448\u0438\u0440\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0db1\u0dca\u0da0\u0dd2\u0dbb\u0dd2 \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Inchiri"
+    ],
+    "name:swe_x_preferred":[
+        "Inchiri"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0b9e\u0bcd\u0b9a\u0bbf\u0bb0\u0bbf \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c07\u0c02\u0c1a\u0c3f\u0c30\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e19\u0e0a\u0e34\u0e25\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Ichiri B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0448\u0438\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Douzi\u00e8me R\u00e9gion"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0634\u06cc\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c Inchiri"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u5e0c\u91cc\u7701"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MRT",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MRT-2786",
+    "ne:adm1_code":"MRT-2786",
+    "ne:admin":"Mauritania",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MR.IN",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"2786",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MR12",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Mauritania",
+    "ne:gn_a1_code":"MR.12",
+    "ne:gn_id":"2378903",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Inchiri",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MR12",
+    "ne:gns_id":"-1401442",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Inchiri, Wilaya de l'",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MRT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MR-",
+    "ne:iso_a2":"MR",
+    "ne:labelrank":"4",
+    "ne:latitude":"20.07340000000",
+    "ne:longitude":"-15.34500000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":2,
+    "ne:name":"Inchiri",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"IN",
+    "ne:provnum_ne":"20013",
+    "ne:region":"",
+    "ne:region_cod":"MRT-DND",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"MRT",
+    "ne:sub_code":"MR08",
+    "ne:type":"Wilayat|R\u00e9gion",
+    "ne:type_en":"Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346252,
+    "ne:woe_label":"Inchiri, MR, Mauritania",
+    "ne:woe_name":"Inchiri",
+    "qs:a0":"Mauritania",
+    "qs:a0_lc":"MR",
+    "qs:a1":"Inchiri",
+    "qs:a1_lc":"MRT-2786",
+    "qs:a1r_lc":"MRT-DND",
+    "qs:adm0":"Mauritania",
+    "qs:adm0_a3":"MRT",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"46800",
+    "statoids:area_mi":"18100",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"Akjoujt",
+    "statoids:country":"MR",
+    "statoids:gec":"MR12",
+    "statoids:hasc":"MR.IN",
+    "statoids:iso":"12",
+    "statoids:name":"Inchiri",
+    "statoids:population":"19639",
+    "statoids:timezone":"+0",
+    "statoids:type":"region",
+    "unlc:subdivision":"MR-12",
+    "wof:belongsto":[
+        102191573,
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MR12",
+        "gn:id":2378903,
+        "gp:id":2346252,
+        "hasc:id":"MR.IN",
+        "iso:id":"MR-12",
+        "qs:id":235611,
+        "unlc:id":"MR-12",
+        "wd:id":"Q850022",
+        "wk:page":"Inchiri Region"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a51cdfd4160b8c3663fce73f04ad2712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "region_id":85674869
+        }
+    ],
+    "wof:id":85674869,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550461,
+    "wof:name":"Inchiri",
+    "wof:parent_id":85632679,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":19639,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"IN",
+    "wof:subdivision":"MR-12",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.03523366026742,
+    18.99627136831217,
+    -14.15441894531248,
+    21.15087136831216
+],
+  "geometry": {"coordinates":[[[-14.15441894531248,21.11810302734376],[-14.21960449218752,19.42871093749996],[-14.22070312499998,19.27667236328129],[-14.2216796875,19.00048828125004],[-14.26208496093747,19.00048828125004],[-16.03523366026742,18.99627136831217],[-16.0135336602674,19.11727136831212],[-16.01363366026742,19.12017136831217],[-15.94893366026743,19.50097136831211],[-15.73563366026737,19.89317136831213],[-15.66333366026739,20.31207136831215],[-15.57843366026742,20.73747136831211],[-15.83973366026735,21.15087136831216],[-14.15441894531248,21.11810302734376]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293690837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0894,16.476,-7.0894,16.476",
+    "geom:latitude":16.476,
+    "geom:longitude":-7.0894,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Saile",
+    "gn:country_code":"MR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893436,
+    "gn:latitude":16.476,
+    "gn:longitude":-7.0894,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"S\u00e2\u00efl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893436
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bf70e10718541903d9fc2980c6a6a10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":1293690837,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1293690837,
+    "wof:lastmodified":1536990303,
+    "wof:name":"Saile",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0894,
+    16.476,
+    -7.0894,
+    16.476
+],
+  "geometry": {"coordinates":[-7.0894,16.476],"type":"Point"}
+}

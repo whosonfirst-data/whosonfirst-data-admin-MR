@@ -1,0 +1,67 @@
+{
+  "id": 1309712473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.76379,15.92322,-12.76379,15.92322",
+    "geom:latitude":15.92322,
+    "geom:longitude":-12.76379,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ndam Yalalbe",
+    "gn:country_code":"MR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377600,
+    "gn:latitude":15.92322,
+    "gn:longitude":-12.76379,
+    "gn:modification_date":"2007-11-26",
+    "gn:name":"Ndam Yalalb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377600
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2c8e5e0a38ff36828dde6e36c552adc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1309712473,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1309712473,
+    "wof:lastmodified":1537062865,
+    "wof:name":"Ndam Yalalbe",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.76379,
+    15.92322,
+    -12.76379,
+    15.92322
+],
+  "geometry": {"coordinates":[-12.76379,15.92322],"type":"Point"}
+}

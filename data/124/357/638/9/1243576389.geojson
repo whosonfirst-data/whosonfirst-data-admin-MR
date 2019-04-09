@@ -1,0 +1,67 @@
+{
+  "id": 1243576389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.46977,19.41803,-16.46977,19.41803",
+    "geom:latitude":19.41803,
+    "geom:longitude":-16.46977,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rgueiba",
+    "gn:country_code":"MR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376997,
+    "gn:latitude":19.41803,
+    "gn:longitude":-16.46977,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rgue\u00efba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rgue\u00efba-Thila",
+        "Reguibat",
+        "Regbet Thila",
+        "Rgue\u00efba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376997
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"aa9b43f617c7f79b523a51287bd5d8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243576389,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243576389,
+    "wof:lastmodified":1537665795,
+    "wof:name":"Rgueiba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.46977,
+    19.41803,
+    -16.46977,
+    19.41803
+],
+  "geometry": {"coordinates":[-16.46977,19.41803],"type":"Point"}
+}

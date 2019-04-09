@@ -1,0 +1,71 @@
+{
+  "id": 1193159985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.22549,16.5729,-14.22549,16.5729",
+    "geom:latitude":16.5729,
+    "geom:longitude":-14.22549,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tjide",
+    "gn:country_code":"MR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375957,
+    "gn:latitude":16.5729,
+    "gn:longitude":-14.22549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tjid\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tid\u00e9",
+        "Tjid\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375957
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d56df1b062c10fa25c5ec27da4d143ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695129,
+            "locality_id":1193159985,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1193159985,
+    "wof:lastmodified":1537665791,
+    "wof:name":"Tjide",
+    "wof:parent_id":1091695129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.22549,
+    16.5729,
+    -14.22549,
+    16.5729
+],
+  "geometry": {"coordinates":[-14.22549,16.5729],"type":"Point"}
+}

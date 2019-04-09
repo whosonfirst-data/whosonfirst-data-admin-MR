@@ -1,0 +1,67 @@
+{
+  "id": 1293014841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0437,16.3836,-7.0437,16.3836",
+    "geom:latitude":16.3836,
+    "geom:longitude":-7.0437,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Houeiriye",
+    "gn:country_code":"MR",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893440,
+    "gn:latitude":16.3836,
+    "gn:longitude":-7.0437,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Houe\u00efr\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893440
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"5df564e6f13f73602c032f7b3e6572c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":1293014841,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1293014841,
+    "wof:lastmodified":1536970984,
+    "wof:name":"Houeiriye",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0437,
+    16.3836,
+    -7.0437,
+    16.3836
+],
+  "geometry": {"coordinates":[-7.0437,16.3836],"type":"Point"}
+}

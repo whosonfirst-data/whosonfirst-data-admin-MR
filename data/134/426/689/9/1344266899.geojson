@@ -1,0 +1,67 @@
+{
+  "id": 1344266899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.48333,16.93333,-12.48333,16.93333",
+    "geom:latitude":16.93333,
+    "geom:longitude":-12.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amriye",
+    "gn:country_code":"MR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381563,
+    "gn:latitude":16.93333,
+    "gn:longitude":-12.48333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Amriy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381563
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0f88024fd4c2dc379fb2d4b28eb75196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":1344266899,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1344266899,
+    "wof:lastmodified":1537071684,
+    "wof:name":"Amriye",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.48333,
+    16.93333,
+    -12.48333,
+    16.93333
+],
+  "geometry": {"coordinates":[-12.48333,16.93333],"type":"Point"}
+}

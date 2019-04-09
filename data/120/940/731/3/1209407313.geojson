@@ -1,0 +1,61 @@
+{
+  "id": 1209407313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.20326,16.51644,-16.20326,16.51644",
+    "geom:latitude":16.51644,
+    "geom:longitude":-16.20326,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"KeurPer",
+    "gn:country_code":"MR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378644,
+    "gn:latitude":16.51644,
+    "gn:longitude":-16.20326,
+    "gn:modification_date":"2008-05-02",
+    "gn:name":"KeurPer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378644
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"837c05b7c939e75f393688166a166265",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209407313
+        }
+    ],
+    "wof:id":1209407313,
+    "wof:lastmodified":1536287953,
+    "wof:name":"KeurPer",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.20326,
+    16.51644,
+    -16.20326,
+    16.51644
+],
+  "geometry": {"coordinates":[-16.20326,16.51644],"type":"Point"}
+}

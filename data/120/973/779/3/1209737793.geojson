@@ -1,0 +1,71 @@
+{
+  "id": 1209737793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.31611,16.91111,-15.31611,16.91111",
+    "geom:latitude":16.91111,
+    "geom:longitude":-15.31611,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rkiz",
+    "gn:country_code":"MR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2598188,
+    "gn:latitude":16.91111,
+    "gn:longitude":-15.31611,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Rk\u00eez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rk\u00eez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2598188,
+        "wk:page":"R%27_Kiz"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"8d480fa5a0227e4efbdc023920ef8b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695385,
+            "locality_id":1209737793,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1209737793,
+    "wof:lastmodified":1537665816,
+    "wof:name":"Rkiz",
+    "wof:parent_id":1091695385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31611,
+    16.91111,
+    -15.31611,
+    16.91111
+],
+  "geometry": {"coordinates":[-15.31611,16.91111],"type":"Point"}
+}

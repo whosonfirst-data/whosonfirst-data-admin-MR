@@ -1,0 +1,61 @@
+{
+  "id": 1209120637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.61667,16.18333,-11.61667,16.18333",
+    "geom:latitude":16.18333,
+    "geom:longitude":-11.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tinteina",
+    "gn:country_code":"MR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376018,
+    "gn:latitude":16.18333,
+    "gn:longitude":-11.61667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Tinte\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376018
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4213fd5367ddb85b6954f59ad1bcddf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209120637
+        }
+    ],
+    "wof:id":1209120637,
+    "wof:lastmodified":1536297111,
+    "wof:name":"Tinteina",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.61667,
+    16.183329999999998,
+    -11.61667,
+    16.183329999999998
+],
+  "geometry": {"coordinates":[-11.61667,16.18333],"type":"Point"}
+}

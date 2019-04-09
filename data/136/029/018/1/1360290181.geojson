@@ -1,0 +1,68 @@
+{
+  "id": 1360290181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.06722,16.41667,-14.06722,16.41667",
+    "geom:latitude":16.41667,
+    "geom:longitude":-14.06722,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Aghchorguitt",
+    "gn:country_code":"MR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9227167,
+    "gn:latitude":16.41667,
+    "gn:longitude":-14.06722,
+    "gn:modification_date":"2014-07-17",
+    "gn:name":"Aghchorguitt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9227167,
+        "wk:page":"Aghchorguitt"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"013a91b1512f4ab608d34ea686753570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1360290181,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1360290181,
+    "wof:lastmodified":1537568539,
+    "wof:name":"Aghchorguitt",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.06722,
+    16.41667,
+    -14.06722,
+    16.41667
+],
+  "geometry": {"coordinates":[-14.06722,16.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276653761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.38313,20.19969,-13.38313,20.19969",
+    "geom:latitude":20.19969,
+    "geom:longitude":-13.38313,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ragg Ould 'Ali Ould Barka",
+    "gn:country_code":"MR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7394796,
+    "gn:latitude":20.19969,
+    "gn:longitude":-13.38313,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ragg Ould \u2019Ali Ould Barka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7394796
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"676f1d8d15638858814a6ab38857b47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1276653761,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1276653761,
+    "wof:lastmodified":1536845385,
+    "wof:name":"Ragg Ould 'Ali Ould Barka",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.38313,
+    20.19969,
+    -13.38313,
+    20.19969
+],
+  "geometry": {"coordinates":[-13.38313,20.19969],"type":"Point"}
+}

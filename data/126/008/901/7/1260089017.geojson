@@ -1,0 +1,67 @@
+{
+  "id": 1260089017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.82154,15.98317,-9.82154,15.98317",
+    "geom:latitude":15.98317,
+    "geom:longitude":-9.82154,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Boutel Ahir",
+    "gn:country_code":"MR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380676,
+    "gn:latitude":15.98317,
+    "gn:longitude":-9.82154,
+    "gn:modification_date":"2008-05-06",
+    "gn:name":"Boutel Ahir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380676
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4ebb8dbea631ada73e7cceaaefd47ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":1260089017,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1260089017,
+    "wof:lastmodified":1536979307,
+    "wof:name":"Boutel Ahir",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.82154,
+    15.98317,
+    -9.82154,
+    15.98317
+],
+  "geometry": {"coordinates":[-9.82154,15.98317],"type":"Point"}
+}

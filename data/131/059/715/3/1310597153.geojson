@@ -1,0 +1,67 @@
+{
+  "id": 1310597153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.0325,20.85333,-17.0325,20.85333",
+    "geom:latitude":20.85333,
+    "geom:longitude":-17.0325,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Consado",
+    "gn:country_code":"MR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10346345,
+    "gn:latitude":20.85333,
+    "gn:longitude":-17.0325,
+    "gn:modification_date":"2015-06-24",
+    "gn:name":"Consado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674865,
+        1091695961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10346345
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"516581d1dd6f30a9c29836a72326889e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695961,
+            "locality_id":1310597153,
+            "region_id":85674865
+        }
+    ],
+    "wof:id":1310597153,
+    "wof:lastmodified":1536785257,
+    "wof:name":"Consado",
+    "wof:parent_id":1091695961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.0325,
+    20.85333,
+    -17.0325,
+    20.85333
+],
+  "geometry": {"coordinates":[-17.0325,20.85333],"type":"Point"}
+}

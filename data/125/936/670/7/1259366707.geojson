@@ -1,0 +1,67 @@
+{
+  "id": 1259366707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.90489,15.31228,-11.90489,15.31228",
+    "geom:latitude":15.31228,
+    "geom:longitude":-11.90489,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Meilaha",
+    "gn:country_code":"MR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377983,
+    "gn:latitude":15.31228,
+    "gn:longitude":-11.90489,
+    "gn:modification_date":"2007-09-05",
+    "gn:name":"Me\u00eflaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377983
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"33e8b9a99e5fe7b89fb7e2723d848511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1259366707,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1259366707,
+    "wof:lastmodified":1537025299,
+    "wof:name":"Meilaha",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.90489,
+    15.31228,
+    -11.90489,
+    15.31228
+],
+  "geometry": {"coordinates":[-11.90489,15.31228],"type":"Point"}
+}

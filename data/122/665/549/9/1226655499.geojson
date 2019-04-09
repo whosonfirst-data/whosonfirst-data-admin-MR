@@ -1,0 +1,67 @@
+{
+  "id": 1226655499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8543,16.3884,-7.8543,16.3884",
+    "geom:latitude":16.3884,
+    "geom:longitude":-7.8543,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boucta",
+    "gn:country_code":"MR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893437,
+    "gn:latitude":16.3884,
+    "gn:longitude":-7.8543,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bou\u00e7\u1e6da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893437
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e47bb84e8b71ce7fe41fa411216c13f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":1226655499,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1226655499,
+    "wof:lastmodified":1536844215,
+    "wof:name":"Boucta",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8543,
+    16.3884,
+    -7.8543,
+    16.3884
+],
+  "geometry": {"coordinates":[-7.8543,16.3884],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277074699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.74835,15.76771,-12.74835,15.76771",
+    "geom:latitude":15.76771,
+    "geom:longitude":-12.74835,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Mankouss",
+    "gn:country_code":"MR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379869,
+    "gn:latitude":15.76771,
+    "gn:longitude":-12.74835,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Mankouss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mankous",
+        "El Mankouss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379869
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"961d99c19898c17c4f2d2786cf9448ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1277074699,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1277074699,
+    "wof:lastmodified":1537665806,
+    "wof:name":"El Mankouss",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.74835,
+    15.76771,
+    -12.74835,
+    15.76771
+],
+  "geometry": {"coordinates":[-12.74835,15.76771],"type":"Point"}
+}

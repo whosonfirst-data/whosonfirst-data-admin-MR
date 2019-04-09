@@ -1,0 +1,88 @@
+{
+  "id": 1091695891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.387765,
+    "geom:area_square_m":39355664295.981285,
+    "geom:bbox":"-16.0352336603,18.9962713683,-14.1544189453,21.1508713683",
+    "geom:latitude":20.028239,
+    "geom:longitude":-14.995566,
+    "iso:country":"MR",
+    "lbl:latitude":20.028556,
+    "lbl:longitude":-14.945378,
+    "meso:adm1_name":"Inchiri",
+    "meso:gadm_admin":"Akjoujt",
+    "meso:gadm_hasc2":"MR.IN.AK",
+    "meso:gaul_admin":"Akjoujt",
+    "meso:mps_x":-14.945378,
+    "meso:mps_y":20.028556,
+    "meso:name_local":"Akjoujt",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":20.028556,
+    "mps:longitude":-14.945378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Akjoujt"
+    ],
+    "name:eng_x_variant":[
+        "Akjoujt"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"",
+    "statoids:country":"MR",
+    "statoids:hasc":"MR.IN",
+    "statoids:name":"Akjoujt",
+    "statoids:population":"19639",
+    "statoids:statoid":"MR.IN.AK",
+    "statoids:timezone":"+0",
+    "statoids:type":"department",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MR.IN.AK"
+    },
+    "wof:country":"MR",
+    "wof:created":1473879559,
+    "wof:geomhash":"a51cdfd4160b8c3663fce73f04ad2712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695891,
+            "region_id":85674869
+        }
+    ],
+    "wof:id":1091695891,
+    "wof:lastmodified":1536614939,
+    "wof:name":"Akjoujt",
+    "wof:parent_id":85674869,
+    "wof:placetype":"county",
+    "wof:placetype_local":"department",
+    "wof:population":19639,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"AK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.03523366026742,
+    18.99627136831217,
+    -14.15441894531248,
+    21.15087136831216
+],
+  "geometry": {"coordinates":[[[-14.15441894531248,21.11810302734376],[-14.21960449218752,19.42871093749996],[-14.22070312499998,19.27667236328129],[-14.2216796875,19.00048828125004],[-14.26208496093747,19.00048828125004],[-16.03523366026742,18.99627136831217],[-16.0135336602674,19.11727136831212],[-16.01363366026742,19.12017136831217],[-15.94893366026743,19.50097136831211],[-15.73563366026737,19.89317136831213],[-15.66333366026739,20.31207136831215],[-15.57843366026742,20.73747136831211],[-15.83973366026735,21.15087136831216],[-14.15441894531248,21.11810302734376]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259593301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96572,20.01845,-12.96572,20.01845",
+    "geom:latitude":20.01845,
+    "geom:longitude":-12.96572,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Oujeft",
+    "gn:country_code":"MR",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7395349,
+    "gn:latitude":20.01845,
+    "gn:longitude":-12.96572,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Oujeft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7395349
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d0fbed128d1f4c3ff5b3de4ad9d62378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1259593301,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1259593301,
+    "wof:lastmodified":1536700839,
+    "wof:name":"Oujeft",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96572,
+    20.01845,
+    -12.96572,
+    20.01845
+],
+  "geometry": {"coordinates":[-12.96572,20.01845],"type":"Point"}
+}

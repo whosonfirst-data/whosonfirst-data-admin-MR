@@ -1,0 +1,67 @@
+{
+  "id": 1360079435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.03892,20.01632,-13.03892,20.01632",
+    "geom:latitude":20.01632,
+    "geom:longitude":-13.03892,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Joueilet Ahel el Hammoud",
+    "gn:country_code":"MR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7395345,
+    "gn:latitude":20.01632,
+    "gn:longitude":-13.03892,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Joue\u00eflet Ahel el \u1e24ammoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7395345
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"82743a6024b154581de6693f29bd50ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1360079435,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1360079435,
+    "wof:lastmodified":1536953956,
+    "wof:name":"Joueilet Ahel el Hammoud",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.03892,
+    20.01632,
+    -13.03892,
+    20.01632
+],
+  "geometry": {"coordinates":[-13.03892,20.01632],"type":"Point"}
+}

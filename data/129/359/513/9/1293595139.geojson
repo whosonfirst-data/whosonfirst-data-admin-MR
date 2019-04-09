@@ -1,0 +1,75 @@
+{
+  "id": 1293595139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.37924,16.05956,-13.37924,16.05956",
+    "geom:latitude":16.05956,
+    "geom:longitude":-13.37924,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Djowol",
+    "gn:country_code":"MR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380162,
+    "gn:latitude":16.05956,
+    "gn:longitude":-13.37924,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djowol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djovol",
+        "Djeol",
+        "Dyovol",
+        "Diovol",
+        "Djowol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380162,
+        "wk:page":"Djeol"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"3db2c9293560e6f54b60c597ea5a2f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1293595139,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1293595139,
+    "wof:lastmodified":1537665807,
+    "wof:name":"Djowol",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.37924,
+    16.05956,
+    -13.37924,
+    16.05956
+],
+  "geometry": {"coordinates":[-13.37924,16.05956],"type":"Point"}
+}

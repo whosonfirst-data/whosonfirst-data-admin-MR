@@ -1,0 +1,72 @@
+{
+  "id": 1277004811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.97666,16.35309,-13.97666,16.35309",
+    "geom:latitude":16.35309,
+    "geom:longitude":-13.97666,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dioude Dieri",
+    "gn:country_code":"MR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380245,
+    "gn:latitude":16.35309,
+    "gn:longitude":-13.97666,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dio\u00fbd\u00e9 Di\u00eari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hor\u00e9 D\u00f4bal",
+        "Dioudi",
+        "Dio\u00fbd\u00e9 Di\u00eari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380245
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6c956394a537131aad1286a37cd1a483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1277004811,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1277004811,
+    "wof:lastmodified":1537665808,
+    "wof:name":"Dioude Dieri",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.97666,
+    16.35309,
+    -13.97666,
+    16.35309
+],
+  "geometry": {"coordinates":[-13.97666,16.35309],"type":"Point"}
+}

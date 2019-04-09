@@ -1,0 +1,67 @@
+{
+  "id": 1309821553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.4235,16.9636,-7.4235,16.9636",
+    "geom:latitude":16.9636,
+    "geom:longitude":-7.4235,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tamourt Chekrateil",
+    "gn:country_code":"MR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893430,
+    "gn:latitude":16.9636,
+    "gn:longitude":-7.4235,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"T\u00e2mo\u00fbrt Chekrate\u00efl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091696039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893430
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"68f1f8dd7b94c5acf1de8fff031aa746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696039,
+            "locality_id":1309821553,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1309821553,
+    "wof:lastmodified":1536908665,
+    "wof:name":"Tamourt Chekrateil",
+    "wof:parent_id":1091696039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.4235,
+    16.9636,
+    -7.4235,
+    16.9636
+],
+  "geometry": {"coordinates":[-7.4235,16.9636],"type":"Point"}
+}

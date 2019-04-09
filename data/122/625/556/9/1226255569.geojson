@@ -1,0 +1,73 @@
+{
+  "id": 1226255569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08294,15.69419,-9.08294,15.69419",
+    "geom:latitude":15.69419,
+    "geom:longitude":-9.08294,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gleibat Boukenni",
+    "gn:country_code":"MR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379410,
+    "gn:latitude":15.69419,
+    "gn:longitude":-9.08294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gle\u00efbat Boukenni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guel\u00e9\u00efbate",
+        "Gle\u00efb\u00e2t Boukine",
+        "Gu\u00e9le\u00efbate Boukine",
+        "Gle\u00efbat Boukenni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379410
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"627937fc528b399c09a70eb46a2facf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":1226255569,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1226255569,
+    "wof:lastmodified":1537665805,
+    "wof:name":"Gleibat Boukenni",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08294,
+    15.69419,
+    -9.08294,
+    15.69419
+],
+  "geometry": {"coordinates":[-9.08294,15.69419],"type":"Point"}
+}

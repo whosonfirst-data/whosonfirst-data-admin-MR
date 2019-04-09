@@ -1,0 +1,67 @@
+{
+  "id": 1226036689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.13997,20.35516,-13.13997,20.35516",
+    "geom:latitude":20.35516,
+    "geom:longitude":-13.13997,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Greinat",
+    "gn:country_code":"MR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405050,
+    "gn:latitude":20.35516,
+    "gn:longitude":-13.13997,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"El Gre\u00efn\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405050
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c86b3de73012123d5980ba118d99b5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1226036689,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1226036689,
+    "wof:lastmodified":1536738184,
+    "wof:name":"El Greinat",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.13997,
+    20.35516,
+    -13.13997,
+    20.35516
+],
+  "geometry": {"coordinates":[-13.13997,20.35516],"type":"Point"}
+}

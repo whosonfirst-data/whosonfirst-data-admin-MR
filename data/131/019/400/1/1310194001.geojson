@@ -1,0 +1,67 @@
+{
+  "id": 1310194001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.51407,15.10286,-12.51407,15.10286",
+    "geom:latitude":15.10286,
+    "geom:longitude":-12.51407,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gourel Pe",
+    "gn:country_code":"MR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379326,
+    "gn:latitude":15.10286,
+    "gn:longitude":-12.51407,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"Gourel P\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379326
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4d9eaffce03c2ffcf87c8da2bff246f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1310194001,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1310194001,
+    "wof:lastmodified":1536867654,
+    "wof:name":"Gourel Pe",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.51407,
+    15.10286,
+    -12.51407,
+    15.10286
+],
+  "geometry": {"coordinates":[-12.51407,15.10286],"type":"Point"}
+}

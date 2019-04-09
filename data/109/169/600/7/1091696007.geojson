@@ -1,0 +1,99 @@
+{
+  "id": 1091696007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.038231,
+    "geom:area_square_m":436214633.145051,
+    "geom:bbox":"-12.4744336603,22.5575713683,-12.1321336603,22.7857713683",
+    "geom:latitude":22.669167,
+    "geom:longitude":-12.288056,
+    "iso:country":"MR",
+    "lbl:latitude":22.709541,
+    "lbl:longitude":-12.216743,
+    "meso:adm1_name":"Tiris-Zemmour",
+    "meso:gadm_admin":"Zou\u00e9rate",
+    "meso:gadm_hasc2":"MR.TZ.ZO",
+    "meso:gaul_admin":"F'Derik",
+    "meso:mps_x":-12.216743,
+    "meso:mps_y":22.709541,
+    "meso:name_local":"Zoueratt",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":22.709541,
+    "mps:longitude":-12.216743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "F'Derick Department"
+    ],
+    "name:eng_x_preferred":[
+        "Zou\u00e9rate"
+    ],
+    "name:eng_x_variant":[
+        "F'Derik",
+        "Zou\u00e9rate"
+    ],
+    "name:ita_x_preferred":[
+        "dipartimento di F'Derick"
+    ],
+    "name:swe_x_preferred":[
+        "F'Derik"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"",
+    "statoids:country":"MR",
+    "statoids:hasc":"MR.TZ",
+    "statoids:name":"Zou\u00e9rate",
+    "statoids:population":"44649",
+    "statoids:statoid":"MR.TZ.ZO",
+    "statoids:timezone":"+0",
+    "statoids:type":"department",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MR.TZ.ZO",
+        "wd:id":"Q27754083"
+    },
+    "wof:country":"MR",
+    "wof:created":1473879564,
+    "wof:geomhash":"493487004e573f3b5ff741ffa8794940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696007,
+            "region_id":85674857
+        }
+    ],
+    "wof:id":1091696007,
+    "wof:lastmodified":1536614939,
+    "wof:name":"Zoueratt",
+    "wof:parent_id":85674857,
+    "wof:placetype":"county",
+    "wof:placetype_local":"department",
+    "wof:population":44649,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"ZO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.47443366026743,
+    22.55757136831214,
+    -12.13213366026736,
+    22.78577136831215
+],
+  "geometry": {"coordinates":[[[-12.46803366026742,22.61277136831213],[-12.44853366026736,22.63507136831214],[-12.36613366026739,22.68107136831217],[-12.32053366026741,22.70467136831218],[-12.28533366026737,22.73327136831219],[-12.25963366026742,22.76237136831217],[-12.22483366026735,22.78577136831215],[-12.17373366026741,22.78527136831217],[-12.13233366026739,22.76267136831212],[-12.13213366026736,22.72217136831215],[-12.1438336602674,22.68687136831218],[-12.18623366026738,22.64737136831217],[-12.24733366026739,22.61937136831217],[-12.32393366026735,22.58957136831217],[-12.3802336602674,22.57017136831212],[-12.42683366026735,22.55757136831214],[-12.45943366026737,22.56567136831212],[-12.47443366026743,22.58297136831214],[-12.46803366026742,22.61277136831213]]],"type":"Polygon"}
+}

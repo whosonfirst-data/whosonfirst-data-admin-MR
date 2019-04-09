@@ -1,0 +1,71 @@
+{
+  "id": 1360308111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.08738,16.57849,-13.08738,16.57849",
+    "geom:latitude":16.57849,
+    "geom:longitude":-13.08738,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moit",
+    "gn:country_code":"MR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377779,
+    "gn:latitude":16.57849,
+    "gn:longitude":-13.08738,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mo\u00eft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouit",
+        "Mo\u00eft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377779
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b9e584b79553ce7396fc780e438e19f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695173,
+            "locality_id":1360308111,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1360308111,
+    "wof:lastmodified":1537665799,
+    "wof:name":"Moit",
+    "wof:parent_id":1091695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.08738,
+    16.57849,
+    -13.08738,
+    16.57849
+],
+  "geometry": {"coordinates":[-13.08738,16.57849],"type":"Point"}
+}

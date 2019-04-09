@@ -1,0 +1,65 @@
+{
+  "id": 1276672499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.6244,21.78915,-13.6244,21.78915",
+    "geom:latitude":21.78915,
+    "geom:longitude":-13.6244,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Falaklak",
+    "gn:country_code":"MR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7413962,
+    "gn:latitude":21.78915,
+    "gn:longitude":-13.6244,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Falaklak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7413962
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e17fd58d4d4b055190e1c3042cde4c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "locality_id":1276672499,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1276672499,
+    "wof:lastmodified":1536820302,
+    "wof:name":"Falaklak",
+    "wof:parent_id":85681349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.6244,
+    21.78915,
+    -13.6244,
+    21.78915
+],
+  "geometry": {"coordinates":[-13.6244,21.78915],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276761503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.83473,16.65861,-13.83473,16.65861",
+    "geom:latitude":16.65861,
+    "geom:longitude":-13.83473,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kra' Bou Mbare",
+    "gn:country_code":"MR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378452,
+    "gn:latitude":16.65861,
+    "gn:longitude":-13.83473,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kr\u00e2\u2019 Bo\u00fb Mb\u00e2r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kra\u00e2 Bou Mbar\u00e9",
+        "Kr\u00e2\u2019 Bo\u00fb Mb\u00e2r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378452
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"53f779c7630931b0f1fbec30936ee290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1276761503,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1276761503,
+    "wof:lastmodified":1537665802,
+    "wof:name":"Kra' Bou Mbare",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.83473,
+    16.65861,
+    -13.83473,
+    16.65861
+],
+  "geometry": {"coordinates":[-13.83473,16.65861],"type":"Point"}
+}

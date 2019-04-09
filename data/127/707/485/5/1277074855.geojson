@@ -1,0 +1,71 @@
+{
+  "id": 1277074855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.26229,15.78204,-13.26229,15.78204",
+    "geom:latitude":15.78204,
+    "geom:longitude":-13.26229,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koundel Reo",
+    "gn:country_code":"MR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378477,
+    "gn:latitude":15.78204,
+    "gn:longitude":-13.26229,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Kound\u00e9l R\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kound\u00e9l\u00e9",
+        "Kound\u00e9l R\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378477
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1b754bbcf8a97a2537ecbd40e126cc91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1277074855,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1277074855,
+    "wof:lastmodified":1537665802,
+    "wof:name":"Koundel Reo",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.26229,
+    15.78204,
+    -13.26229,
+    15.78204
+],
+  "geometry": {"coordinates":[-13.26229,15.78204],"type":"Point"}
+}

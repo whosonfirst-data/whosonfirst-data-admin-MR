@@ -1,0 +1,67 @@
+{
+  "id": 1209829597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3584,16.9417,-7.3584,16.9417",
+    "geom:latitude":16.9417,
+    "geom:longitude":-7.3584,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Taghaoumit",
+    "gn:country_code":"MR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2598226,
+    "gn:latitude":16.9417,
+    "gn:longitude":-7.3584,
+    "gn:modification_date":"2008-11-05",
+    "gn:name":"Taghaoum\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091696039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2598226
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"56dd550b165ab69481089016ecbc3e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696039,
+            "locality_id":1209829597,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1209829597,
+    "wof:lastmodified":1536369905,
+    "wof:name":"Taghaoumit",
+    "wof:parent_id":1091696039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3584,
+    16.9417,
+    -7.3584,
+    16.9417
+],
+  "geometry": {"coordinates":[-7.3584,16.9417],"type":"Point"}
+}

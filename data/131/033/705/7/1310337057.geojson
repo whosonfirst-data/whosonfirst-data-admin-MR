@@ -1,0 +1,71 @@
+{
+  "id": 1310337057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.95287,16.3371,-13.95287,16.3371",
+    "geom:latitude":16.3371,
+    "geom:longitude":-13.95287,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bababe",
+    "gn:country_code":"MR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381249,
+    "gn:latitude":16.3371,
+    "gn:longitude":-13.95287,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Babab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babab\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381249,
+        "wk:page":"Babab%C3%A9"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c46982a081ea72fae15f036d85e98359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1310337057,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1310337057,
+    "wof:lastmodified":1537665813,
+    "wof:name":"Bababe",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.95287,
+    16.3371,
+    -13.95287,
+    16.3371
+],
+  "geometry": {"coordinates":[-13.95287,16.3371],"type":"Point"}
+}

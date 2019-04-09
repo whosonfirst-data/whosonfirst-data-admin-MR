@@ -1,0 +1,71 @@
+{
+  "id": 1226349935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.27237,15.60199,-11.27237,15.60199",
+    "geom:latitude":15.60199,
+    "geom:longitude":-11.27237,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"N-Tilimit",
+    "gn:country_code":"MR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377373,
+    "gn:latitude":15.60199,
+    "gn:longitude":-11.27237,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N-T\u00eelim\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntilimitt",
+        "N-T\u00eelim\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377373
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"82fd63b7ae8358c612cefe36468182c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":1226349935,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1226349935,
+    "wof:lastmodified":1537665797,
+    "wof:name":"N-Tilimit",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.27237,
+    15.60199,
+    -11.27237,
+    15.60199
+],
+  "geometry": {"coordinates":[-11.27237,15.60199],"type":"Point"}
+}

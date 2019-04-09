@@ -1,0 +1,72 @@
+{
+  "id": 1343566093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.95593,16.51405,-13.95593,16.51405",
+    "geom:latitude":16.51405,
+    "geom:longitude":-13.95593,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Ouerat",
+    "gn:country_code":"MR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378282,
+    "gn:latitude":16.51405,
+    "gn:longitude":-13.95593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ou\u00e9r\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Roue\u00efrat",
+        "Lerou\u00e9rat",
+        "El Ou\u00e9r\u00e2t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378282
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"3e95d4e2e7388d881d603969ae2e160c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1343566093,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1343566093,
+    "wof:lastmodified":1537665801,
+    "wof:name":"El Ouerat",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.95593,
+    16.51405,
+    -13.95593,
+    16.51405
+],
+  "geometry": {"coordinates":[-13.95593,16.51405],"type":"Point"}
+}

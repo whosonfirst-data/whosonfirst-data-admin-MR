@@ -1,0 +1,65 @@
+{
+  "id": 1209426553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2929,17.4036,-11.2929,17.4036",
+    "geom:latitude":17.4036,
+    "geom:longitude":-11.2929,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gleib ec Cghir",
+    "gn:country_code":"MR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2598211,
+    "gn:latitude":17.4036,
+    "gn:longitude":-11.2929,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gle\u00efb e\u00e7 \u00c7gh\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gle\u00efb e\u00e7 \u00c7gh\u00een",
+        "Gle\u00efb e\u00e7 \u00c7gh\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2598211
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d9ce330e612c480d0fed9217b54c7958",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209426553
+        }
+    ],
+    "wof:id":1209426553,
+    "wof:lastmodified":1537665816,
+    "wof:name":"Gleib ec Cghir",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2929,
+    17.4036,
+    -11.2929,
+    17.4036
+],
+  "geometry": {"coordinates":[-11.2929,17.4036],"type":"Point"}
+}

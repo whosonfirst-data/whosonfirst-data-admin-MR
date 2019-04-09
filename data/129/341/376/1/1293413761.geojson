@@ -1,0 +1,71 @@
+{
+  "id": 1293413761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.66101,16.19402,-13.66101,16.19402",
+    "geom:latitude":16.19402,
+    "geom:longitude":-13.66101,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ouoloum Hatar",
+    "gn:country_code":"MR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377092,
+    "gn:latitude":16.19402,
+    "gn:longitude":-13.66101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00f4loum H\u00e2t\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouoloum Atar",
+        "Ou\u00f4loum H\u00e2t\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091694985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377092
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"60bbbe2a036639615013f8d327f093dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694985,
+            "locality_id":1293413761,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1293413761,
+    "wof:lastmodified":1537665795,
+    "wof:name":"Ouoloum Hatar",
+    "wof:parent_id":1091694985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.66101,
+    16.19402,
+    -13.66101,
+    16.19402
+],
+  "geometry": {"coordinates":[-13.66101,16.19402],"type":"Point"}
+}

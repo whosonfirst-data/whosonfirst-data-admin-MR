@@ -1,0 +1,67 @@
+{
+  "id": 1276765535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30804,15.6409,-9.30804,15.6409",
+    "geom:latitude":15.6409,
+    "geom:longitude":-9.30804,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dabai Amamede",
+    "gn:country_code":"MR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380472,
+    "gn:latitude":15.6409,
+    "gn:longitude":-9.30804,
+    "gn:modification_date":"2008-05-08",
+    "gn:name":"Daba\u00ef Amam\u00e9d\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380472
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"dba59d7426bf8850707a1df34263c36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":1276765535,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1276765535,
+    "wof:lastmodified":1536696890,
+    "wof:name":"Dabai Amamede",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30804,
+    15.6409,
+    -9.30804,
+    15.6409
+],
+  "geometry": {"coordinates":[-9.30804,15.6409],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309898499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.45972,16.57806,-15.45972,16.57806",
+    "geom:latitude":16.57806,
+    "geom:longitude":-15.45972,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tekane",
+    "gn:cc2":"MR",
+    "gn:country_code":"MR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376189,
+    "gn:latitude":16.57806,
+    "gn:longitude":-15.45972,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"T\u00e9kane",
+    "gn:population":22041,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9kane",
+        "T\u00e9kane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        421187973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376189,
+        "wk:page":"T%C3%A9kane"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"52c784deee6309bb75dc07f5293d9caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187973,
+            "locality_id":1309898499,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1309898499,
+    "wof:lastmodified":1537665792,
+    "wof:name":"Tekane",
+    "wof:parent_id":421187973,
+    "wof:placetype":"locality",
+    "wof:population":22041,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.45972,
+    16.57806,
+    -15.45972,
+    16.57806
+],
+  "geometry": {"coordinates":[-15.45972,16.57806],"type":"Point"}
+}

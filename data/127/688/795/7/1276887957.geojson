@@ -1,0 +1,72 @@
+{
+  "id": 1276887957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95056,15.4975,-6.95056,15.4975",
+    "geom:latitude":15.4975,
+    "geom:longitude":-6.95056,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"'Adel Bagrou",
+    "gn:country_code":"MR",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597438,
+    "gn:latitude":15.4975,
+    "gn:longitude":-6.95056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2019Adel Bagrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdel Begrou",
+        "\u2019Adel Bagrou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597438,
+        "wk:page":"Adel_Bagrou"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e12c6117f91071029d8fe8964a1a635b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":1276887957,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1276887957,
+    "wof:lastmodified":1537665815,
+    "wof:name":"'Adel Bagrou",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95056,
+    15.4975,
+    -6.95056,
+    15.4975
+],
+  "geometry": {"coordinates":[-6.95056,15.4975],"type":"Point"}
+}

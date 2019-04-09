@@ -1,0 +1,67 @@
+{
+  "id": 1226242949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.27443,16.14186,-13.27443,16.14186",
+    "geom:latitude":16.14186,
+    "geom:longitude":-13.27443,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mareifa",
+    "gn:country_code":"MR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378098,
+    "gn:latitude":16.14186,
+    "gn:longitude":-13.27443,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Mare\u00effa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378098
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a3573c432145154a6c1f52b1b5dc2153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1226242949,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1226242949,
+    "wof:lastmodified":1536938396,
+    "wof:name":"Mareifa",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.27443,
+    16.14186,
+    -13.27443,
+    16.14186
+],
+  "geometry": {"coordinates":[-13.27443,16.14186],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242681701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08563,15.5754,-8.08563,15.5754",
+    "geom:latitude":15.5754,
+    "geom:longitude":-8.08563,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bousteile",
+    "gn:country_code":"MR",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380695,
+    "gn:latitude":15.5754,
+    "gn:longitude":-8.08563,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boust\u00e9\u00efl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u00fb \u00c7\u1e6da\u00efla",
+        "Boust\u00e9\u00efl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380695
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"430c5e4044b5afb47632caf44df78fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":1242681701,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1242681701,
+    "wof:lastmodified":1537665810,
+    "wof:name":"Bousteile",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08563,
+    15.5754,
+    -8.08563,
+    15.5754
+],
+  "geometry": {"coordinates":[-8.08563,15.5754],"type":"Point"}
+}

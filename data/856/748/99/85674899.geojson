@@ -1,0 +1,324 @@
+{
+  "id": 85674899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":19.303317,
+    "geom:area_square_m":222583982458.105835,
+    "geom:bbox":"-14.3010836237,18.5571289063,-6.35462866914,24.3067713683",
+    "geom:latitude":21.016491,
+    "geom:longitude":-10.2143,
+    "gn:population":59670,
+    "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Adrar Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":21.031294,
+    "lbl:longitude":-8.950686,
+    "meso:name_local":"Adrar",
+    "meso:source":"mz",
+    "mps:latitude":21.077593,
+    "mps:longitude":-8.840248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0622\u062f\u0631\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0623\u062f\u0631\u0627\u0631",
+        "\u0622\u062f\u0631\u0627\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0410\u0434\u0440\u0430\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a6\u09b0\u09be\u09b0 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0434\u0440\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Regi\u00f3 dAdrar"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u5fb7\u62c9\u723e\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Adrar"
+    ],
+    "name:dut_x_preferred":[
+        "Adrar"
+    ],
+    "name:eng_x_preferred":[
+        "Adrar Region"
+    ],
+    "name:eng_x_variant":[
+        "Adrar"
+    ],
+    "name:epo_x_preferred":[
+        "Regiono Adrar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u062a \u0627\u062f\u0631\u0627\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Adrar"
+    ],
+    "name:fra_x_preferred":[
+        "Adrar"
+    ],
+    "name:fra_x_variant":[
+        "R\u00e9gion de l\u2019Adrar",
+        "Wilaya de l\u2019Adrar"
+    ],
+    "name:fre_x_preferred":[
+        "Adrar"
+    ],
+    "name:ger_x_preferred":[
+        "Adrar"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03c4\u03c1\u03ac\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0a85\u0aa6\u0ab0\u0abe\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0926\u0930\u093e\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Adrar"
+    ],
+    "name:ita_x_preferred":[
+        "Regione di Adrar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c9\u30e9\u30eb\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0ca6\u0ccd\u0cb0\u0cbe\u0cb0\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub4dc\ub77c\ub974 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Adr\u0101ras vil\u0101js"
+    ],
+    "name:lit_x_preferred":[
+        "Adraro vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0926\u0930\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Adrar"
+    ],
+    "name:nob_x_preferred":[
+        "Adrar"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u0629 \u0627\u062f\u0631\u0627\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Adrar"
+    ],
+    "name:por_x_preferred":[
+        "Adrar"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Adrar"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea Adrar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0440\u0430\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0da9\u0dca\u0dbb\u0dcf\u0dbb\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Adrar"
+    ],
+    "name:swe_x_preferred":[
+        "Adrar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9f\u0bcd\u0bb0\u0bb0\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c21\u0c4d\u0c30\u0c3e\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2d\u0e32\u0e14\u0e23\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Adrar B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0440\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "VII"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u062f\u0631\u0627\u0631 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c Adrar"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5fb7\u62c9\u723e\u7701"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MRT",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MRT-2795",
+    "ne:adm1_code":"MRT-2795",
+    "ne:admin":"Mauritania",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MR.AD",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2795",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MR07",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Mauritania",
+    "ne:gn_a1_code":"MR.07",
+    "ne:gn_id":"2381972",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Adrar",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MR07",
+    "ne:gns_id":"-1398358",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Adrar, Wilaya de l'",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MRT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MR-",
+    "ne:iso_a2":"MR",
+    "ne:labelrank":"6",
+    "ne:latitude":"20.76340000000",
+    "ne:longitude":"-10.33390000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":2,
+    "ne:name":"Adrar",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AD",
+    "ne:provnum_ne":"20011",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"6",
+    "ne:scalerank":"4",
+    "ne:sov_a3":"MRT",
+    "ne:sub_code":"",
+    "ne:type":"Wilayat|R\u00e9gion",
+    "ne:type_en":"Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346247,
+    "ne:woe_label":"Adrar, MR, Mauritania",
+    "ne:woe_name":"Adrar",
+    "qs:a0":"Mauritania",
+    "qs:a0_lc":"MR",
+    "qs:a1":"Adrar",
+    "qs:a1_lc":"MRT-2795",
+    "qs:adm0":"Mauritania",
+    "qs:adm0_a3":"MRT",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2013-03-25",
+    "statoids:area_km":"215300",
+    "statoids:area_mi":"83100",
+    "statoids:as_of_date":"2013-03-25",
+    "statoids:capital":"Atar",
+    "statoids:country":"MR",
+    "statoids:gec":"MR07",
+    "statoids:hasc":"MR.AD",
+    "statoids:iso":"7",
+    "statoids:name":"Adrar",
+    "statoids:population":"62658",
+    "statoids:timezone":"+0",
+    "statoids:type":"region",
+    "unlc:subdivision":"MR-07",
+    "wof:belongsto":[
+        102191573,
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MR07",
+        "gn:id":2381972,
+        "gp:id":2346247,
+        "hasc:id":"MR.AD",
+        "iso:id":"MR-7",
+        "qs:id":894923,
+        "unlc:id":"MR-07",
+        "wd:id":"Q366626",
+        "wk:page":"Adrar Region"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bb3fbc7f6f867dffe16665f31d733c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":85674899,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553814809,
+    "wof:name":"Adrar",
+    "wof:parent_id":85632679,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":62658,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:shortcode":"AD",
+    "wof:subdivision":"MR-07",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.30108362371295,
+    18.55712890625004,
+    -6.35462866913591,
+    24.30677136831213
+],
+  "geometry": {"coordinates":[[[-7.98760986328125,19.72552490234374],[-11.01330566406248,19.71148681640623],[-11.01333150383111,19.71148681640623],[-11.03472900390629,19.71148681640623],[-11.4027099609375,19.42431640624996],[-11.42248535156253,19.40887451171871],[-11.44561767578124,19.23950195312496],[-11.45050048828126,19.203125],[-11.67779541015629,19.31988525390629],[-11.89068603515623,19.17987060546878],[-11.89071769327946,19.17985095825595],[-12.34210205078127,18.89971923828123],[-12.45739746093751,18.77832031249998],[-12.66900634765625,18.55712890625004],[-13.24407958984376,19.00048828125004],[-14.2216796875,19.00048828125004],[-14.22070312499998,19.27667236328129],[-14.21960449218752,19.42871093749996],[-14.15441894531248,21.11810302734376],[-14.17309570312496,21.14471435546877],[-14.29919433593748,21.33911132812496],[-14.30108362371295,21.34167100833693],[-14.28723366026742,21.34157136831217],[-14.23263366026742,21.34127136831213],[-14.22263366026736,21.3423713683121],[-14.15253366026742,21.34197136831214],[-14.01763366026739,21.34127136831213],[-13.88283366026738,21.34037136831218],[-13.74803366026737,21.33937136831213],[-13.61323366026735,21.33827136831215],[-13.47843366026743,21.33707136831216],[-13.42963366026736,21.3366713683121],[-13.34363366026742,21.33557136831213],[-13.20883366026741,21.33387136831216],[-13.20163366026738,21.33377136831214],[-13.15013366026737,21.33167136831212],[-13.1427336602674,21.33297136831212],[-13.10923366026743,21.33287136831211],[-13.07423366026742,21.3321713683121],[-13.00173366026741,21.33077136831217],[-13.01793366026737,21.57757136831211],[-13.0048828125,21.57348632812502],[-12.37799072265621,21.35168457031254],[-10.78778076171875,21.52008056640627],[-6.49877929687496,24.28088378906253],[-6.49250001179932,24.29990453608787],[-6.48553366026742,24.30677136831213],[-6.46923366026736,24.15137136831216],[-6.45483366026739,24.03167136831213],[-6.4517336602674,23.99997136831214],[-6.45473366026738,23.98237136831217],[-6.45063366026742,23.95167136831214],[-6.45213366026737,23.94337136831214],[-6.45073366026735,23.93937136831211],[-6.44953366026736,23.93177136831211],[-6.44253366026736,23.87397136831211],[-6.44183366026735,23.8700713683121],[-6.44133366026737,23.86297136831217],[-6.43753366026737,23.83307136831217],[-6.43753366026737,23.82977136831215],[-6.43513366026739,23.81617136831212],[-6.43323366026739,23.80357136831213],[-6.43283366026742,23.79657136831213],[-6.43233366026735,23.78967136831214],[-6.42473366026736,23.73397136831218],[-6.4231336602674,23.72107136831215],[-6.42293366026737,23.71537136831215],[-6.42213366026735,23.70757136831212],[-6.42083366026743,23.70057136831213],[-6.42003366026741,23.69367136831214],[-6.41913366026737,23.69057136831215],[-6.41793366026738,23.67737136831217],[-6.41783366026737,23.67357136831217],[-6.41473366026738,23.65367136831214],[-6.4136336602674,23.64687136831217],[-6.4136336602674,23.64127136831218],[-6.40973366026739,23.60947136831218],[-6.40593366026739,23.57847136831211],[-6.40313366026736,23.55767136831214],[-6.40273366026739,23.55347136831217],[-6.40143366026739,23.54317136831215],[-6.3983336602674,23.51757136831213],[-6.39593366026742,23.49667136831214],[-6.39353366026735,23.47787136831217],[-6.38683366026739,23.42287136831212],[-6.38463366026735,23.41017136831212],[-6.38393366026743,23.39697136831214],[-6.3831336602674,23.39077136831217],[-6.38223366026737,23.38317136831217],[-6.38113366026739,23.37887136831219],[-6.37653366026737,23.34677136831214],[-6.37603366026739,23.33997136831217],[-6.36613366026743,23.25977136831215],[-6.35553366026737,23.18027136831214],[-6.35663366026743,23.17067136831213],[-6.35463366026742,23.15727136831212],[-6.35462866913591,23.15726869449167],[-6.35931396484376,23.15112304687499],[-6.37902832031249,23.10772705078124],[-7.52947998046877,20.68872070312498],[-7.97418212890627,19.75390624999996],[-7.98760986328125,19.72552490234374]]],"type":"Polygon"}
+}

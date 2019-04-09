@@ -1,0 +1,71 @@
+{
+  "id": 1260102901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.92617,16.38731,-13.92617,16.38731",
+    "geom:latitude":16.38731,
+    "geom:longitude":-13.92617,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vinde Aboidi",
+    "gn:country_code":"MR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375702,
+    "gn:latitude":16.38731,
+    "gn:longitude":-13.92617,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00eend\u00e9 Abo\u00efdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinnd\u00e9 Abo\u00efdi",
+        "V\u00eend\u00e9 Abo\u00efdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375702
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"85dffc03be1b2665f6ed7ccf6da63b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695099,
+            "locality_id":1260102901,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1260102901,
+    "wof:lastmodified":1537665790,
+    "wof:name":"Vinde Aboidi",
+    "wof:parent_id":1091695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.92617,
+    16.38731,
+    -13.92617,
+    16.38731
+],
+  "geometry": {"coordinates":[-13.92617,16.38731],"type":"Point"}
+}

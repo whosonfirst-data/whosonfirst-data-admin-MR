@@ -1,0 +1,67 @@
+{
+  "id": 1259606225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.41912,16.65079,-14.41912,16.65079",
+    "geom:latitude":16.65079,
+    "geom:longitude":-14.41912,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ndirol",
+    "gn:country_code":"MR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377566,
+    "gn:latitude":16.65079,
+    "gn:longitude":-14.41912,
+    "gn:modification_date":"2007-09-19",
+    "gn:name":"Ndirol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377566
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b0bf6aba1bab0e85f219a164472fa169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1259606225,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1259606225,
+    "wof:lastmodified":1536681999,
+    "wof:name":"Ndirol",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.41912,
+    16.65079,
+    -14.41912,
+    16.65079
+],
+  "geometry": {"coordinates":[-14.41912,16.65079],"type":"Point"}
+}

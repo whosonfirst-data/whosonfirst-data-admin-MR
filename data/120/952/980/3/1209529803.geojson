@@ -1,0 +1,61 @@
+{
+  "id": 1209529803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98446,15.57792,-7.98446,15.57792",
+    "geom:latitude":15.57792,
+    "geom:longitude":-7.98446,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tchera Idobilat",
+    "gn:country_code":"MR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376374,
+    "gn:latitude":15.57792,
+    "gn:longitude":-7.98446,
+    "gn:modification_date":"2008-06-10",
+    "gn:name":"Tch\u00e9ra Idobilat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376374
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"46ced9a616542b52a09850e361520fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209529803
+        }
+    ],
+    "wof:id":1209529803,
+    "wof:lastmodified":1536284316,
+    "wof:name":"Tchera Idobilat",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98446,
+    15.57792,
+    -7.98446,
+    15.57792
+],
+  "geometry": {"coordinates":[-7.98446,15.57792],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276251873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.34492,16.63864,-14.34492,16.63864",
+    "geom:latitude":16.63864,
+    "geom:longitude":-14.34492,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ngorel",
+    "gn:country_code":"MR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377517,
+    "gn:latitude":16.63864,
+    "gn:longitude":-14.34492,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngorel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Gora\u00ef",
+        "Ngorel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377517
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"64d23c419d1a07608607aee8f8cbebbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691515,
+            "locality_id":1276251873,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":1276251873,
+    "wof:lastmodified":1537665798,
+    "wof:name":"Ngorel",
+    "wof:parent_id":1108691515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.34492,
+    16.63864,
+    -14.34492,
+    16.63864
+],
+  "geometry": {"coordinates":[-14.34492,16.63864],"type":"Point"}
+}

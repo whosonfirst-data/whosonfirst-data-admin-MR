@@ -1,0 +1,82 @@
+{
+  "id": 1309811113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9899,17.1194,-10.9899,17.1194",
+    "geom:latitude":17.1194,
+    "geom:longitude":-10.9899,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oumm el Khezz",
+    "gn:country_code":"MR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377137,
+    "gn:latitude":17.1194,
+    "gn:longitude":-10.9899,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oumm el Khezz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Oumm el Khezz"
+    ],
+    "name:fra_x_variant":[
+        "Oumoul Rheuz",
+        "Oumoulkheuze",
+        "Oumoul Kheuz",
+        "Oumm el Khez"
+    ],
+    "name:und_x_variant":[
+        "Oumm el Khez",
+        "Oumoulkheuze",
+        "Oumoul Kheuz",
+        "Oumoul Rheuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377137
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9856b5389630fba7efb860f429295906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":1309811113,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1309811113,
+    "wof:lastmodified":1537665796,
+    "wof:name":"Oumm el Khezz",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9899,
+    17.1194,
+    -10.9899,
+    17.1194
+],
+  "geometry": {"coordinates":[-10.9899,17.1194],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360269209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.00641,14.92082,-12.00641,14.92082",
+    "geom:latitude":14.92082,
+    "geom:longitude":-12.00641,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Godiovol",
+    "gn:country_code":"MR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379391,
+    "gn:latitude":14.92082,
+    "gn:longitude":-12.00641,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Godiovol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godioval",
+        "Godiovol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379391
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"af01b55c23ab05f69b4d2a70f00d95da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1360269209,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1360269209,
+    "wof:lastmodified":1537665805,
+    "wof:name":"Godiovol",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.00641,
+    14.92082,
+    -12.00641,
+    14.92082
+],
+  "geometry": {"coordinates":[-12.00641,14.92082],"type":"Point"}
+}

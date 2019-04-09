@@ -1,0 +1,67 @@
+{
+  "id": 1276550503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.05653,15.43427,-10.05653,15.43427",
+    "geom:latitude":15.43427,
+    "geom:longitude":-10.05653,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bougoudre",
+    "gn:country_code":"MR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380810,
+    "gn:latitude":15.43427,
+    "gn:longitude":-10.05653,
+    "gn:modification_date":"2007-10-02",
+    "gn:name":"Bougoudr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380810
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"73ff251c6531f097cc75e11478a33b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1276550503,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276550503,
+    "wof:lastmodified":1536984198,
+    "wof:name":"Bougoudre",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.05653,
+    15.43427,
+    -10.05653,
+    15.43427
+],
+  "geometry": {"coordinates":[-10.05653,15.43427],"type":"Point"}
+}

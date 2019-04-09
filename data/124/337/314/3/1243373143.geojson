@@ -1,0 +1,71 @@
+{
+  "id": 1243373143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.87635,15.55234,-8.87635,15.55234",
+    "geom:latitude":15.55234,
+    "geom:longitude":-8.87635,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tichilit el Hradem",
+    "gn:country_code":"MR",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376223,
+    "gn:latitude":15.55234,
+    "gn:longitude":-8.87635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00eechil\u00eet el Hradem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00eechil\u00eet el Kh\u00e2dem",
+        "T\u00eechil\u00eet el Hradem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376223
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b805daa414224f75fcba46925fe591f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695039,
+            "locality_id":1243373143,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1243373143,
+    "wof:lastmodified":1537665792,
+    "wof:name":"Tichilit el Hradem",
+    "wof:parent_id":1091695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87635,
+    15.55234,
+    -8.87635,
+    15.55234
+],
+  "geometry": {"coordinates":[-8.87635,15.55234],"type":"Point"}
+}

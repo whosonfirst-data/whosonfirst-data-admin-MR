@@ -1,0 +1,72 @@
+{
+  "id": 1293010511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.05,16.7,-15.05,16.7",
+    "geom:latitude":16.7,
+    "geom:longitude":-15.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Diaouara",
+    "gn:cc2":"MR",
+    "gn:country_code":"MR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380293,
+    "gn:latitude":16.7,
+    "gn:longitude":-15.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diaouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diawara",
+        "Diaouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380293
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b3e2500e8f2a0149b0a93fdcf580f4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695385,
+            "locality_id":1293010511,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1293010511,
+    "wof:lastmodified":1537665808,
+    "wof:name":"Diaouara",
+    "wof:parent_id":1091695385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.05,
+    16.7,
+    -15.05,
+    16.7
+],
+  "geometry": {"coordinates":[-15.05,16.7],"type":"Point"}
+}

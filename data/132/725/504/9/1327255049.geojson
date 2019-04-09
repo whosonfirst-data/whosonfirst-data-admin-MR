@@ -1,0 +1,70 @@
+{
+  "id": 1327255049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.05368,19.94377,-13.05368,19.94377",
+    "geom:latitude":19.94377,
+    "geom:longitude":-13.05368,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Laargoub",
+    "gn:country_code":"MR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11395612,
+    "gn:latitude":19.94377,
+    "gn:longitude":-13.05368,
+    "gn:modification_date":"2016-12-15",
+    "gn:name":"Laargoub",
+    "gn:population":30,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395612
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"84ef0be2839c2cb80409705063584165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1327255049,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1327255049,
+    "wof:lastmodified":1536937696,
+    "wof:name":"Laargoub",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.05368,
+    19.94377,
+    -13.05368,
+    19.94377
+],
+  "geometry": {"coordinates":[-13.05368,19.94377],"type":"Point"}
+}

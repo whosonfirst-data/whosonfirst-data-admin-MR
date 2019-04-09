@@ -1,0 +1,71 @@
+{
+  "id": 1193149983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.05853,15.52867,-10.05853,15.52867",
+    "geom:latitude":15.52867,
+    "geom:longitude":-10.05853,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akouawi",
+    "gn:country_code":"MR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381679,
+    "gn:latitude":15.52867,
+    "gn:longitude":-10.05853,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akouawi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akouaoui",
+        "Akouawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091695069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381679
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a00acc9a12cdad01355d054eaf69d308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695069,
+            "locality_id":1193149983,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1193149983,
+    "wof:lastmodified":1537665814,
+    "wof:name":"Akouawi",
+    "wof:parent_id":1091695069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.05853,
+    15.52867,
+    -10.05853,
+    15.52867
+],
+  "geometry": {"coordinates":[-10.05853,15.52867],"type":"Point"}
+}

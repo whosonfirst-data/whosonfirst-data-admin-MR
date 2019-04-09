@@ -1,0 +1,72 @@
+{
+  "id": 1310123539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04348,15.64734,-8.04348,15.64734",
+    "geom:latitude":15.64734,
+    "geom:longitude":-8.04348,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hasei Lagha",
+    "gn:country_code":"MR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379092,
+    "gn:latitude":15.64734,
+    "gn:longitude":-8.04348,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2s\u00e8\u00ef Lagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e2s\u00e8\u00ef Larha",
+        "Hasse\u00ef Larha",
+        "H\u00e2s\u00e8\u00ef Lagha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379092
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0d005efe4c59f85bfc06137b7564c1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":1310123539,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1310123539,
+    "wof:lastmodified":1537665803,
+    "wof:name":"Hasei Lagha",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04348,
+    15.64734,
+    -8.04348,
+    15.64734
+],
+  "geometry": {"coordinates":[-8.04348,15.64734],"type":"Point"}
+}

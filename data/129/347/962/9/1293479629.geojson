@@ -1,0 +1,73 @@
+{
+  "id": 1293479629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.49394,18.44134,-9.49394,18.44134",
+    "geom:latitude":18.44134,
+    "geom:longitude":-9.49394,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tichit",
+    "gn:country_code":"MR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376218,
+    "gn:latitude":18.44134,
+    "gn:longitude":-9.49394,
+    "gn:modification_date":"2017-08-17",
+    "gn:name":"T\u00eech\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tishit",
+        "Tichitt",
+        "T\u00eech\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674909,
+        1091695767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376218,
+        "wk:page":"Tichit"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bddb2c9d482daa2abd5912effcf3ff46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695767,
+            "locality_id":1293479629,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":1293479629,
+    "wof:lastmodified":1537665792,
+    "wof:name":"Tichit",
+    "wof:parent_id":1091695767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.49394,
+    18.44134,
+    -9.49394,
+    18.44134
+],
+  "geometry": {"coordinates":[-9.49394,18.44134],"type":"Point"}
+}

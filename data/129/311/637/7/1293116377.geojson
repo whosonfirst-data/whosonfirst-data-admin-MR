@@ -1,0 +1,67 @@
+{
+  "id": 1293116377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70523,15.57065,-8.70523,15.57065",
+    "geom:latitude":15.57065,
+    "geom:longitude":-8.70523,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Leangrat",
+    "gn:country_code":"MR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378379,
+    "gn:latitude":15.57065,
+    "gn:longitude":-8.70523,
+    "gn:modification_date":"2007-12-18",
+    "gn:name":"L\u00e9angrat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378379
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d88d8fe4e1e751fd52f07c0cd8429b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695039,
+            "locality_id":1293116377,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1293116377,
+    "wof:lastmodified":1536824204,
+    "wof:name":"Leangrat",
+    "wof:parent_id":1091695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70523,
+    15.57065,
+    -8.70523,
+    15.57065
+],
+  "geometry": {"coordinates":[-8.70523,15.57065],"type":"Point"}
+}

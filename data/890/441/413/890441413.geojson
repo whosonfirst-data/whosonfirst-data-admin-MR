@@ -1,0 +1,100 @@
+{
+  "id": 890441413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.49849,16.64039,-12.49849,16.64039",
+    "geom:latitude":16.64039,
+    "geom:longitude":-12.49849,
+    "gn:country":"MR",
+    "gn:fcode":"PPL",
+    "gn:pop":1100,
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cos_x_preferred":[
+        "Barkewol"
+    ],
+    "name:eng_x_preferred":[
+        "Barkeol"
+    ],
+    "name:fre_x_preferred":[
+        "Barkewol"
+    ],
+    "name:ita_x_preferred":[
+        "Barkewol"
+    ],
+    "name:may_x_preferred":[
+        "Barkeol"
+    ],
+    "name:pol_x_preferred":[
+        "Barkewol"
+    ],
+    "name:rum_x_preferred":[
+        "Barkewol"
+    ],
+    "name:sdc_x_preferred":[
+        "Barkewol"
+    ],
+    "name:srd_x_preferred":[
+        "Barkewol"
+    ],
+    "name:swe_x_preferred":[
+        "Bark\u00e9wol"
+    ],
+    "name:unk_x_variant":[
+        "Bark\u00e9ol"
+    ],
+    "qs:name":"Bark\u00e9wol",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381163,
+        "gp:id":1503582,
+        "qs:id":278589,
+        "wd:id":"Q2884592"
+    },
+    "wof:country":"MR",
+    "wof:created":1469052322,
+    "wof:geomhash":"8a808bb5056c1765711fd434d0e12efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":890441413,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":890441413,
+    "wof:lastmodified":1514485284,
+    "wof:name":"Bark\u00e9wol",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:population":1100,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.49849,
+    16.64039,
+    -12.49849,
+    16.64039
+],
+  "geometry": {"coordinates":[-12.49849,16.64039],"type":"Point"}
+}

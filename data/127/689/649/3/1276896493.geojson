@@ -1,0 +1,68 @@
+{
+  "id": 1276896493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.08778,17.24028,-16.08778,17.24028",
+    "geom:latitude":17.24028,
+    "geom:longitude":-16.08778,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tiguent",
+    "gn:country_code":"MR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2598184,
+    "gn:latitude":17.24028,
+    "gn:longitude":-16.08778,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tiguent",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2598184,
+        "wk:page":"Tiguent"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"171c38d0a00e1f60af92bb5893a6b1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695465,
+            "locality_id":1276896493,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1276896493,
+    "wof:lastmodified":1537568539,
+    "wof:name":"Tiguent",
+    "wof:parent_id":1091695465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.08778,
+    17.24028,
+    -16.08778,
+    17.24028
+],
+  "geometry": {"coordinates":[-16.08778,17.24028],"type":"Point"}
+}

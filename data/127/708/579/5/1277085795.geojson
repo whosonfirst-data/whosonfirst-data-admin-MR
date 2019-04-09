@@ -1,0 +1,71 @@
+{
+  "id": 1277085795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.75724,16.81995,-11.75724,16.81995",
+    "geom:latitude":16.81995,
+    "geom:longitude":-11.75724,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hovratt ehl Cheikh Sid'Elemine hfrt ahl alshykh sydy alamyn",
+    "gn:country_code":"MR",
+    "gn:dem":153,
+    "gn:elevation":"155.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":11496826,
+    "gn:latitude":16.81995,
+    "gn:longitude":-11.75724,
+    "gn:modification_date":"2017-03-27",
+    "gn:name":"Hovratt ehl Cheikh Sid'Elemine \u062d\u0641\u0631\u0629 \u0623\u0647\u0644 \u0627\u0644\u0634\u064a\u062e \u0633\u064a\u062f\u064a \u0627\u0644\u0623\u0645\u064a\u0646",
+    "gn:population":500,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496826
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bcb28378c4b9f69745b2ea9a94997d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695319,
+            "locality_id":1277085795,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1277085795,
+    "wof:lastmodified":1536763479,
+    "wof:name":"Hovratt ehl Cheikh Sid'Elemine hfrt ahl alshykh sydy alamyn",
+    "wof:parent_id":1091695319,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.75724,
+    16.81995,
+    -11.75724,
+    16.81995
+],
+  "geometry": {"coordinates":[-11.75724,16.81995],"type":"Point"}
+}

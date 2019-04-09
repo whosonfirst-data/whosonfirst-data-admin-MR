@@ -1,0 +1,71 @@
+{
+  "id": 1343572755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.97545,15.39966,-10.97545,15.39966",
+    "geom:latitude":15.39966,
+    "geom:longitude":-10.97545,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kiliwa",
+    "gn:country_code":"MR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378533,
+    "gn:latitude":15.39966,
+    "gn:longitude":-10.97545,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kiliwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilioua",
+        "Kiliwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378533
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2abe4ceb785a2434d42593de89284a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":1343572755,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1343572755,
+    "wof:lastmodified":1537665802,
+    "wof:name":"Kiliwa",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.97545,
+    15.39966,
+    -10.97545,
+    15.39966
+],
+  "geometry": {"coordinates":[-10.97545,15.39966],"type":"Point"}
+}

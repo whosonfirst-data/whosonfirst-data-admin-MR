@@ -1,0 +1,67 @@
+{
+  "id": 1360007161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.00727,20.25753,-13.00727,20.25753",
+    "geom:latitude":20.25753,
+    "geom:longitude":-13.00727,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Toul",
+    "gn:country_code":"MR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7395470,
+    "gn:latitude":20.25753,
+    "gn:longitude":-13.00727,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"To\u00fbl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7395470
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d524fd92fa19f1794aa5fb7f87481f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":1360007161,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1360007161,
+    "wof:lastmodified":1537055695,
+    "wof:name":"Toul",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.00727,
+    20.25753,
+    -13.00727,
+    20.25753
+],
+  "geometry": {"coordinates":[-13.00727,20.25753],"type":"Point"}
+}

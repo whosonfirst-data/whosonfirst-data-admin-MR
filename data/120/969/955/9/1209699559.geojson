@@ -1,0 +1,67 @@
+{
+  "id": 1209699559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.11881,15.91393,-12.11881,15.91393",
+    "geom:latitude":15.91393,
+    "geom:longitude":-12.11881,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bou Amama",
+    "gn:country_code":"MR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380903,
+    "gn:latitude":15.91393,
+    "gn:longitude":-12.11881,
+    "gn:modification_date":"2007-11-26",
+    "gn:name":"Bou Amama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380903
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0d798db5ec7982a5b6f1f098aaba39f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1209699559,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1209699559,
+    "wof:lastmodified":1536395590,
+    "wof:name":"Bou Amama",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.11881,
+    15.91393,
+    -12.11881,
+    15.91393
+],
+  "geometry": {"coordinates":[-12.11881,15.91393],"type":"Point"}
+}

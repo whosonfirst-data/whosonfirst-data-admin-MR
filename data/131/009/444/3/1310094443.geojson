@@ -1,0 +1,71 @@
+{
+  "id": 1310094443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.65363,15.91824,-11.65363,15.91824",
+    "geom:latitude":15.91824,
+    "geom:longitude":-11.65363,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Samba",
+    "gn:country_code":"MR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376832,
+    "gn:latitude":15.91824,
+    "gn:longitude":-11.65363,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanba",
+        "Samba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376832
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"36309f0bb6c4ab4447df7de5bdba7736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1310094443,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1310094443,
+    "wof:lastmodified":1537665794,
+    "wof:name":"Samba",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.65363,
+    15.91824,
+    -11.65363,
+    15.91824
+],
+  "geometry": {"coordinates":[-11.65363,15.91824],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276994107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6153,16.6214,-9.6153,16.6214",
+    "geom:latitude":16.6214,
+    "geom:longitude":-9.6153,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dar es Salam",
+    "gn:country_code":"MR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914213,
+    "gn:latitude":16.6214,
+    "gn:longitude":-9.6153,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"D\u00e2r es Sal\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914213
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f81da0e0d0be894a64ee76d0d1ba2b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":1276994107,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1276994107,
+    "wof:lastmodified":1536887437,
+    "wof:name":"Dar es Salam",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6153,
+    16.6214,
+    -9.6153,
+    16.6214
+],
+  "geometry": {"coordinates":[-9.6153,16.6214],"type":"Point"}
+}

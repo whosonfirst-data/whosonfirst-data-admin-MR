@@ -1,0 +1,71 @@
+{
+  "id": 1209900023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.97307,15.87896,-11.97307,15.87896",
+    "geom:latitude":15.87896,
+    "geom:longitude":-11.97307,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Idaouach",
+    "gn:country_code":"MR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378998,
+    "gn:latitude":15.87896,
+    "gn:longitude":-11.97307,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Idaouach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idawache",
+        "Idaouach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378998
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9534cd486f36dc990400085d397471f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1209900023,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1209900023,
+    "wof:lastmodified":1537665803,
+    "wof:name":"Idaouach",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.97307,
+    15.87896,
+    -11.97307,
+    15.87896
+],
+  "geometry": {"coordinates":[-11.97307,15.87896],"type":"Point"}
+}

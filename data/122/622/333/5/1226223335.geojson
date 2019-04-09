@@ -1,0 +1,90 @@
+{
+  "id": 1226223335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.711,22.678,-12.711,22.678",
+    "geom:latitude":22.678,
+    "geom:longitude":-12.711,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Fderik",
+    "gn:country_code":"MR",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379615,
+    "gn:latitude":22.678,
+    "gn:longitude":-12.711,
+    "gn:modification_date":"2017-09-10",
+    "gn:name":"Fd\u00e9rik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "F'd\u00e9rik"
+    ],
+    "name:eng_x_preferred":[
+        "Fder\u00eeck"
+    ],
+    "name:fra_x_preferred":[
+        "Fder\u00eeck"
+    ],
+    "name:pol_x_preferred":[
+        "Fdajrik"
+    ],
+    "name:und_x_variant":[
+        "Fdeirek",
+        "Fd\u00e9rick",
+        "Idjil",
+        "Fort Gouraud",
+        "Fort Goureaud",
+        "Fort Trinquet",
+        "Fd\u00e9rik",
+        "Fderik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674857,
+        1091696097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379615,
+        "wk:page":"Fder%C3%AEck"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"356460bb4f01f4351c0376900cd3fc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696097,
+            "locality_id":1226223335,
+            "region_id":85674857
+        }
+    ],
+    "wof:id":1226223335,
+    "wof:lastmodified":1537665806,
+    "wof:name":"Fderik",
+    "wof:parent_id":1091696097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.711,
+    22.678,
+    -12.711,
+    22.678
+],
+  "geometry": {"coordinates":[-12.711,22.678],"type":"Point"}
+}

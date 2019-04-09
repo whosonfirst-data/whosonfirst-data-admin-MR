@@ -1,0 +1,67 @@
+{
+  "id": 1226060587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84156,15.61195,-7.84156,15.61195",
+    "geom:latitude":15.61195,
+    "geom:longitude":-7.84156,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zainat",
+    "gn:country_code":"MR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375659,
+    "gn:latitude":15.61195,
+    "gn:longitude":-7.84156,
+    "gn:modification_date":"2008-06-10",
+    "gn:name":"Zainat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375659
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"cda7828408bb598e8363148b53887ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":1226060587,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1226060587,
+    "wof:lastmodified":1536704050,
+    "wof:name":"Zainat",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84156,
+    15.61195,
+    -7.84156,
+    15.61195
+],
+  "geometry": {"coordinates":[-7.84156,15.61195],"type":"Point"}
+}

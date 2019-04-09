@@ -1,0 +1,67 @@
+{
+  "id": 1310119071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6991,16.5309,-9.6991,16.5309",
+    "geom:latitude":16.5309,
+    "geom:longitude":-9.6991,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ti-n-Hammad",
+    "gn:country_code":"MR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914219,
+    "gn:latitude":16.5309,
+    "gn:longitude":-9.6991,
+    "gn:modification_date":"2009-01-07",
+    "gn:name":"Ti-n-Hamm\u00e2d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914219
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"60eb9cc523efff2e03705c72b5b775a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":1310119071,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1310119071,
+    "wof:lastmodified":1536976290,
+    "wof:name":"Ti-n-Hammad",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6991,
+    16.5309,
+    -9.6991,
+    16.5309
+],
+  "geometry": {"coordinates":[-9.6991,16.5309],"type":"Point"}
+}

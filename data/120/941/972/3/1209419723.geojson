@@ -1,0 +1,65 @@
+{
+  "id": 1209419723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.81072,16.39753,-13.81072,16.39753",
+    "geom:latitude":16.39753,
+    "geom:longitude":-13.81072,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Liguil Khairi",
+    "gn:country_code":"MR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378252,
+    "gn:latitude":16.39753,
+    "gn:longitude":-13.81072,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Liguil Kha\u00efri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liguilka\u00efri",
+        "Liguil Kha\u00efri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378252
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"98dc48de4ae4a8ab04c7e464041093f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209419723
+        }
+    ],
+    "wof:id":1209419723,
+    "wof:lastmodified":1537665801,
+    "wof:name":"Liguil Khairi",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.81072,
+    16.39753,
+    -13.81072,
+    16.39753
+],
+  "geometry": {"coordinates":[-13.81072,16.39753],"type":"Point"}
+}

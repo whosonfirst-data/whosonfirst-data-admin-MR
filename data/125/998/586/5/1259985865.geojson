@@ -1,0 +1,71 @@
+{
+  "id": 1259985865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.47164,15.99169,-12.47164,15.99169",
+    "geom:latitude":15.99169,
+    "geom:longitude":-12.47164,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Botoula Taring",
+    "gn:country_code":"MR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380914,
+    "gn:latitude":15.99169,
+    "gn:longitude":-12.47164,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Botoula Taring",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soue\u00eff",
+        "Botoula Taring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380914
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"58542055ed55f9d805e74e7e71b07288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1259985865,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1259985865,
+    "wof:lastmodified":1537665811,
+    "wof:name":"Botoula Taring",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.47164,
+    15.99169,
+    -12.47164,
+    15.99169
+],
+  "geometry": {"coordinates":[-12.47164,15.99169],"type":"Point"}
+}

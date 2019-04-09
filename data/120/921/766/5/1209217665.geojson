@@ -1,0 +1,61 @@
+{
+  "id": 1209217665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53849,15.46247,-9.53849,15.46247",
+    "geom:latitude":15.46247,
+    "geom:longitude":-9.53849,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Moudiat",
+    "gn:country_code":"MR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377798,
+    "gn:latitude":15.46247,
+    "gn:longitude":-9.53849,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Moudiat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377798
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c41d5829531668973603483f2221e3c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209217665
+        }
+    ],
+    "wof:id":1209217665,
+    "wof:lastmodified":1536294075,
+    "wof:name":"Moudiat",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53849,
+    15.46247,
+    -9.53849,
+    15.46247
+],
+  "geometry": {"coordinates":[-9.53849,15.46247],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1360187707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6149,16.6614,-9.6149,16.6614",
+    "geom:latitude":16.6614,
+    "geom:longitude":-9.6149,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aioun",
+    "gn:country_code":"MR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2381291,
+    "gn:latitude":16.6614,
+    "gn:longitude":-9.6149,
+    "gn:modification_date":"2017-09-09",
+    "gn:name":"Aioun",
+    "gn:population":12635,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0639\u064a\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u064a\u0648\u0646",
+        "\u0639\u064a\u0648\u0646 \u0627\u0644\u0639\u062a\u0631\u0648\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Ayoun El Atrous"
+    ],
+    "name:nor_x_preferred":[
+        "Ayoun El Atrous"
+    ],
+    "name:und_x_variant":[
+        "A\u00efoun el Atrouss",
+        "\u2019Ayo\u00fbn el \u2019Atro\u00fbs",
+        "Aioun",
+        "A\u00efoun",
+        "Ayo\u00fbn el Atro\u00fbs",
+        "La\u2018y\u016bn",
+        "Al \u2018Ay\u016bn",
+        "\u2018Uy\u016bn al \u2018Atr\u016bs",
+        "\u2018Ay\u016bn al \u2018Atr\u016bs",
+        "Lu\u2018y\u016bn",
+        "Al \u2018Uy\u016bn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381291,
+        "wk:page":"Ayoun_el_Atrous"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b35f01a28cbbd6fd7496889e4ecdabaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":1360187707,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1360187707,
+    "wof:lastmodified":1537665813,
+    "wof:name":"Aioun",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:population":12635,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6149,
+    16.6614,
+    -9.6149,
+    16.6614
+],
+  "geometry": {"coordinates":[-9.6149,16.6614],"type":"Point"}
+}

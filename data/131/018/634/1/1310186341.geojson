@@ -1,0 +1,83 @@
+{
+  "id": 1310186341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57928,25.22125,-11.57928,25.22125",
+    "geom:latitude":25.22125,
+    "geom:longitude":-11.57928,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bir Mogrein",
+    "gn:country_code":"MR",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380975,
+    "gn:latitude":25.22125,
+    "gn:longitude":-11.57928,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00eer Mogre\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir Morhrein",
+        "Bir el Moghre\u00efn",
+        "Bir Oum Grein",
+        "Bir Oum Gre\u00efne",
+        "Bir Moghrein",
+        "B\u00eer Moghre\u00efn",
+        "Bir Moghreim",
+        "Bir Moghrin",
+        "Bir Umm Grain",
+        "Bir Oum el Grein",
+        "Bir Moghre\u00efne",
+        "Fort-Trinquet",
+        "B\u00eer Mogre\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674857,
+        1091696117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380975,
+        "wk:page":"Bir_Moghrein"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e8ca70e0366f87efce9311b7e220aab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696117,
+            "locality_id":1310186341,
+            "region_id":85674857
+        }
+    ],
+    "wof:id":1310186341,
+    "wof:lastmodified":1537665812,
+    "wof:name":"Bir Mogrein",
+    "wof:parent_id":1091696117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57928,
+    25.22125,
+    -11.57928,
+    25.22125
+],
+  "geometry": {"coordinates":[-11.57928,25.22125],"type":"Point"}
+}

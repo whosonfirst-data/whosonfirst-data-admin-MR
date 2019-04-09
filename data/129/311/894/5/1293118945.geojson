@@ -1,0 +1,67 @@
+{
+  "id": 1293118945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.68986,15.94527,-11.68986,15.94527",
+    "geom:latitude":15.94527,
+    "geom:longitude":-11.68986,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Moudere",
+    "gn:country_code":"MR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379813,
+    "gn:latitude":15.94527,
+    "gn:longitude":-11.68986,
+    "gn:modification_date":"2007-09-11",
+    "gn:name":"El Moud\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379813
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9763b9164429d4b98178e4400f4cd8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1293118945,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1293118945,
+    "wof:lastmodified":1536820581,
+    "wof:name":"El Moudere",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.68986,
+    15.94527,
+    -11.68986,
+    15.94527
+],
+  "geometry": {"coordinates":[-11.68986,15.94527],"type":"Point"}
+}

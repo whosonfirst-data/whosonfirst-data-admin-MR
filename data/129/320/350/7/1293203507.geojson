@@ -1,0 +1,67 @@
+{
+  "id": 1293203507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28314,15.55118,-9.28314,15.55118",
+    "geom:latitude":15.55118,
+    "geom:longitude":-9.28314,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tinde",
+    "gn:country_code":"MR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376081,
+    "gn:latitude":15.55118,
+    "gn:longitude":-9.28314,
+    "gn:modification_date":"2008-05-08",
+    "gn:name":"Tind\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376081
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"41890a08d1e8ef5472ab3ccbbce157f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":1293203507,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1293203507,
+    "wof:lastmodified":1536699730,
+    "wof:name":"Tinde",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28314,
+    15.55118,
+    -9.28314,
+    15.55118
+],
+  "geometry": {"coordinates":[-9.28314,15.55118],"type":"Point"}
+}

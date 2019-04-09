@@ -1,0 +1,67 @@
+{
+  "id": 1343571383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.5,15.38333,-15.5,15.38333",
+    "geom:latitude":15.38333,
+    "geom:longitude":-15.5,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bouguerha",
+    "gn:country_code":"MR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380803,
+    "gn:latitude":15.38333,
+    "gn:longitude":-15.5,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Bougu\u00e9rha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677015,
+        1108691509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380803
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"28c9354b564aa527bbdeeb5ef9e50f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691509,
+            "locality_id":1343571383,
+            "region_id":85677015
+        }
+    ],
+    "wof:id":1343571383,
+    "wof:lastmodified":1537080471,
+    "wof:name":"Bouguerha",
+    "wof:parent_id":1108691509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.5,
+    15.38333,
+    -15.5,
+    15.38333
+],
+  "geometry": {"coordinates":[-15.5,15.38333],"type":"Point"}
+}

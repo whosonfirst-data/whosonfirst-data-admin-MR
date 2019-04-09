@@ -1,0 +1,72 @@
+{
+  "id": 1327239227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.66617,16.64386,-12.66617,16.64386",
+    "geom:latitude":16.64386,
+    "geom:longitude":-12.66617,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Ghabra",
+    "gn:country_code":"MR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376976,
+    "gn:latitude":16.64386,
+    "gn:longitude":-12.66617,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ghabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rhabra",
+        "El Ghabra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376976,
+        "wk:page":"El_Ghabra"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e0453a05636547940e115357a4942401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":1327239227,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1327239227,
+    "wof:lastmodified":1537665795,
+    "wof:name":"El Ghabra",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.66617,
+    16.64386,
+    -12.66617,
+    16.64386
+],
+  "geometry": {"coordinates":[-12.66617,16.64386],"type":"Point"}
+}

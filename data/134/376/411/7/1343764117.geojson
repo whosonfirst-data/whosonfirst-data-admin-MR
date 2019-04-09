@@ -1,0 +1,67 @@
+{
+  "id": 1343764117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.72925,16.64994,-12.72925,16.64994",
+    "geom:latitude":16.64994,
+    "geom:longitude":-12.72925,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Agharghar",
+    "gn:country_code":"MR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9224937,
+    "gn:latitude":16.64994,
+    "gn:longitude":-12.72925,
+    "gn:modification_date":"2014-07-17",
+    "gn:name":"Agharghar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9224937
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"dc13dcb0b39870d6406ec5667bee6a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":1343764117,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1343764117,
+    "wof:lastmodified":1536805501,
+    "wof:name":"Agharghar",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.72925,
+    16.64994,
+    -12.72925,
+    16.64994
+],
+  "geometry": {"coordinates":[-12.72925,16.64994],"type":"Point"}
+}

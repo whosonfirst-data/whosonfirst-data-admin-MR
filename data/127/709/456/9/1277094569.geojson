@@ -1,0 +1,71 @@
+{
+  "id": 1277094569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.8125,15.47091,-11.8125,15.47091",
+    "geom:latitude":15.47091,
+    "geom:longitude":-11.8125,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Bouer",
+    "gn:country_code":"MR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378224,
+    "gn:latitude":15.47091,
+    "gn:longitude":-11.8125,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Bou\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loubo\u00e9r\u00e9",
+        "El Bou\u00e8r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378224
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"43c065a8f2f72a31f27061a4fe42c78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1277094569,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1277094569,
+    "wof:lastmodified":1537665800,
+    "wof:name":"El Bouer",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.8125,
+    15.47091,
+    -11.8125,
+    15.47091
+],
+  "geometry": {"coordinates":[-11.8125,15.47091],"type":"Point"}
+}

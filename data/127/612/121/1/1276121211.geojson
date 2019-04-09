@@ -1,0 +1,67 @@
+{
+  "id": 1276121211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.99965,15.60994,-9.99965,15.60994",
+    "geom:latitude":15.60994,
+    "geom:longitude":-9.99965,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Boussei Ade",
+    "gn:country_code":"MR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380696,
+    "gn:latitude":15.60994,
+    "gn:longitude":-9.99965,
+    "gn:modification_date":"2008-05-08",
+    "gn:name":"Bousse\u00ef Ad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091695069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380696
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"46ab47eecbb794e22618b199a61f21bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695069,
+            "locality_id":1276121211,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1276121211,
+    "wof:lastmodified":1537060145,
+    "wof:name":"Boussei Ade",
+    "wof:parent_id":1091695069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99965,
+    15.60994,
+    -9.99965,
+    15.60994
+],
+  "geometry": {"coordinates":[-9.99965,15.60994],"type":"Point"}
+}

@@ -1,0 +1,218 @@
+{
+  "id": 1141909273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.61665877424,16.6665912058,-9.61665877424,16.6665912058",
+    "geom:latitude":16.666591,
+    "geom:longitude":-9.616659,
+    "iso:country":"MR",
+    "lbl:latitude":16.666591,
+    "lbl:longitude":-9.616659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0648\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "Aiun el-Atrus"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u044e\u043d-\u044d\u043b\u044c-\u0410\u0442\u0440\u0443\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u5c24\u6069\u963f\u7279\u9b6f\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Aioun el Atrouss"
+    ],
+    "name:eng_x_preferred":[
+        "Ayoun el Atrous"
+    ],
+    "name:epo_x_preferred":[
+        "Ajun-el-Atrus"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efoun El Atrouss"
+    ],
+    "name:ger_x_preferred":[
+        "Ayo\u00fbn el-Atro\u00fbs"
+    ],
+    "name:ita_x_preferred":[
+        "Ayoun el-Atrouss"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e8\u30a6\u30f3\u30fb\u30a8\u30eb\u30fb\u30a2\u30c8\u30ed\u30a6\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc724\uc5d8\uc544\ud2b8\ub8e8\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Ajun el Atrusas"
+    ],
+    "name:nob_x_preferred":[
+        "Aioun Al Atrouss"
+    ],
+    "name:pol_x_preferred":[
+        "Ujun al-Atrus"
+    ],
+    "name:por_x_preferred":[
+        "Ayoun el Atrous"
+    ],
+    "name:rum_x_preferred":[
+        "Ayo\u00fbn el-Atro\u00fbs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044e\u043d-\u044d\u043b\u044c-\u0410\u0442\u0440\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ai\u00fan el Atr\u00fas"
+    ],
+    "name:swe_x_preferred":[
+        "Aioun Al Atrouss"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u044e\u043d-\u0435\u043b\u044c-\u0410\u0442\u0440\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0648\u0646 \u0627\u0644\u0639\u062a\u0631\u0648\u0633"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Mauritania",
+    "ne:ADM0_A3":"MRT",
+    "ne:ADM1NAME":"Hodh el Gharbi",
+    "ne:ADMIN1_COD":2,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":1,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Name changed.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2381291,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"'Ayoun el 'Atrous",
+    "ne:GN_POP":0,
+    "ne:GTOPO30":216.0,
+    "ne:ISO_A2":"MR",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":16.666591,
+    "ne:LONGITUDE":-9.616659,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Ayounel el Atrous",
+    "ne:MAX_AREAKM":2.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-9.616667,
+    "ne:MAX_BBXMIN":-9.625,
+    "ne:MAX_BBYMAX":16.666667,
+    "ne:MAX_BBYMIN":16.65,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":5.0,
+    "ne:MAX_PERMI":3.0,
+    "ne:MAX_POP10":1423,
+    "ne:MAX_POP20":1423,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1423,
+    "ne:MEAN_BBXC":-9.620833,
+    "ne:MEAN_BBYC":16.658333,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":2.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-9.616667,
+    "ne:MIN_BBXMIN":-9.625,
+    "ne:MIN_BBYMAX":16.666667,
+    "ne:MIN_BBYMIN":16.65,
+    "ne:MIN_PERKM":5.0,
+    "ne:MIN_PERMI":3.0,
+    "ne:NAME":"Ayoun el Atrous",
+    "ne:NAMEALT":"Ayoun El Atrous",
+    "ne:NAMEASCII":"Ayoun el Atrous",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":1423,
+    "ne:POP_MIN":1423,
+    "ne:POP_OTHER":1423,
+    "ne:RANK_MAX":3,
+    "ne:RANK_MIN":3,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Mauritania",
+    "ne:SOV_A3":"MRT",
+    "ne:TIMEZONE":"Africa/Nouakchott",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
+    "reversegeo:latitude":16.666591,
+    "reversegeo:longitude":-9.616659,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674905,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q175596"
+    },
+    "wof:country":"MR",
+    "wof:created":1499131057,
+    "wof:geomhash":"1b75f1aeef413fb559e88d8c1c29d4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":1141909273,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":1141909273,
+    "wof:lastmodified":1514485284,
+    "wof:name":"Ayoun el Atrous",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61665877423951,
+    16.66659120581227,
+    -9.61665877423951,
+    16.66659120581227
+],
+  "geometry": {"coordinates":[-9.61665877423951,16.66659120581227],"type":"Point"}
+}

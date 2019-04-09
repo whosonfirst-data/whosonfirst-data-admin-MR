@@ -1,0 +1,72 @@
+{
+  "id": 1343560295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.0927,17.506,-13.0927,17.506",
+    "geom:latitude":17.506,
+    "geom:longitude":-13.0927,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Magta` Lahjar",
+    "gn:country_code":"MR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378160,
+    "gn:latitude":17.506,
+    "gn:longitude":-13.0927,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mag\u1e6da\u2018 La\u1e25jar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magta-lahjar",
+        "Mag\u1e6da\u2018 La\u1e25jar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091695619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378160,
+        "wk:page":"Magta-Lahjar"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"aac2ae54158576c4e6312a44d76d1fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695619,
+            "locality_id":1343560295,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1343560295,
+    "wof:lastmodified":1537665800,
+    "wof:name":"Magta` Lahjar",
+    "wof:parent_id":1091695619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.0927,
+    17.506,
+    -13.0927,
+    17.506
+],
+  "geometry": {"coordinates":[-13.0927,17.506],"type":"Point"}
+}

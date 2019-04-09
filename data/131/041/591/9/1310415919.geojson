@@ -1,0 +1,67 @@
+{
+  "id": 1310415919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.26667,15.8,-13.26667,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-13.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nima",
+    "gn:country_code":"MR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377487,
+    "gn:latitude":15.8,
+    "gn:longitude":-13.26667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Nima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377487
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9ccfaee354b17ca327356fdadd1477eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1310415919,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1310415919,
+    "wof:lastmodified":1537044341,
+    "wof:name":"Nima",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.26667,
+    15.8,
+    -13.26667,
+    15.8
+],
+  "geometry": {"coordinates":[-13.26667,15.8],"type":"Point"}
+}

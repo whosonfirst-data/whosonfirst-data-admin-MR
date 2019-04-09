@@ -1,0 +1,74 @@
+{
+  "id": 1259890111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.23333,19.03333,-16.23333,19.03333",
+    "geom:latitude":19.03333,
+    "geom:longitude":-16.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tikattane",
+    "gn:cc2":"MR",
+    "gn:country_code":"MR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376139,
+    "gn:latitude":19.03333,
+    "gn:longitude":-16.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tikattane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemhaisrat",
+        "Tikattan",
+        "Tikattane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674865,
+        1091695961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376139,
+        "wk:page":"Tikattane"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"377b293964997d241fb523bafb2f4f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695961,
+            "locality_id":1259890111,
+            "region_id":85674865
+        }
+    ],
+    "wof:id":1259890111,
+    "wof:lastmodified":1537665792,
+    "wof:name":"Tikattane",
+    "wof:parent_id":1091695961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.23333,
+    19.03333,
+    -16.23333,
+    19.03333
+],
+  "geometry": {"coordinates":[-16.23333,19.03333],"type":"Point"}
+}

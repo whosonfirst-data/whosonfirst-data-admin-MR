@@ -1,0 +1,67 @@
+{
+  "id": 1276995395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71774,15.54415,-8.71774,15.54415",
+    "geom:latitude":15.54415,
+    "geom:longitude":-8.71774,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lmeday",
+    "gn:country_code":"MR",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378236,
+    "gn:latitude":15.54415,
+    "gn:longitude":-8.71774,
+    "gn:modification_date":"2007-12-18",
+    "gn:name":"Lm\u00e9day",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378236
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6516bdc38d4743944d987f0eadb25a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695039,
+            "locality_id":1276995395,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1276995395,
+    "wof:lastmodified":1536885661,
+    "wof:name":"Lmeday",
+    "wof:parent_id":1091695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71774,
+    15.54415,
+    -8.71774,
+    15.54415
+],
+  "geometry": {"coordinates":[-8.71774,15.54415],"type":"Point"}
+}

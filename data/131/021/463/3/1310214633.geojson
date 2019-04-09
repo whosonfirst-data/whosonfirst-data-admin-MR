@@ -1,0 +1,71 @@
+{
+  "id": 1310214633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42448,16.22566,-7.42448,16.22566",
+    "geom:latitude":16.22566,
+    "geom:longitude":-7.42448,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Diade",
+    "gn:country_code":"MR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380312,
+    "gn:latitude":16.22566,
+    "gn:longitude":-7.42448,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Di\u00e2d\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e2d\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380312,
+        "wk:page":"Diade"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ae3f3c7b1376911cbb44142b0ebe8235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":1310214633,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1310214633,
+    "wof:lastmodified":1537665808,
+    "wof:name":"Diade",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42448,
+    16.22566,
+    -7.42448,
+    16.22566
+],
+  "geometry": {"coordinates":[-7.42448,16.22566],"type":"Point"}
+}

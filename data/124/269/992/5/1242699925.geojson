@@ -1,0 +1,68 @@
+{
+  "id": 1242699925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.01,16.655,-16.01,16.655",
+    "geom:latitude":16.655,
+    "geom:longitude":-16.01,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mbalal",
+    "gn:country_code":"MR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9227774,
+    "gn:latitude":16.655,
+    "gn:longitude":-16.01,
+    "gn:modification_date":"2014-07-17",
+    "gn:name":"Mbalal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674881,
+        1091695465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9227774,
+        "wk:page":"Mbalal"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"35c92a6a6959f32a94bd2e7476e96a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695465,
+            "locality_id":1242699925,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":1242699925,
+    "wof:lastmodified":1537568539,
+    "wof:name":"Mbalal",
+    "wof:parent_id":1091695465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.01,
+    16.655,
+    -16.01,
+    16.655
+],
+  "geometry": {"coordinates":[-16.01,16.655],"type":"Point"}
+}

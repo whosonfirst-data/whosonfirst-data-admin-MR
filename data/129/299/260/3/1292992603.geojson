@@ -1,0 +1,67 @@
+{
+  "id": 1292992603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.17372,20.32572,-13.17372,20.32572",
+    "geom:latitude":20.32572,
+    "geom:longitude":-13.17372,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Hajra el Beida",
+    "gn:country_code":"MR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405047,
+    "gn:latitude":20.32572,
+    "gn:longitude":-13.17372,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"El \u1e24ajr\u00e2 el Be\u00ef\u1e0da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405047
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"577fcbfbcc19b9d0fcf0d60e2b2e06aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1292992603,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1292992603,
+    "wof:lastmodified":1537002735,
+    "wof:name":"El Hajra el Beida",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.17372,
+    20.32572,
+    -13.17372,
+    20.32572
+],
+  "geometry": {"coordinates":[-13.17372,20.32572],"type":"Point"}
+}

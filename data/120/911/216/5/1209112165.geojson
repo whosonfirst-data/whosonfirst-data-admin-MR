@@ -1,0 +1,61 @@
+{
+  "id": 1209112165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.74137,15.72422,-12.74137,15.72422",
+    "geom:latitude":15.72422,
+    "geom:longitude":-12.74137,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jilalive",
+    "gn:country_code":"MR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378796,
+    "gn:latitude":15.72422,
+    "gn:longitude":-12.74137,
+    "gn:modification_date":"2007-11-19",
+    "gn:name":"Jilalive",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378796
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4a9c64eaaa36649c8ccfaa45949f7bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632679,
+            "locality_id":1209112165
+        }
+    ],
+    "wof:id":1209112165,
+    "wof:lastmodified":1536297371,
+    "wof:name":"Jilalive",
+    "wof:parent_id":85632679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.74137,
+    15.72422,
+    -12.74137,
+    15.72422
+],
+  "geometry": {"coordinates":[-12.74137,15.72422],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243247257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.16902,15.38706,-12.16902,15.38706",
+    "geom:latitude":15.38706,
+    "geom:longitude":-12.16902,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zeregat Goulel Mouroir",
+    "gn:country_code":"MR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379359,
+    "gn:latitude":15.38706,
+    "gn:longitude":-12.16902,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Z\u00e9r\u00e9gat Goulel Mouroir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goulel Mouroir",
+        "Z\u00e9r\u00e9gat Goulel Mouroir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379359
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ec53a3f3d64a6084899590221e07b94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1243247257,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1243247257,
+    "wof:lastmodified":1537665804,
+    "wof:name":"Zeregat Goulel Mouroir",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.16902,
+    15.38706,
+    -12.16902,
+    15.38706
+],
+  "geometry": {"coordinates":[-12.16902,15.38706],"type":"Point"}
+}

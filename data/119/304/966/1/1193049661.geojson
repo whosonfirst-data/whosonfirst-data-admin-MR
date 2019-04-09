@@ -1,0 +1,71 @@
+{
+  "id": 1193049661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.72332,16.32484,-13.72332,16.32484",
+    "geom:latitude":16.32484,
+    "geom:longitude":-13.72332,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Atene",
+    "gn:country_code":"MR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2381330,
+    "gn:latitude":16.32484,
+    "gn:longitude":-13.72332,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c2t\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atem",
+        "\u00c2t\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674863,
+        1091694985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2381330
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7f8d1ab81a04125b761a72934ecccc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694985,
+            "locality_id":1193049661,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":1193049661,
+    "wof:lastmodified":1537665814,
+    "wof:name":"Atene",
+    "wof:parent_id":1091694985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.72332,
+    16.32484,
+    -13.72332,
+    16.32484
+],
+  "geometry": {"coordinates":[-13.72332,16.32484],"type":"Point"}
+}

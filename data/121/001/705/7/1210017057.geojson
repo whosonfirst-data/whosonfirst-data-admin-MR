@@ -1,0 +1,67 @@
+{
+  "id": 1210017057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.50348,15.63177,-12.50348,15.63177",
+    "geom:latitude":15.63177,
+    "geom:longitude":-12.50348,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ouled Addet",
+    "gn:country_code":"MR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377209,
+    "gn:latitude":15.63177,
+    "gn:longitude":-12.50348,
+    "gn:modification_date":"2007-11-27",
+    "gn:name":"Ouled Addet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377209
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a71eeb8f6400d86ffe5d7239bf8cd859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":1210017057,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1210017057,
+    "wof:lastmodified":1536394593,
+    "wof:name":"Ouled Addet",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.50348,
+    15.63177,
+    -12.50348,
+    15.63177
+],
+  "geometry": {"coordinates":[-12.50348,15.63177],"type":"Point"}
+}

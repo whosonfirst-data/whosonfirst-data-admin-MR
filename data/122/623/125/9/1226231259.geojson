@@ -1,0 +1,67 @@
+{
+  "id": 1226231259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05411,15.91176,-12.05411,15.91176",
+    "geom:latitude":15.91176,
+    "geom:longitude":-12.05411,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guenetir",
+    "gn:country_code":"MR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379251,
+    "gn:latitude":15.91176,
+    "gn:longitude":-12.05411,
+    "gn:modification_date":"2007-11-26",
+    "gn:name":"Gu\u00e9n\u00e9tir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379251
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d91f48ea8b9850102153b3db612a2413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1226231259,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1226231259,
+    "wof:lastmodified":1536954609,
+    "wof:name":"Guenetir",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05411,
+    15.91176,
+    -12.05411,
+    15.91176
+],
+  "geometry": {"coordinates":[-12.05411,15.91176],"type":"Point"}
+}

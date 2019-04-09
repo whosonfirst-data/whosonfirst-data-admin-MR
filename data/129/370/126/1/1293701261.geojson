@@ -1,0 +1,73 @@
+{
+  "id": 1293701261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.31667,19.65,-12.31667,19.65",
+    "geom:latitude":19.65,
+    "geom:longitude":-12.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Casbah des Ait Maouine",
+    "gn:cc2":"MR",
+    "gn:country_code":"MR",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380621,
+    "gn:latitude":19.65,
+    "gn:longitude":-12.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Casbah des A\u00eft Maouine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casba des A\u00eft Maouin",
+        "Casbah des A\u00eft Maouine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380621,
+        "wk:page":"Casbah_des_Ait_Maouine"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c0d82b4f2de9d7caa1580141217133a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695857,
+            "locality_id":1293701261,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1293701261,
+    "wof:lastmodified":1537665810,
+    "wof:name":"Casbah des Ait Maouine",
+    "wof:parent_id":1091695857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.31667,
+    19.65,
+    -12.31667,
+    19.65
+],
+  "geometry": {"coordinates":[-12.31667,19.65],"type":"Point"}
+}

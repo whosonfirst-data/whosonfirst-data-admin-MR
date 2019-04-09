@@ -1,0 +1,71 @@
+{
+  "id": 1210000411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44817,14.94654,-12.44817,14.94654",
+    "geom:latitude":14.94654,
+    "geom:longitude":-12.44817,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sanbadebe",
+    "gn:country_code":"MR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376830,
+    "gn:latitude":14.94654,
+    "gn:longitude":-12.44817,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanbad\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambad\u00e9b\u00e9",
+        "Sanbad\u00e9b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376830
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ac38c382cdca205f74c713473daa691c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1210000411,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1210000411,
+    "wof:lastmodified":1537665794,
+    "wof:name":"Sanbadebe",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44817,
+    14.94654,
+    -12.44817,
+    14.94654
+],
+  "geometry": {"coordinates":[-12.44817,14.94654],"type":"Point"}
+}

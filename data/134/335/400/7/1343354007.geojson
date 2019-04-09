@@ -1,0 +1,64 @@
+{
+  "id": 1343354007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.51026,16.16763,-16.51026,16.16763",
+    "geom:latitude":16.16763,
+    "geom:longitude":-16.51026,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ndiago",
+    "gn:country_code":"MR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2377580,
+    "gn:latitude":16.16763,
+    "gn:longitude":-16.51026,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Ndiago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2377580,
+        "wk:page":"Ndiago%2C_Mauritania"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a47d67a4dd697bbad85b6bff66c2fd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343354007,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343354007,
+    "wof:lastmodified":1537568535,
+    "wof:name":"Ndiago",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.51026,
+    16.16763,
+    -16.51026,
+    16.16763
+],
+  "geometry": {"coordinates":[-16.51026,16.16763],"type":"Point"}
+}

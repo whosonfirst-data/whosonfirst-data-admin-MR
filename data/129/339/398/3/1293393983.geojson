@@ -1,0 +1,71 @@
+{
+  "id": 1293393983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.62283,16.00829,-6.62283,16.00829",
+    "geom:latitude":16.00829,
+    "geom:longitude":-6.62283,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gneibet el Khairi",
+    "gn:country_code":"MR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6769369,
+    "gn:latitude":16.00829,
+    "gn:longitude":-6.62283,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gne\u00efbet el Kha\u00efri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gne\u00efba el Kha\u00efri",
+        "Gne\u00efbet el Kha\u00efri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674901,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6769369
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a84b6749ec65b1ce16078434a65ecc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":1293393983,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":1293393983,
+    "wof:lastmodified":1537665816,
+    "wof:name":"Gneibet el Khairi",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.62283,
+    16.00829,
+    -6.62283,
+    16.00829
+],
+  "geometry": {"coordinates":[-6.62283,16.00829],"type":"Point"}
+}

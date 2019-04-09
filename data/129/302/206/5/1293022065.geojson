@@ -1,0 +1,67 @@
+{
+  "id": 1293022065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.43354,20.17952,-13.43354,20.17952",
+    "geom:latitude":20.17952,
+    "geom:longitude":-13.43354,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kseir el Mdeina",
+    "gn:country_code":"MR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7394792,
+    "gn:latitude":20.17952,
+    "gn:longitude":-13.43354,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kse\u00efr el Mde\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7394792
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7509fe53f3aca634272ebc78e5cc7dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1293022065,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1293022065,
+    "wof:lastmodified":1536961005,
+    "wof:name":"Kseir el Mdeina",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.43354,
+    20.17952,
+    -13.43354,
+    20.17952
+],
+  "geometry": {"coordinates":[-13.43354,20.17952],"type":"Point"}
+}

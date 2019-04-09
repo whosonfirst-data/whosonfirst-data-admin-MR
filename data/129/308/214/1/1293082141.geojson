@@ -1,0 +1,113 @@
+{
+  "id": 1293082141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.47134,22.73542,-12.47134,22.73542",
+    "geom:latitude":22.73542,
+    "geom:longitude":-12.47134,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zouerate",
+    "gn:country_code":"MR",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2375558,
+    "gn:latitude":22.73542,
+    "gn:longitude":-12.47134,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Zouerate",
+    "gn:population":38000,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0632\u0648\u064a\u0631\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0632\u0648\u064a\u0631\u0627\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:fin_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:fra_x_preferred":[
+        "Zouerate"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30a8\u30e9\u30c3\u30c8"
+    ],
+    "name:lit_x_preferred":[
+        "Zueratas"
+    ],
+    "name:nld_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:pol_x_preferred":[
+        "Zuwirat"
+    ],
+    "name:spa_x_preferred":[
+        "Zu\u00e9rate"
+    ],
+    "name:swe_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:und_x_variant":[
+        "Zou\u00eer\u00e2t",
+        "Zoue\u00efratt",
+        "Zou\u00e9rate",
+        "Zou\u00e9rat",
+        "Zouerate",
+        "Azuwayr\u0101t",
+        "Az Zuwayr\u0101t"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674857,
+        1091696097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375558,
+        "wk:page":"Zou%C3%A9rat"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e55717fa77405fc3f5b4eecf2567d380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696097,
+            "locality_id":1293082141,
+            "region_id":85674857
+        }
+    ],
+    "wof:id":1293082141,
+    "wof:lastmodified":1537665789,
+    "wof:name":"Zouerate",
+    "wof:parent_id":1091696097,
+    "wof:placetype":"locality",
+    "wof:population":38000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.47134,
+    22.73542,
+    -12.47134,
+    22.73542
+],
+  "geometry": {"coordinates":[-12.47134,22.73542],"type":"Point"}
+}

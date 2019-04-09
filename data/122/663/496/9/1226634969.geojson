@@ -1,0 +1,72 @@
+{
+  "id": 1226634969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05873,14.81729,-12.05873,14.81729",
+    "geom:latitude":14.81729,
+    "geom:longitude":-12.05873,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Saboussire",
+    "gn:country_code":"MR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2376874,
+    "gn:latitude":14.81729,
+    "gn:longitude":-12.05873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saboussir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabou-Sir\u00e9",
+        "Sabou-Cir\u00e9",
+        "Saboussir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2376874
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"13e48508508436356256c02caabe305c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1226634969,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1226634969,
+    "wof:lastmodified":1537665794,
+    "wof:name":"Saboussire",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05873,
+    14.81729,
+    -12.05873,
+    14.81729
+],
+  "geometry": {"coordinates":[-12.05873,14.81729],"type":"Point"}
+}

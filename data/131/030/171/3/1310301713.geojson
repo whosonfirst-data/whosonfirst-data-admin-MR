@@ -1,0 +1,67 @@
+{
+  "id": 1310301713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.20664,20.3022,-13.20664,20.3022",
+    "geom:latitude":20.3022,
+    "geom:longitude":-13.20664,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mancheddek",
+    "gn:country_code":"MR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405045,
+    "gn:latitude":20.3022,
+    "gn:longitude":-13.20664,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"M\u00e2ncheddek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674899,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405045
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d15afc09335372dc8d416d8ca49970e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":1310301713,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":1310301713,
+    "wof:lastmodified":1536713760,
+    "wof:name":"Mancheddek",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.20664,
+    20.3022,
+    -13.20664,
+    20.3022
+],
+  "geometry": {"coordinates":[-13.20664,20.3022],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360173661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81533,15.92966,-11.81533,15.92966",
+    "geom:latitude":15.92966,
+    "geom:longitude":-11.81533,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Douboulgui",
+    "gn:country_code":"MR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2380187,
+    "gn:latitude":15.92966,
+    "gn:longitude":-11.81533,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douboulgui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dougoulgui",
+        "Douboulgui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2380187
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f69242485e6bbbf6ffee8ad06b93bbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":1360173661,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1360173661,
+    "wof:lastmodified":1537665807,
+    "wof:name":"Douboulgui",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81533,
+    15.92966,
+    -11.81533,
+    15.92966
+],
+  "geometry": {"coordinates":[-11.81533,15.92966],"type":"Point"}
+}

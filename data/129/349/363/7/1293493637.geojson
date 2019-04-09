@@ -1,0 +1,68 @@
+{
+  "id": 1293493637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.2389,16.20982,-13.2389,16.20982",
+    "geom:latitude":16.20982,
+    "geom:longitude":-13.2389,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ganki",
+    "gn:country_code":"MR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2379471,
+    "gn:latitude":16.20982,
+    "gn:longitude":-13.2389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674891,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2379471,
+        "wk:page":"Ganki"
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2538ad1a578fa865ca89c733662af57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":1293493637,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":1293493637,
+    "wof:lastmodified":1537568536,
+    "wof:name":"Ganki",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.2389,
+    16.20982,
+    -13.2389,
+    16.20982
+],
+  "geometry": {"coordinates":[-13.2389,16.20982],"type":"Point"}
+}

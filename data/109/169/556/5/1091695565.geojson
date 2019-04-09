@@ -1,0 +1,67 @@
+{
+  "id": 1091695565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.022498,
+    "geom:area_square_m":264490779.718025,
+    "geom:bbox":"-16.0305375489,17.9765014648,-15.8875732422,18.1405029297",
+    "geom:latitude":18.059043,
+    "geom:longitude":-15.9568,
+    "iso:country":"MR",
+    "lbl:latitude":18.058559,
+    "lbl:longitude":-15.955846,
+    "meso:adm1_name":"Nouakchott",
+    "meso:gadm_admin":"Nouakchott",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"Nouakchott",
+    "meso:mps_x":-15.955846,
+    "meso:mps_y":18.058559,
+    "meso:name_local":"Nouakchott",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":18.058559,
+    "mps:longitude":-15.955846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Nouakchott"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"MR",
+    "wof:created":1473879546,
+    "wof:geomhash":"66a3145fabdf4cedf2450c5dcde500f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695565,
+            "region_id":85674873
+        }
+    ],
+    "wof:id":1091695565,
+    "wof:lastmodified":1512516687,
+    "wof:name":"Nouakchott",
+    "wof:parent_id":85674873,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.03053754889095,
+    17.97650146484386,
+    -15.88757324218744,
+    18.14050292968756
+],
+  "geometry": {"coordinates":[[[-16.01177978515614,18.14050292968756],[-15.95031738281244,18.14050292968756],[-15.92010498046869,18.14050292968756],[-15.88861083984369,18.14007568359381],[-15.88757324218744,17.97668457031261],[-15.94531249999989,17.97668457031261],[-15.94532567573816,17.97668448247424],[-15.97277832031239,17.97650146484386],[-15.97283177348697,17.97650146525916],[-16.02601907812141,17.97650187851809],[-16.02403366026738,17.99427136831218],[-16.02283366026728,18.03187136831212],[-16.02393366026735,18.06057136831214],[-16.0241336602673,18.06527136831215],[-16.02463366026728,18.07927136831216],[-16.02683366026741,18.09507136831223],[-16.0286336602673,18.10797136831218],[-16.02913366026729,18.13007136831214],[-16.03053366026739,18.14047136831221],[-16.03053754889095,18.14050064736091],[-16.01177978515614,18.14050292968756]]],"type":"Polygon"}
+}

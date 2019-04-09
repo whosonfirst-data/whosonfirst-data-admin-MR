@@ -1,0 +1,74 @@
+{
+  "id": 1226444375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.03995,17.07623,-12.03995,17.07623",
+    "geom:latitude":17.07623,
+    "geom:longitude":-12.03995,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ekamour",
+    "gn:country_code":"MR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2378721,
+    "gn:latitude":17.07623,
+    "gn:longitude":-12.03995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ek\u00e2mo\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nouakchott",
+    "iso:country":"MR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kamor"
+    ],
+    "name:und_x_variant":[
+        "Ek\u00e2mo\u00fbr",
+        "Kamor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674885,
+        1091695319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2378721
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bb1009cba125670c4cb2bb271dc44133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695319,
+            "locality_id":1226444375,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":1226444375,
+    "wof:lastmodified":1537665803,
+    "wof:name":"Ekamour",
+    "wof:parent_id":1091695319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.03995,
+    17.07623,
+    -12.03995,
+    17.07623
+],
+  "geometry": {"coordinates":[-12.03995,17.07623],"type":"Point"}
+}
