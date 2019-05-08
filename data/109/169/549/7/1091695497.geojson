@@ -10,6 +10,12 @@
     "geom:latitude":17.101384,
     "geom:longitude":-10.456579,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Tamchekett Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":17.035395,
     "lbl:longitude":-10.469929,
     "meso:adm1_name":"Hodh El Gharbi",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091695497,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Tamchekett",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

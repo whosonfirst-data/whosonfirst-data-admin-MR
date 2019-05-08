@@ -10,6 +10,12 @@
     "geom:latitude":16.674785,
     "geom:longitude":-12.393778,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Barkeol Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.754579,
     "lbl:longitude":-12.475114,
     "meso:adm1_name":"Assaba",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695353,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Barkeol",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

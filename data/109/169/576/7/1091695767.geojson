@@ -10,6 +10,12 @@
     "geom:latitude":18.692409,
     "geom:longitude":-9.720653,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Tichitt Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":18.634038,
     "lbl:longitude":-9.72096,
     "meso:adm1_name":"Tagant",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695767,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Tichitt",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

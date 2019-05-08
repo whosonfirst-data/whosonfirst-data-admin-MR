@@ -10,6 +10,12 @@
     "geom:latitude":17.843558,
     "geom:longitude":-12.159978,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Moudjeria Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":17.778458,
     "lbl:longitude":-12.16888,
     "meso:adm1_name":"Tagant",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695647,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Moudjeria",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

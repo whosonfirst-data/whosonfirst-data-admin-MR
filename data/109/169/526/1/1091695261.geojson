@@ -10,6 +10,12 @@
     "geom:latitude":16.185652,
     "geom:longitude":-8.19278,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Timbedra Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.228407,
     "lbl:longitude":-8.229549,
     "meso:adm1_name":"Hodh Ech Chargi",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695261,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717906,
     "wof:name":"Timbedra",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

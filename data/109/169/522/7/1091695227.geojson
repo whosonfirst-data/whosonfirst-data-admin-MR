@@ -10,6 +10,12 @@
     "geom:latitude":16.610767,
     "geom:longitude":-16.273319,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Keur-Macene Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.681791,
     "lbl:longitude":-16.245386,
     "meso:adm1_name":"Trarza",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695227,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Keur-Macene",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

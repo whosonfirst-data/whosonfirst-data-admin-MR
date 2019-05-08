@@ -10,6 +10,12 @@
     "geom:latitude":16.624299,
     "geom:longitude":-15.710551,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Rosso Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.607227,
     "lbl:longitude":-15.714293,
     "meso:adm1_name":"Trarza",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695159,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Rosso",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

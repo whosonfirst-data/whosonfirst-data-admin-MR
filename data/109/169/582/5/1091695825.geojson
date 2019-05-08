@@ -10,6 +10,12 @@
     "geom:latitude":19.420463,
     "geom:longitude":-13.093494,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Aoujeft Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":19.504486,
     "lbl:longitude":-13.093474,
     "meso:adm1_name":"Adrar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695825,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Aoujeft",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

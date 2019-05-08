@@ -10,6 +10,12 @@
     "geom:latitude":15.688434,
     "geom:longitude":-11.879885,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Ould Yenge Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.678638,
     "lbl:longitude":-11.906024,
     "meso:adm1_name":"Guidimakha",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1091694841,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Ould Yenge",
     "wof:parent_id":85674887,
     "wof:placetype":"county",

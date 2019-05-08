@@ -10,6 +10,12 @@
     "geom:latitude":18.335624,
     "geom:longitude":-15.425221,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Ouad Naga Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":18.448161,
     "lbl:longitude":-15.439172,
     "meso:adm1_name":"Trarza",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695675,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Ouad Naga",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

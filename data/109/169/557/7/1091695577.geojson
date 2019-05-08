@@ -10,6 +10,12 @@
     "geom:latitude":17.769035,
     "geom:longitude":-11.273399,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Boumdeid Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":17.830136,
     "lbl:longitude":-11.273297,
     "meso:adm1_name":"Assaba",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695577,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Boumdeid",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.776908,
     "geom:longitude":-6.977104,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Amourj Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.789753,
     "lbl:longitude":-6.976864,
     "meso:adm1_name":"Hodh Ech Chargi",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091694873,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717904,
     "wof:name":"Amourj",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

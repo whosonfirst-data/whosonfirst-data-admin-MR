@@ -10,6 +10,12 @@
     "geom:latitude":17.728306,
     "geom:longitude":-12.94076,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Maghta Lahjar Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":17.739899,
     "lbl:longitude":-12.989301,
     "meso:adm1_name":"Brakna",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1091695619,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Maghta Lahjar",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

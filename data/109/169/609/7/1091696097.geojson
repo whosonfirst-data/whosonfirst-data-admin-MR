@@ -10,6 +10,12 @@
     "geom:latitude":23.457146,
     "geom:longitude":-10.188538,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "F'Derik Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":23.531532,
     "lbl:longitude":-10.424978,
     "meso:adm1_name":"Tiris-Zemmour",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1091696097,
-    "wof:lastmodified":1536614940,
+    "wof:lastmodified":1553717906,
     "wof:name":"F'Derik",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

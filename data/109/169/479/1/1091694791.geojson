@@ -10,6 +10,12 @@
     "geom:latitude":15.217764,
     "geom:longitude":-12.250178,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Selibaby Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.138696,
     "lbl:longitude":-12.203148,
     "meso:adm1_name":"Guidimakha",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091694791,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Selibaby",
     "wof:parent_id":85674887,
     "wof:placetype":"county",

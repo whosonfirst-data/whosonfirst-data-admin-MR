@@ -10,6 +10,12 @@
     "geom:latitude":16.452538,
     "geom:longitude":-12.970945,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Monguel Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.430865,
     "lbl:longitude":-12.99503,
     "meso:adm1_name":"Gorgol",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091695173,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Monguel",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

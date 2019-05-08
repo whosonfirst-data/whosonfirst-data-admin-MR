@@ -10,6 +10,12 @@
     "geom:latitude":16.684116,
     "geom:longitude":-11.413202,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Kiffa Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.673309,
     "lbl:longitude":-11.347032,
     "meso:adm1_name":"Assaba",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695415,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Kiffa",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

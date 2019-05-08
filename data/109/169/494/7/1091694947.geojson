@@ -10,6 +10,12 @@
     "geom:latitude":15.874708,
     "geom:longitude":-9.425616,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Kobeni Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.886969,
     "lbl:longitude":-9.588583,
     "meso:adm1_name":"Hodh El Gharbi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1091694947,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Kobeni",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

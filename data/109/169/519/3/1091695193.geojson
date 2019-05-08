@@ -10,6 +10,12 @@
     "geom:latitude":16.208268,
     "geom:longitude":-6.014681,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Bassikounou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.291751,
     "lbl:longitude":-5.957097,
     "meso:adm1_name":"Hodh Ech Chargi",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1091695193,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Bassikounou",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

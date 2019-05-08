@@ -10,6 +10,12 @@
     "geom:latitude":16.675203,
     "geom:longitude":-14.426194,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Boghe Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.710096,
     "lbl:longitude":-14.477425,
     "meso:adm1_name":"Brakna",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695129,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Boghe",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

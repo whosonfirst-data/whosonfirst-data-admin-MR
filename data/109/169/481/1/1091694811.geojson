@@ -10,6 +10,12 @@
     "geom:latitude":15.531775,
     "geom:longitude":-12.836233,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Maghama Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.532958,
     "lbl:longitude":-12.814825,
     "meso:adm1_name":"Gorgol",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091694811,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Maghama",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

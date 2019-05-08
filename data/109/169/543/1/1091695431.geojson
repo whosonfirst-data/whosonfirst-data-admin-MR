@@ -10,6 +10,12 @@
     "geom:latitude":16.851361,
     "geom:longitude":-9.273798,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Aioun Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.817561,
     "lbl:longitude":-9.290018,
     "meso:adm1_name":"Hodh El Gharbi",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695431,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Aioun",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":16.038286,
     "geom:longitude":-13.185531,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Kaedi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.989229,
     "lbl:longitude":-13.103393,
     "meso:adm1_name":"Gorgol",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091694955,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Kaedi",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":16.98863,
     "geom:longitude":-13.641721,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Aleg Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":17.079565,
     "lbl:longitude":-13.627217,
     "meso:adm1_name":"Brakna",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695533,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Aleg",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

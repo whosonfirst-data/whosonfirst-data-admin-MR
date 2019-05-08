@@ -10,6 +10,12 @@
     "geom:latitude":20.028239,
     "geom:longitude":-14.995566,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Akjoujt Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":20.028556,
     "lbl:longitude":-14.945378,
     "meso:adm1_name":"Inchiri",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695891,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Akjoujt",
     "wof:parent_id":85674869,
     "wof:placetype":"county",

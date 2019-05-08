@@ -10,6 +10,12 @@
     "geom:latitude":16.010716,
     "geom:longitude":-10.32069,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Tintane Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.014168,
     "lbl:longitude":-10.311001,
     "meso:adm1_name":"Hodh El Gharbi",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695069,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717906,
     "wof:name":"Tintane",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

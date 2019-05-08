@@ -10,6 +10,12 @@
     "geom:latitude":22.669167,
     "geom:longitude":-12.288056,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Zoueratt Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":22.709541,
     "lbl:longitude":-12.216743,
     "meso:adm1_name":"Tiris-Zemmour",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1091696007,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Zoueratt",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

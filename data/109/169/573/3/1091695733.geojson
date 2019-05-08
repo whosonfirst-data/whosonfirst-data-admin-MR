@@ -10,6 +10,12 @@
     "geom:latitude":18.627923,
     "geom:longitude":-11.551597,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Tidjikja Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":18.649755,
     "lbl:longitude":-11.551596,
     "meso:adm1_name":"Tagant",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695733,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717906,
     "wof:name":"Tidjikja",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.818668,
     "geom:longitude":-11.121115,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Kankossa Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.79618,
     "lbl:longitude":-11.065094,
     "meso:adm1_name":"Assaba",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091694911,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Kankossa",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

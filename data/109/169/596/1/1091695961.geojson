@@ -10,6 +10,12 @@
     "geom:latitude":20.533601,
     "geom:longitude":-15.967023,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Nouadhibou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":20.644456,
     "lbl:longitude":-15.98532,
     "meso:adm1_name":"Dakhlet-Nouadhibou",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091695961,
-    "wof:lastmodified":1536614939,
+    "wof:lastmodified":1553717907,
     "wof:name":"Nouadhibou",
     "wof:parent_id":85674865,
     "wof:placetype":"county",

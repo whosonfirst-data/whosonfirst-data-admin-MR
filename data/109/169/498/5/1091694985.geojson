@@ -10,6 +10,12 @@
     "geom:latitude":16.266233,
     "geom:longitude":-13.778992,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "M'Bagne Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":16.269951,
     "lbl:longitude":-13.767624,
     "meso:adm1_name":"Brakna",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091694985,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"M'Bagne",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

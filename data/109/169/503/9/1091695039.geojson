@@ -10,6 +10,12 @@
     "geom:latitude":15.928366,
     "geom:longitude":-8.722233,
     "iso:country":"MR",
+    "label:eng_x_preferred_longname":[
+        "Djigueni Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":15.981303,
     "lbl:longitude":-8.746406,
     "meso:adm1_name":"Hodh Ech Chargi",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091695039,
-    "wof:lastmodified":1536614938,
+    "wof:lastmodified":1553717905,
     "wof:name":"Djigueni",
     "wof:parent_id":85674901,
     "wof:placetype":"county",
