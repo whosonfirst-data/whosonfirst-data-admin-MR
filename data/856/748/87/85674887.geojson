@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.903659,
-    "geom:area_square_m":10773767472.386698,
+    "geom:area_square_m":10773767472.386581,
     "geom:bbox":"-12.7487182617,14.7189713683,-11.5003051758,16.0562744141",
     "geom:latitude":15.375668,
     "geom:longitude":-12.12595,
@@ -46,14 +46,11 @@
     "name:cat_x_preferred":[
         "Guidimakha"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u8fea\u99ac\u5361\u7701"
-    ],
     "name:dan_x_preferred":[
         "Guidimaka"
     ],
-    "name:dut_x_preferred":[
-        "Guidimakha"
+    "name:deu_x_preferred":[
+        "Guidimaka"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03b9\u03bd\u03c4\u03b9\u03bc\u03ac\u03b3\u03ba\u03b1"
@@ -80,15 +77,6 @@
         "Wilaya du Guidimaka",
         "Wilaya du Guidimakha",
         "Guidimakha"
-    ],
-    "name:fre_x_preferred":[
-        "Guidimakha"
-    ],
-    "name:ger_x_preferred":[
-        "Guidimaka"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b9\u03bd\u03c4\u03b9\u03bc\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0a88\u0aa6\u0ac0\u0aae\u0abe\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -120,7 +108,7 @@
     "name:mar_x_preferred":[
         "\u0917\u0941\u0907\u0926\u092e\u0915 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Guidimaka"
     ],
     "name:nld_x_preferred":[
@@ -136,9 +124,6 @@
         "Guidimaka"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Guidimaka"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Guidimaka"
     ],
     "name:rus_x_preferred":[
@@ -303,7 +288,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814809,
+    "wof:lastmodified":1561845019,
     "wof:name":"Guidimaka",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

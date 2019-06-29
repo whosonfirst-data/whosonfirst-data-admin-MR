@@ -17,13 +17,10 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0644\u0645\u064a\u062a"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u63d0\u5229\u7c73\u7279"
-    ],
     "name:dan_x_preferred":[
         "Boutilimit"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Boutilimit"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +29,7 @@
     "name:epo_x_preferred":[
         "Boutilimit"
     ],
-    "name:fre_x_preferred":[
-        "Boutilimit"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Boutilimit"
     ],
     "name:ita_x_preferred":[
@@ -47,7 +41,10 @@
     "name:lit_x_preferred":[
         "Butilimitas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Boutilimit"
+    ],
+    "name:nld_x_preferred":[
         "Boutilimit"
     ],
     "name:nno_x_preferred":[
@@ -59,7 +56,7 @@
     "name:pol_x_preferred":[
         "Bu Tilimit"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Boutilimit"
     ],
     "name:rus_x_preferred":[
@@ -73,6 +70,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u062a\u0644\u0645\u06cc\u062a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u63d0\u5229\u7c73\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mauritania",
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":1141907389,
-    "wof:lastmodified":1514485285,
+    "wof:lastmodified":1561845024,
     "wof:name":"Boutilimit",
     "wof:parent_id":1091695697,
     "wof:placetype":"locality",

@@ -47,14 +47,14 @@
     "name:cat_x_preferred":[
         "Brakna"
     ],
-    "name:chi_x_preferred":[
-        "\u535c\u62c9\u514b\u7d0d\u7701"
-    ],
     "name:dan_x_preferred":[
         "Brakna"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Brakna"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ac\u03ba\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Brakna Region"
@@ -74,15 +74,6 @@
     "name:fra_x_variant":[
         "R\u00e9gion du Brakna",
         "Wilaya du Brakna"
-    ],
-    "name:fre_x_preferred":[
-        "Brakna"
-    ],
-    "name:ger_x_preferred":[
-        "Brakna"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03ac\u03ba\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0abe\u0a82\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -114,7 +105,10 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0915\u093e\u0928\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Brakna"
+    ],
+    "name:nld_x_preferred":[
         "Brakna"
     ],
     "name:nob_x_preferred":[
@@ -127,9 +121,6 @@
         "Brakna"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Brakna"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Brakna"
     ],
     "name:rus_x_preferred":[
@@ -294,7 +285,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550460,
+    "wof:lastmodified":1561845019,
     "wof:name":"Brakna",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

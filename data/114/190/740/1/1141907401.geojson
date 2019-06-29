@@ -17,17 +17,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u0628\u062f\u063a\u0629"
     ],
-    "name:dut_x_preferred":[
-        "Timbedra"
+    "name:deu_x_preferred":[
+        "Timb\u00e9dra"
     ],
     "name:eng_x_preferred":[
         "Timbedra"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Timbedra"
-    ],
-    "name:ger_x_preferred":[
-        "Timb\u00e9dra"
     ],
     "name:ita_x_preferred":[
         "Timbedra"
@@ -35,7 +32,10 @@
     "name:jpn_x_preferred":[
         "\u30c6\u30a3\u30f3\u30d9\u30c9\u30e9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Timbedra"
+    ],
+    "name:nld_x_preferred":[
         "Timbedra"
     ],
     "name:pol_x_preferred":[
@@ -44,7 +44,7 @@
     "name:por_x_preferred":[
         "Timbedra"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Timb\u00e9dra"
     ],
     "name:rus_x_preferred":[
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1141907401,
-    "wof:lastmodified":1514485302,
+    "wof:lastmodified":1561845024,
     "wof:name":"Timbedra",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

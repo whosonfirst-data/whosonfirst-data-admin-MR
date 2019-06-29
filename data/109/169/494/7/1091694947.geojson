@@ -33,9 +33,6 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0431\u0435\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Kobenni Department"
-    ],
     "name:eng_x_preferred":[
         "Kobenni"
     ],
@@ -44,11 +41,14 @@
         "Kobenni",
         "Kobenni Department"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Kobenni"
     ],
     "name:ita_x_preferred":[
         "dipartimento di Kobenni"
+    ],
+    "name:nld_x_preferred":[
+        "Kobenni Department"
     ],
     "name:swe_x_preferred":[
         "Kobenni"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1091694947,
-    "wof:lastmodified":1553717905,
+    "wof:lastmodified":1561845022,
     "wof:name":"Kobeni",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

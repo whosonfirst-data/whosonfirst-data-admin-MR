@@ -16,7 +16,7 @@
     "name:cos_x_preferred":[
         "Gouraye"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gouraye"
     ],
     "name:eng_x_preferred":[
@@ -25,25 +25,16 @@
     "name:fra_x_preferred":[
         "Gouraye"
     ],
-    "name:fre_x_preferred":[
-        "Gouraye"
-    ],
-    "name:ger_x_preferred":[
-        "Gouraye"
-    ],
     "name:ita_x_preferred":[
-        "Gouraye"
-    ],
-    "name:may_x_preferred":[
         "Gouraye"
     ],
     "name:msa_x_preferred":[
         "Gouraye"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Gouraye"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gouraye"
     ],
     "name:sdc_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421188429,
-    "wof:lastmodified":1527716291,
+    "wof:lastmodified":1561845023,
     "wof:name":"Gouraye",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

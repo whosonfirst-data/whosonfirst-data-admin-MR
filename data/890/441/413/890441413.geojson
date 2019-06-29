@@ -21,19 +21,19 @@
     "name:eng_x_preferred":[
         "Barkeol"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Barkewol"
     ],
     "name:ita_x_preferred":[
         "Barkewol"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Barkeol"
     ],
     "name:pol_x_preferred":[
         "Barkewol"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Barkewol"
     ],
     "name:sdc_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":890441413,
-    "wof:lastmodified":1514485284,
+    "wof:lastmodified":1561845023,
     "wof:name":"Bark\u00e9wol",
     "wof:parent_id":1091695353,
     "wof:placetype":"locality",

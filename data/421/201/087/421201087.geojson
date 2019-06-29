@@ -20,9 +20,6 @@
     "name:aze_x_preferred":[
         "Atar"
     ],
-    "name:baq_x_preferred":[
-        "Atar"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0442\u0430\u0440"
     ],
@@ -35,17 +32,14 @@
     "name:cat_x_preferred":[
         "Atar"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5854\u723e"
-    ],
     "name:dan_x_preferred":[
         "Atar"
     ],
     "name:deu_x_preferred":[
         "Atar"
     ],
-    "name:dut_x_preferred":[
-        "Atar"
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Atar"
@@ -65,26 +59,14 @@
     "name:fra_x_preferred":[
         "Atar"
     ],
-    "name:fre_x_preferred":[
-        "Atar"
-    ],
     "name:frr_x_preferred":[
         "Atar"
-    ],
-    "name:ger_x_preferred":[
-        "Atar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9f\u0abe\u0ab0"
     ],
     "name:hin_x_preferred":[
         "\u0905\u091f\u0930"
-    ],
-    "name:ice_x_preferred":[
-        "Atar"
     ],
     "name:ind_x_preferred":[
         "Atar"
@@ -116,9 +98,6 @@
     "name:mar_x_preferred":[
         "\u0905\u0924\u093e\u0930"
     ],
-    "name:may_x_preferred":[
-        "Atar"
-    ],
     "name:msa_x_preferred":[
         "Atar"
     ],
@@ -131,9 +110,6 @@
     "name:nor_x_preferred":[
         "Atar"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0637\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Atar"
     ],
@@ -141,9 +117,6 @@
         "Atar"
     ],
     "name:ron_x_preferred":[
-        "Atar"
-    ],
-    "name:rum_x_preferred":[
         "Atar"
     ],
     "name:rus_x_preferred":[
@@ -327,7 +300,7 @@
         }
     ],
     "wof:id":421201087,
-    "wof:lastmodified":1527716438,
+    "wof:lastmodified":1561845023,
     "wof:name":"Atar",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",
