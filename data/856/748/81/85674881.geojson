@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Trarza"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u62c9\u624e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Trarza"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Trarza"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03ac\u03c1\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Trarza"
@@ -64,15 +64,6 @@
         "R\u00e9gion du Trarza",
         "Wilaya de Trarza",
         "Wilaya du Trarza"
-    ],
-    "name:fre_x_preferred":[
-        "Trarza"
-    ],
-    "name:ger_x_preferred":[
-        "Trarza"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03ac\u03c1\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac7\u0a9d\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -104,7 +95,10 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u0945\u091d\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Trarza"
+    ],
+    "name:nld_x_preferred":[
         "Trarza"
     ],
     "name:nob_x_preferred":[
@@ -116,7 +110,7 @@
     "name:por_x_preferred":[
         "Trarza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Trarza"
     ],
     "name:rus_x_preferred":[
@@ -154,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Trarza"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u62c9\u624e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MRT",
@@ -278,7 +275,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550461,
+    "wof:lastmodified":1561845019,
     "wof:name":"Trarza",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

@@ -16,22 +16,13 @@
     "name:ara_x_preferred":[
         "\u0634\u0646\u0642\u064a\u0637"
     ],
-    "name:baq_x_preferred":[
-        "Chinguetti"
-    ],
     "name:cat_x_preferred":[
         "Chinguiti"
-    ],
-    "name:chi_x_preferred":[
-        "\u6b23\u84cb\u63d0"
     ],
     "name:dan_x_preferred":[
         "Chinguetti"
     ],
     "name:deu_x_preferred":[
-        "Chinguetti"
-    ],
-    "name:dut_x_preferred":[
         "Chinguetti"
     ],
     "name:eng_x_preferred":[
@@ -46,20 +37,8 @@
     "name:fra_x_preferred":[
         "Chinguetti"
     ],
-    "name:fre_x_preferred":[
-        "Chinguetti"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10dc\u10d2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Chinguetti"
-    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05e0\u05d2\u05d8\u05d9"
-    ],
-    "name:ice_x_preferred":[
-        "Chinguetti"
     ],
     "name:isl_x_preferred":[
         "Chinguetti"
@@ -81,9 +60,6 @@
     ],
     "name:lit_x_preferred":[
         "\u0160ingetis"
-    ],
-    "name:may_x_preferred":[
-        "Chinguetti"
     ],
     "name:msa_x_preferred":[
         "Chinguetti"
@@ -110,9 +86,6 @@
         "Chinguetti"
     ],
     "name:ron_x_preferred":[
-        "Chinguetti"
-    ],
-    "name:rum_x_preferred":[
         "Chinguetti"
     ],
     "name:rus_x_preferred":[
@@ -187,7 +160,7 @@
         }
     ],
     "wof:id":421193865,
-    "wof:lastmodified":1527716150,
+    "wof:lastmodified":1561845023,
     "wof:name":"Chinguetti",
     "wof:parent_id":1091695857,
     "wof:placetype":"locality",

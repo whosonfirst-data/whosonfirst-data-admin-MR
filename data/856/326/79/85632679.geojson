@@ -154,9 +154,6 @@
     "name:cym_x_preferred":[
         "Mawritania"
     ],
-    "name:cze_x_preferred":[
-        "Maurit\u00e1nie"
-    ],
     "name:cze_x_variant":[
         "Mauret\u00e1nie"
     ],
@@ -767,7 +764,6 @@
         "\u6bdb\u91cc\u5854\u5c3c\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u6bdb\u91cc\u5854\u5c3c\u4e9a",
         "\u8305\u5229\u5854\u5c3c\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -926,7 +922,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1544059110,
+    "wof:lastmodified":1561845020,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

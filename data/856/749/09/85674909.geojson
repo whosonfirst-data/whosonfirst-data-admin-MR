@@ -42,14 +42,14 @@
     "name:cat_x_preferred":[
         "Tagant"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u7518\u7279\u7701"
-    ],
     "name:dan_x_preferred":[
         "Tagant"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tagant"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03b3\u03ba\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Tagant Region"
@@ -69,15 +69,6 @@
     "name:fra_x_variant":[
         "R\u00e9gion du Tagant",
         "Wilaya du Tagant"
-    ],
-    "name:fre_x_preferred":[
-        "Tagant"
-    ],
-    "name:ger_x_preferred":[
-        "Tagant"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03b3\u03ba\u03ac\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0a97\u0abe\u0aa8\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -109,7 +100,10 @@
     "name:mar_x_preferred":[
         "\u091f\u093e\u0917\u0923 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tagant"
+    ],
+    "name:nld_x_preferred":[
         "Tagant"
     ],
     "name:nob_x_preferred":[
@@ -122,9 +116,6 @@
         "Tagant"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Tagant"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Tagant"
     ],
     "name:rus_x_preferred":[
@@ -289,7 +280,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550463,
+    "wof:lastmodified":1561845019,
     "wof:name":"Tagant",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

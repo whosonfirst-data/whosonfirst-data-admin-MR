@@ -20,22 +20,13 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0635\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Rosso"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u0441\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u7f85\u7d22"
     ],
     "name:dan_x_preferred":[
         "Rosso"
     ],
     "name:deu_x_preferred":[
-        "Rosso"
-    ],
-    "name:dut_x_preferred":[
         "Rosso"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +47,6 @@
     "name:fra_x_preferred":[
         "Rosso"
     ],
-    "name:fre_x_preferred":[
-        "Rosso"
-    ],
-    "name:ger_x_preferred":[
-        "Rosso"
-    ],
     "name:ita_x_preferred":[
         "Rosso"
     ],
@@ -80,9 +65,6 @@
     "name:lit_x_preferred":[
         "Rosas"
     ],
-    "name:may_x_preferred":[
-        "Rosso"
-    ],
     "name:msa_x_preferred":[
         "Rosso"
     ],
@@ -95,9 +77,6 @@
     "name:nob_x_preferred":[
         "Rosso"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0633\u0648"
-    ],
     "name:pol_x_preferred":[
         "Rosso"
     ],
@@ -105,9 +84,6 @@
         "Rosso"
     ],
     "name:ron_x_preferred":[
-        "Rosso"
-    ],
-    "name:rum_x_preferred":[
         "Rosso"
     ],
     "name:rus_x_preferred":[
@@ -273,7 +249,7 @@
         }
     ],
     "wof:id":421168989,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561845022,
     "wof:name":"Rosso",
     "wof:parent_id":1091695159,
     "wof:placetype":"locality",

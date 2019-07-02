@@ -33,9 +33,6 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0433\u0443\u0435\u043b"
     ],
-    "name:dut_x_preferred":[
-        "Monguel Department"
-    ],
     "name:eng_x_preferred":[
         "Monguel"
     ],
@@ -43,11 +40,14 @@
         "Monguel",
         "Monguel Department"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Monguel"
     ],
     "name:ita_x_preferred":[
         "dipartimento di Monguel"
+    ],
+    "name:nld_x_preferred":[
+        "Monguel Department"
     ],
     "name:swe_x_preferred":[
         "Monguel"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1091695173,
-    "wof:lastmodified":1553717905,
+    "wof:lastmodified":1561845022,
     "wof:name":"Monguel",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

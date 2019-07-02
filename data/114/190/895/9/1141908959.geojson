@@ -17,8 +17,8 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0645 \u0627\u0643\u0631\u064a\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Bir Moghre\u00efn"
+    "name:deu_x_preferred":[
+        "Bir Moghrein"
     ],
     "name:eng_x_preferred":[
         "Bir Moghrein"
@@ -26,11 +26,8 @@
     "name:fin_x_preferred":[
         "Bir Moghrein"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bir Moghre\u00efn"
-    ],
-    "name:ger_x_preferred":[
-        "Bir Moghrein"
     ],
     "name:ita_x_preferred":[
         "Bir Moghrein"
@@ -41,13 +38,16 @@
     "name:lit_x_preferred":[
         "Bir Mogreinas"
     ],
+    "name:nld_x_preferred":[
+        "Bir Moghre\u00efn"
+    ],
     "name:pol_x_preferred":[
         "Bir Umm Karajn"
     ],
     "name:por_x_preferred":[
         "Bir Moghrein"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bir Moghre\u00efn"
     ],
     "name:rus_x_preferred":[
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":1141908959,
-    "wof:lastmodified":1514485284,
+    "wof:lastmodified":1561845024,
     "wof:name":"Bir Mogrein",
     "wof:parent_id":1091696117,
     "wof:placetype":"locality",

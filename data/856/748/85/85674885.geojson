@@ -44,14 +44,14 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0430\u0431\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u85a9\u5df4\u7701"
-    ],
     "name:dan_x_preferred":[
         "Assaba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Assaba"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c3\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Assaba Region"
@@ -71,15 +71,6 @@
     "name:fra_x_variant":[
         "R\u00e9gion de l\u2019Assaba",
         "Wilaya de l\u2019Assaba"
-    ],
-    "name:fre_x_preferred":[
-        "Assaba"
-    ],
-    "name:ger_x_preferred":[
-        "Assaba"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03c3\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab8\u0abe\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -111,7 +102,10 @@
     "name:mar_x_preferred":[
         "\u0905\u0938\u094d\u0938\u093e\u092c\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Assaba"
+    ],
+    "name:nld_x_preferred":[
         "Assaba"
     ],
     "name:nob_x_preferred":[
@@ -123,7 +117,7 @@
     "name:por_x_preferred":[
         "Assaba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Assaba"
     ],
     "name:rus_x_preferred":[
@@ -288,7 +282,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550461,
+    "wof:lastmodified":1561845019,
     "wof:name":"Assaba",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

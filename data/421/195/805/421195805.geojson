@@ -17,20 +17,14 @@
     "name:ara_x_preferred":[
         "\u062a\u062c\u0643\u062c\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Tidjikdja"
-    ],
-    "name:chi_x_preferred":[
-        "\u63d0\u5409\u514b\u8cc8"
-    ],
     "name:dan_x_preferred":[
         "Tidjikdja"
     ],
     "name:deu_x_preferred":[
         "Tidjikja"
     ],
-    "name:dut_x_preferred":[
-        "Tidjikdja"
+    "name:deu_x_variant":[
+        "Tidschikdscha"
     ],
     "name:eng_x_preferred":[
         "Tidjikja"
@@ -46,12 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Tidjikdja"
-    ],
-    "name:fre_x_preferred":[
-        "Tidjikdja"
-    ],
-    "name:ger_x_preferred":[
-        "Tidschikdscha"
     ],
     "name:hun_x_preferred":[
         "Tidjikdja"
@@ -74,9 +62,6 @@
     "name:lit_x_preferred":[
         "Tid\u017eikd\u017ea"
     ],
-    "name:may_x_preferred":[
-        "Tidjikja"
-    ],
     "name:msa_x_preferred":[
         "Tidjikja"
     ],
@@ -96,9 +81,6 @@
         "Tidjikja"
     ],
     "name:ron_x_preferred":[
-        "Tidjikdja"
-    ],
-    "name:rum_x_preferred":[
         "Tidjikdja"
     ],
     "name:rus_x_preferred":[
@@ -259,7 +241,7 @@
         }
     ],
     "wof:id":421195805,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1561845023,
     "wof:name":"Tidjikja",
     "wof:parent_id":1091695733,
     "wof:placetype":"locality",

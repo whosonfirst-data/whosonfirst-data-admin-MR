@@ -79,9 +79,6 @@
     "name:che_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u62c9\u624e\u7701"
-    ],
     "name:ckb_x_preferred":[
         "\u0646\u0648\u0627\u06a9\u0634\u06c6\u062a"
     ],
@@ -97,11 +94,14 @@
     "name:deu_x_preferred":[
         "Nouakchott"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Trarza"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03c5\u03b1\u03ba\u03c3\u03cc\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03ac\u03c1\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nouakchott"
@@ -126,9 +126,7 @@
     ],
     "name:fra_x_variant":[
         "District de Nouakchott",
-        "Wilaya de Nouakchott"
-    ],
-    "name:fre_x_preferred":[
+        "Wilaya de Nouakchott",
         "Trarza"
     ],
     "name:fry_x_preferred":[
@@ -136,9 +134,6 @@
     ],
     "name:ful_x_preferred":[
         "Nouakchott"
-    ],
-    "name:ger_x_preferred":[
-        "Trarza"
     ],
     "name:gla_x_preferred":[
         "Nouakchott"
@@ -148,9 +143,6 @@
     ],
     "name:glg_x_preferred":[
         "Nouakchott"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03ac\u03c1\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac7\u0a9d\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -239,9 +231,6 @@
     "name:mar_x_preferred":[
         "\u0928\u0935\u093e\u0915\u0938\u0941\u0924"
     ],
-    "name:may_x_preferred":[
-        "Trarza"
-    ],
     "name:mkd_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
     ],
@@ -251,8 +240,14 @@
     "name:msa_x_preferred":[
         "Nouakchott"
     ],
+    "name:msa_x_variant":[
+        "Trarza"
+    ],
     "name:nld_x_preferred":[
         "Nouakchott"
+    ],
+    "name:nld_x_variant":[
+        "Trarza"
     ],
     "name:nno_x_preferred":[
         "Nouakchott"
@@ -284,7 +279,7 @@
     "name:ron_x_preferred":[
         "Nouakchott"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Regiunea Trarza"
     ],
     "name:rus_x_preferred":[
@@ -385,6 +380,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52aa\u74e6\u514b\u8096\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u7279\u62c9\u624e\u7701"
     ],
     "name:zho_yue_x_preferred":[
         "\u6216\u7d22"
@@ -503,7 +501,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550461,
+    "wof:lastmodified":1561845019,
     "wof:name":"Nouakchott",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
