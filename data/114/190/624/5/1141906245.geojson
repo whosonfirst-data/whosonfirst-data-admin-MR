@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09c7\u0997"
     ],
+    "name:ceb_x_preferred":[
+        "Aleg"
+    ],
     "name:dan_x_preferred":[
         "Aleg"
     ],
@@ -45,6 +48,9 @@
         "Aleg"
     ],
     "name:fra_x_preferred":[
+        "Aleg"
+    ],
+    "name:frr_x_preferred":[
         "Aleg"
     ],
     "name:guj_x_preferred":[
@@ -253,7 +259,7 @@
         }
     ],
     "wof:id":1141906245,
-    "wof:lastmodified":1561845024,
+    "wof:lastmodified":1563298179,
     "wof:name":"Aleg",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

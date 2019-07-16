@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043b\u0456\u0431\u0430\u0431\u0456"
     ],
+    "name:ceb_x_preferred":[
+        "Selibaby"
+    ],
     "name:deu_x_preferred":[
         "S\u00e9libaby"
     ],
@@ -36,6 +39,9 @@
         "Selibabi"
     ],
     "name:fra_x_preferred":[
+        "S\u00e9libabi"
+    ],
+    "name:frr_x_preferred":[
         "S\u00e9libabi"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "S\u00e9libabi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0456\u0431\u0430\u0431\u0456"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u06cc\u0628\u0627\u0628\u06cc"
@@ -199,7 +208,7 @@
         }
     ],
     "wof:id":1141907393,
-    "wof:lastmodified":1561845024,
+    "wof:lastmodified":1563298175,
     "wof:name":"Selibaby",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

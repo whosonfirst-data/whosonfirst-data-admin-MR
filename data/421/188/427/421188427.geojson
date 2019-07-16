@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0635\u0627\u062f\u0648"
     ],
+    "name:deu_x_preferred":[
+        "K\u0101n\u1e63\u0101d\u016b"
+    ],
     "name:eng_x_preferred":[
         "Cansado"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:spa_x_preferred":[
         "Cansado"
+    ],
+    "name:swe_x_preferred":[
+        "Gouraye"
     ],
     "name:unk_x_variant":[
         "Port Mineralier de Cansado"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421188427,
-    "wof:lastmodified":1561845023,
+    "wof:lastmodified":1563298128,
     "wof:name":"Cansado",
     "wof:parent_id":1091695961,
     "wof:placetype":"locality",

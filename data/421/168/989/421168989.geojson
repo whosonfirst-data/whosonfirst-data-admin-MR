@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0635\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u0633\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u0441\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Rosso"
     ],
     "name:dan_x_preferred":[
         "Rosso"
@@ -45,6 +51,9 @@
         "Rosso"
     ],
     "name:fra_x_preferred":[
+        "Rosso"
+    ],
+    "name:frr_x_preferred":[
         "Rosso"
     ],
     "name:ita_x_preferred":[
@@ -97,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Rosso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0441\u043e"
     ],
     "name:unk_x_variant":[
         "Roco"
@@ -249,7 +261,7 @@
         }
     ],
     "wof:id":421168989,
-    "wof:lastmodified":1561845022,
+    "wof:lastmodified":1563298122,
     "wof:name":"Rosso",
     "wof:parent_id":1091695159,
     "wof:placetype":"locality",

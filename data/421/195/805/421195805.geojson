@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062a\u062c\u0643\u062c\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Tidjikja"
+    ],
     "name:dan_x_preferred":[
         "Tidjikdja"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Tidjikdja"
+    ],
+    "name:frr_x_preferred":[
+        "Tidjikja"
     ],
     "name:hun_x_preferred":[
         "Tidjikdja"
@@ -91,6 +97,12 @@
     ],
     "name:swe_x_preferred":[
         "Tijigje"
+    ],
+    "name:szl_x_preferred":[
+        "Tid\u017cikd\u017ca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0434\u0436\u0438\u043a\u0436\u0430"
     ],
     "name:unk_x_variant":[
         "Fort Cappolani"
@@ -241,7 +253,7 @@
         }
     ],
     "wof:id":421195805,
-    "wof:lastmodified":1561845023,
+    "wof:lastmodified":1563298123,
     "wof:name":"Tidjikja",
     "wof:parent_id":1091695733,
     "wof:placetype":"locality",

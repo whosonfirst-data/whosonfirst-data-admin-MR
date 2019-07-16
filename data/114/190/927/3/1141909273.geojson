@@ -20,6 +20,12 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u044e\u043d-\u044d\u043b\u044c-\u0410\u0442\u0440\u0443\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Aioun"
+    ],
+    "name:cym_x_preferred":[
+        "Ayoun el Atrous"
+    ],
     "name:deu_x_preferred":[
         "Ayo\u00fbn el-Atro\u00fbs"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "A\u00efoun El Atrouss"
+    ],
+    "name:frr_x_preferred":[
+        "Ayoun el Atrous"
     ],
     "name:ita_x_preferred":[
         "Ayoun el-Atrouss"
@@ -199,7 +208,7 @@
         }
     ],
     "wof:id":1141909273,
-    "wof:lastmodified":1561845024,
+    "wof:lastmodified":1563298180,
     "wof:name":"Ayoun el Atrous",
     "wof:parent_id":1091695431,
     "wof:placetype":"locality",
