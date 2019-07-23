@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062a\u0631\u0627\u0631\u0632\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0627\u0631\u0632\u0627 \u0628\u0624\u0644\u06af\u0647\u200c\u0633\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cd\u09b0\u09be\u09b0\u099c\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -37,6 +40,9 @@
         "\u0422\u0440\u0430\u0440\u0437\u0430"
     ],
     "name:cat_x_preferred":[
+        "Trarza"
+    ],
+    "name:ces_x_preferred":[
         "Trarza"
     ],
     "name:dan_x_preferred":[
@@ -51,6 +57,9 @@
     "name:eng_x_preferred":[
         "Trarza"
     ],
+    "name:eng_x_variant":[
+        "Trarza Region"
+    ],
     "name:epo_x_preferred":[
         "Trarza"
     ],
@@ -64,6 +73,9 @@
         "R\u00e9gion du Trarza",
         "Wilaya de Trarza",
         "Wilaya du Trarza"
+    ],
+    "name:frr_x_preferred":[
+        "Trarza"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac7\u0a9d\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -275,7 +287,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561845019,
+    "wof:lastmodified":1563298018,
     "wof:name":"Trarza",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

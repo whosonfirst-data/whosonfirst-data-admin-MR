@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ab\u09ab\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kiffa"
+    ],
     "name:ces_x_preferred":[
         "Kiffa"
     ],
@@ -53,8 +56,14 @@
     "name:fra_x_preferred":[
         "Kiffa"
     ],
+    "name:frr_x_preferred":[
+        "Kiffa"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aab\u0abe"
+    ],
+    "name:haw_x_preferred":[
+        "Kipa"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u092b\u094d\u092b\u093e"
@@ -288,7 +297,7 @@
         }
     ],
     "wof:id":421173615,
-    "wof:lastmodified":1561845023,
+    "wof:lastmodified":1563298125,
     "wof:name":"Kiffa",
     "wof:parent_id":1091695415,
     "wof:placetype":"locality",

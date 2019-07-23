@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u062a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Oualata"
+    ],
     "name:cat_x_preferred":[
         "Oualata"
     ],
@@ -55,6 +58,12 @@
     "name:kaz_x_preferred":[
         "\u0423\u0430\u043b\u0430\u0442\u0430"
     ],
+    "name:kaz_x_variant":[
+        "\u0423\u0430\u043b\u0430\u0442\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:lat_x_preferred":[
+        "Gualata"
+    ],
     "name:lit_x_preferred":[
         "Ualata"
     ],
@@ -89,6 +98,9 @@
         "Oualata"
     ],
     "name:swe_x_preferred":[
+        "Oualata"
+    ],
+    "name:tur_x_preferred":[
         "Oualata"
     ],
     "name:ukr_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":421195265,
-    "wof:lastmodified":1561845023,
+    "wof:lastmodified":1563298124,
     "wof:name":"Oualata",
     "wof:parent_id":1091696039,
     "wof:placetype":"locality",

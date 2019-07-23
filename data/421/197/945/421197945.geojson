@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Nouadhibou"
     ],
+    "name:ceb_x_preferred":[
+        "Nou\u00e2dhibou"
+    ],
     "name:ces_x_preferred":[
         "Nuadhib\u00fa"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:frr_x_preferred":[
         "Nouadhibou"
+    ],
+    "name:grn_x_preferred":[
+        "Nuandivu"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acc\u0aa6\u0abf\u0aac\u0acc"
@@ -330,7 +336,7 @@
         }
     ],
     "wof:id":421197945,
-    "wof:lastmodified":1561845023,
+    "wof:lastmodified":1563298128,
     "wof:name":"Port-Etienne",
     "wof:parent_id":1091695961,
     "wof:placetype":"locality",

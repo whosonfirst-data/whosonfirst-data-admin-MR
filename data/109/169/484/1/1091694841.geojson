@@ -30,12 +30,14 @@
     "mps:longitude":-11.906024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ould Yenge"
+    ],
     "name:eng_x_preferred":[
         "Ould Yeng\u00e9"
     ],
     "name:eng_x_variant":[
         "Ould Yenge",
-        "Ould Yeng\u00e9",
         "Ould Yeng\u00e9 Department"
     ],
     "name:fra_x_preferred":[
@@ -46,6 +48,9 @@
     ],
     "name:nld_x_preferred":[
         "Ould Yeng\u00e9 Department"
+    ],
+    "name:spa_x_preferred":[
+        "Ould Yenge"
     ],
     "name:swe_x_preferred":[
         "Ould Yenge"
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":1091694841,
-    "wof:lastmodified":1561845022,
+    "wof:lastmodified":1563298105,
     "wof:name":"Ould Yenge",
     "wof:parent_id":85674887,
     "wof:placetype":"county",

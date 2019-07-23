@@ -15,6 +15,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bark\u00e9wol"
+    ],
     "name:cos_x_preferred":[
         "Barkewol"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890441413,
-    "wof:lastmodified":1561845023,
+    "wof:lastmodified":1563298130,
     "wof:name":"Bark\u00e9wol",
     "wof:parent_id":1091695353,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Nouakchott"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0627\u0631\u0632\u0627 \u0628\u0624\u0644\u06af\u0647\u200c\u0633\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Nuak\u015fot"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u0993\u09af\u09bc\u09be\u0995\u09b6\u09c1\u09a4"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09cd\u09b0\u09be\u09b0\u099c\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
     "name:bod_x_preferred":[
         "\u0f53\u0f60\u0f74\u0f0b\u0f40\u0f0b\u0f45\u0f7c\u0f0b\u0f4a\u0f72\u0f0d"
@@ -70,11 +76,20 @@
     "name:bul_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
     ],
+    "name:bul_x_variant":[
+        "\u0422\u0440\u0430\u0440\u0437\u0430"
+    ],
     "name:cat_x_preferred":[
         "Nouakchott"
     ],
+    "name:cat_x_variant":[
+        "Trarza"
+    ],
     "name:ces_x_preferred":[
         "Nuak\u0161ott"
+    ],
+    "name:ces_x_variant":[
+        "Trarza"
     ],
     "name:che_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
@@ -91,6 +106,9 @@
     "name:dan_x_preferred":[
         "Nouakchott"
     ],
+    "name:dan_x_variant":[
+        "Trarza"
+    ],
     "name:deu_x_preferred":[
         "Nouakchott"
     ],
@@ -106,8 +124,14 @@
     "name:eng_x_preferred":[
         "Nouakchott"
     ],
+    "name:eng_x_variant":[
+        "Trarza Region"
+    ],
     "name:epo_x_preferred":[
         "Nuak\u015doto"
+    ],
+    "name:epo_x_variant":[
+        "Trarza"
     ],
     "name:est_x_preferred":[
         "Nouakchott"
@@ -121,12 +145,18 @@
     "name:fin_x_preferred":[
         "Nouakchott"
     ],
+    "name:fin_x_variant":[
+        "Trarzan maakunta"
+    ],
     "name:fra_x_preferred":[
         "Nouakchott"
     ],
     "name:fra_x_variant":[
         "District de Nouakchott",
         "Wilaya de Nouakchott",
+        "Trarza"
+    ],
+    "name:frr_x_preferred":[
         "Trarza"
     ],
     "name:fry_x_preferred":[
@@ -162,6 +192,9 @@
     "name:hin_x_preferred":[
         "\u0928\u0935\u093e\u0915\u094d\u0936\u0942\u0924"
     ],
+    "name:hin_x_variant":[
+        "\u0924\u094d\u0930\u093e\u0930\u094d\u091c\u093c\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
     "name:hrv_x_preferred":[
         "Nouakchott"
     ],
@@ -180,6 +213,9 @@
     "name:ind_x_preferred":[
         "Nouakchott"
     ],
+    "name:ind_x_variant":[
+        "Trarza"
+    ],
     "name:isl_x_preferred":[
         "N\u00faaksjott"
     ],
@@ -191,6 +227,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30a2\u30af\u30b7\u30e7\u30c3\u30c8"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c8\u30e9\u30eb\u30b6\u5dde"
     ],
     "name:kab_x_preferred":[
         "Nwaqcu\u1e6d"
@@ -213,14 +252,23 @@
     "name:kor_x_preferred":[
         "\ub204\uc545\uc1fc\ud2b8"
     ],
+    "name:kor_x_variant":[
+        "\ud2b8\ub77c\ub974\uc790 \uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Nouakchott"
     ],
     "name:lav_x_preferred":[
         "Nuak\u0161ota"
     ],
+    "name:lav_x_variant":[
+        "Trarzas vil\u0101js"
+    ],
     "name:lit_x_preferred":[
         "Nuak\u0161otas"
+    ],
+    "name:lit_x_variant":[
+        "Trarzos vilaja"
     ],
     "name:lmo_x_preferred":[
         "Nouakchott"
@@ -230,6 +278,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0935\u093e\u0915\u0938\u0941\u0924"
+    ],
+    "name:mar_x_variant":[
+        "\u091f\u094d\u0930\u0945\u091d\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
@@ -273,8 +324,14 @@
     "name:pol_x_preferred":[
         "Nawakszut"
     ],
+    "name:pol_x_variant":[
+        "At-Tarariza"
+    ],
     "name:por_x_preferred":[
         "Nouakchott"
+    ],
+    "name:por_x_variant":[
+        "Trarza"
     ],
     "name:ron_x_preferred":[
         "Nouakchott"
@@ -284,6 +341,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0430\u0440\u0437\u0430"
     ],
     "name:sco_x_preferred":[
         "Nouakchott"
@@ -306,6 +366,9 @@
     "name:spa_x_preferred":[
         "Nuakchot"
     ],
+    "name:spa_x_variant":[
+        "Trarza"
+    ],
     "name:sqi_x_preferred":[
         "Nouakchott"
     ],
@@ -317,6 +380,9 @@
     ],
     "name:swe_x_preferred":[
         "Nouakchott"
+    ],
+    "name:swe_x_variant":[
+        "Trarza"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b9a\u0bc2\u0ba4\u0bcd"
@@ -333,8 +399,14 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e39\u0e41\u0e2d\u0e01\u0e0a\u0e2d\u0e15"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e17\u0e23\u0e32\u0e0b\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Nuak\u015fot"
+    ],
+    "name:tur_x_variant":[
+        "Trarza B\u00f6lgesi"
     ],
     "name:udm_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
@@ -342,11 +414,17 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u0422\u0440\u0430\u0440\u0437\u0430"
+    ],
     "name:unk_x_variant":[
         "\u0646\u0648\u0627\u0643\u0634\u0648\u0637 \u0648\u0644\u0627\u064a\u0629"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0627\u06a9\u0634\u0648\u0637"
+    ],
+    "name:urd_x_variant":[
+        "\u062a\u0631\u0627\u0631\u0632\u06c1 \u0639\u0644\u0627\u0642\u06c1"
     ],
     "name:uzb_x_preferred":[
         "Nuakshot"
@@ -501,7 +579,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561845019,
+    "wof:lastmodified":1563298017,
     "wof:name":"Nouakchott",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

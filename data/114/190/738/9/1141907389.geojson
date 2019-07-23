@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0644\u0645\u064a\u062a"
     ],
+    "name:cat_x_preferred":[
+        "Boutilimit"
+    ],
     "name:dan_x_preferred":[
         "Boutilimit"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":1141907389,
-    "wof:lastmodified":1561845024,
+    "wof:lastmodified":1563298176,
     "wof:name":"Boutilimit",
     "wof:parent_id":1091695697,
     "wof:placetype":"locality",
