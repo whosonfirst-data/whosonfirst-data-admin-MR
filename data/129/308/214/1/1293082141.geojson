@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Zou\u00e9rat"
     ],
+    "name:est_x_preferred":[
+        "Zou\u00e9rat"
+    ],
     "name:fin_x_preferred":[
         "Zou\u00e9rat"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:lit_x_preferred":[
         "Zueratas"
+    ],
+    "name:msa_x_preferred":[
+        "Zou\u00e9rat"
     ],
     "name:nld_x_preferred":[
         "Zou\u00e9rat"
@@ -66,6 +72,9 @@
         "Zouerate",
         "Azuwayr\u0101t",
         "Az Zuwayr\u0101t"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u57c3\u62c9\u7279"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1293082141,
-    "wof:lastmodified":1537665789,
+    "wof:lastmodified":1564096730,
     "wof:name":"Zouerate",
     "wof:parent_id":1091696097,
     "wof:placetype":"locality",

@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Rosso"
     ],
+    "name:fra_x_preferred":[
+        "Rosso"
+    ],
+    "name:por_x_preferred":[
+        "Rosso"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u7d22"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1091695159,
-    "wof:lastmodified":1553717905,
+    "wof:lastmodified":1564096826,
     "wof:name":"Rosso",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

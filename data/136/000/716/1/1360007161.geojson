@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud234"
+    ],
+    "name:pms_x_preferred":[
+        "Toul"
+    ],
+    "name:spa_x_preferred":[
+        "Toul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fe\u52d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1360007161,
-    "wof:lastmodified":1537055695,
+    "wof:lastmodified":1564096810,
     "wof:name":"Toul",
     "wof:parent_id":1091695825,
     "wof:placetype":"locality",

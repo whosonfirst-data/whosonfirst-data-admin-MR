@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Blajmil"
+    ],
     "name:und_x_variant":[
         "Blajemile",
         "Blajmil"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226647923,
-    "wof:lastmodified":1537665811,
+    "wof:lastmodified":1564096884,
     "wof:name":"Blajmil",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Hadad"
+    ],
+    "name:tur_x_preferred":[
+        "Hadad"
+    ],
     "name:und_x_variant":[
         "Ador",
         "Haddah",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226540337,
-    "wof:lastmodified":1537665804,
+    "wof:lastmodified":1564096886,
     "wof:name":"Hadad",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

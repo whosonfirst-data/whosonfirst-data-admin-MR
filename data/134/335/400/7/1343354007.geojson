@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Ndiago"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1343354007,
-    "wof:lastmodified":1537568535,
+    "wof:lastmodified":1564096719,
     "wof:name":"Ndiago",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
         "Moudjeria",
         "Moudj\u00e9ria"
     ],
+    "name:swe_x_preferred":[
+        "Moudjeria"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091695647,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096820,
     "wof:name":"Moudjeria",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

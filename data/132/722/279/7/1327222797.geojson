@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bouele"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327222797,
-    "wof:lastmodified":1536982772,
+    "wof:lastmodified":1564096696,
     "wof:name":"Bouele",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

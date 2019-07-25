@@ -37,6 +37,9 @@
         "Barkeol",
         "Bark\u00e9ol"
     ],
+    "name:swe_x_preferred":[
+        "Bark\u00e9wol"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091695353,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096817,
     "wof:name":"Barkeol",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

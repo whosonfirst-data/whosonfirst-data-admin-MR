@@ -29,6 +29,12 @@
         "Mostaka",
         "Meft\u00e2\u1e25a"
     ],
+    "name:vie_x_preferred":[
+        "Meftaha"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u592b\u5854\u54c8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242681873,
-    "wof:lastmodified":1537665799,
+    "wof:lastmodified":1564096841,
     "wof:name":"Meftaha",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

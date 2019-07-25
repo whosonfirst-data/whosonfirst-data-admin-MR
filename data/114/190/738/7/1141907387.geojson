@@ -14,6 +14,12 @@
     "lbl:longitude":-14.269966,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433"
+    ],
+    "name:vol_x_preferred":[
+        "Bogue"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mauritania",
     "ne:ADM0_A3":"MRT",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1141907387,
-    "wof:lastmodified":1508889534,
+    "wof:lastmodified":1564096888,
     "wof:name":"Bogue",
     "wof:parent_id":1091695129,
     "wof:placetype":"locality",

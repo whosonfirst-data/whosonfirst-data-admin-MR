@@ -29,6 +29,9 @@
         "Magta-lahjar",
         "Mag\u1e6da\u2018 La\u1e25jar"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0642\u0637\u0639 \u0627\u0644\u062d\u062c\u0627\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1343560295,
-    "wof:lastmodified":1537665800,
+    "wof:lastmodified":1564096720,
     "wof:name":"Magta` Lahjar",
     "wof:parent_id":1091695619,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Aoujeft"
     ],
+    "name:swe_x_preferred":[
+        "Aoujeft"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1091695825,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096824,
     "wof:name":"Aoujeft",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

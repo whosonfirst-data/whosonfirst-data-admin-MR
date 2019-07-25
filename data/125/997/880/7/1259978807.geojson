@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u063a\u064a"
     ],
+    "name:nor_x_preferred":[
+        "Bogu\u00e9"
+    ],
     "name:und_x_variant":[
         "Bogh\u00e9",
         "Bogu\u00e9 Dow",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259978807,
-    "wof:lastmodified":1537665811,
+    "wof:lastmodified":1564096855,
     "wof:name":"Bogue",
     "wof:parent_id":1091695129,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "A\u00e9r\u00e9 M'Bar"
+    ],
     "name:und_x_variant":[
         "A\u00e9r\u00e9 Mbar",
         "Ha\u00e9r\u00e9 Mbar",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260308717,
-    "wof:lastmodified":1537665803,
+    "wof:lastmodified":1564096788,
     "wof:name":"Haire Mbar",
     "wof:parent_id":1091695099,
     "wof:placetype":"locality",

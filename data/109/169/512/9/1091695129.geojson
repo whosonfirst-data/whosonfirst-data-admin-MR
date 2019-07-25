@@ -37,6 +37,9 @@
         "Boghe",
         "Bogh\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Boghe"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091695129,
-    "wof:lastmodified":1553717905,
+    "wof:lastmodified":1564096826,
     "wof:name":"Boghe",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

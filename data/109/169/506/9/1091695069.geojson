@@ -36,6 +36,12 @@
     "name:eng_x_variant":[
         "Tintane"
     ],
+    "name:ron_x_preferred":[
+        "Tintane"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u06cc\u0646\u0637\u0627\u0646"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1091695069,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096820,
     "wof:name":"Tintane",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

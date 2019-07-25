@@ -37,6 +37,9 @@
         "Keur Macene",
         "Keur-Mac\u00e8ne"
     ],
+    "name:ron_x_preferred":[
+        "Keurmacen"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091695227,
-    "wof:lastmodified":1553717905,
+    "wof:lastmodified":1564096824,
     "wof:name":"Keur-Macene",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

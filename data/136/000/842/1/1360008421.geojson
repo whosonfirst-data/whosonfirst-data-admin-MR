@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:yid_x_preferred":[
+        "\u05d0\u05d1\u05d9\u05d9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1360008421,
-    "wof:lastmodified":1537053934,
+    "wof:lastmodified":1564096809,
     "wof:name":"Abaye",
     "wof:parent_id":1091695129,
     "wof:placetype":"locality",

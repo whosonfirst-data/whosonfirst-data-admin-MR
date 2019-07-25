@@ -25,9 +25,18 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Bada"
+    ],
+    "name:pol_x_preferred":[
+        "Bada"
+    ],
     "name:und_x_variant":[
         "Badaa",
         "Bad\u00e2"
+    ],
+    "name:zho_x_preferred":[
+        "Bada"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259878825,
-    "wof:lastmodified":1537665813,
+    "wof:lastmodified":1564096865,
     "wof:name":"Bada",
     "wof:parent_id":1091695173,
     "wof:placetype":"locality",

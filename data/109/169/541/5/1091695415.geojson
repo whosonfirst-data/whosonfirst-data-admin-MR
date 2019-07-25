@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Kiffa"
     ],
+    "name:fra_x_preferred":[
+        "Kiffa"
+    ],
+    "name:nds_x_preferred":[
+        "Kiffa"
+    ],
+    "name:vep_x_preferred":[
+        "Kiff"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1091695415,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096825,
     "wof:name":"Kiffa",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

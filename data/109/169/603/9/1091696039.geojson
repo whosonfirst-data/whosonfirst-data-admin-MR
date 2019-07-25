@@ -37,6 +37,15 @@
         "Oualata",
         "Ouadane"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05d0\u05ea\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Oualata"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u62c9\u5854"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1091696039,
-    "wof:lastmodified":1553717907,
+    "wof:lastmodified":1564096817,
     "wof:name":"Oualata",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

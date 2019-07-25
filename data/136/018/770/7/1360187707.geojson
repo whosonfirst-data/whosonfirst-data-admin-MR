@@ -35,8 +35,14 @@
     "name:eng_x_preferred":[
         "Ayoun El Atrous"
     ],
+    "name:ita_x_preferred":[
+        "Ayoun el-Atrouss"
+    ],
     "name:nor_x_preferred":[
         "Ayoun El Atrous"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u044e\u043d-\u0435\u043b\u044c-\u0410\u0442\u0440\u0443\u0441"
     ],
     "name:und_x_variant":[
         "A\u00efoun el Atrouss",
@@ -50,6 +56,9 @@
         "\u2018Ay\u016bn al \u2018Atr\u016bs",
         "Lu\u2018y\u016bn",
         "Al \u2018Uy\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c24\u6069\u963f\u7279\u9b6f\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1360187707,
-    "wof:lastmodified":1537665813,
+    "wof:lastmodified":1564096812,
     "wof:name":"Aioun",
     "wof:parent_id":1091695431,
     "wof:placetype":"locality",

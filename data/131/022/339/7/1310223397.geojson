@@ -25,6 +25,15 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yama"
+    ],
+    "name:lav_x_preferred":[
+        "Jama"
+    ],
+    "name:ron_x_preferred":[
+        "Yama"
+    ],
     "name:und_x_variant":[
         "Yiama",
         "Yama"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310223397,
-    "wof:lastmodified":1537665790,
+    "wof:lastmodified":1564096795,
     "wof:name":"Yama",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

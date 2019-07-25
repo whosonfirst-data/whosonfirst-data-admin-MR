@@ -25,10 +25,19 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05ea\u05d9\u05e9\u05d9\u05ea"
+    ],
+    "name:pol_x_preferred":[
+        "Tiszit"
+    ],
     "name:und_x_variant":[
         "Tishit",
         "Tichitt",
         "T\u00eech\u00eet"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0634\u06cc\u062a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293479629,
-    "wof:lastmodified":1537665792,
+    "wof:lastmodified":1564096735,
     "wof:name":"Tichit",
     "wof:parent_id":1091695767,
     "wof:placetype":"locality",

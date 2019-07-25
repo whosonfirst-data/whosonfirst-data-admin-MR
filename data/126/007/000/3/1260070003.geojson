@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Lekhcheb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1260070003,
-    "wof:lastmodified":1537568539,
+    "wof:lastmodified":1564096787,
     "wof:name":"Lekhcheb",
     "wof:parent_id":1091695767,
     "wof:placetype":"locality",

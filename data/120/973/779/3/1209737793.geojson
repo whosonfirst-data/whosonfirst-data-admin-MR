@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "R'Kiz"
+    ],
     "name:und_x_variant":[
         "Rk\u00eez"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209737793,
-    "wof:lastmodified":1537665816,
+    "wof:lastmodified":1564096779,
     "wof:name":"Rkiz",
     "wof:parent_id":1091695385,
     "wof:placetype":"locality",

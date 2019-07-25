@@ -37,6 +37,9 @@
         "Ouad Naga",
         "Ouad-Naga"
     ],
+    "name:ron_x_preferred":[
+        "Ouad Naga"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091695675,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096816,
     "wof:name":"Ouad Naga",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

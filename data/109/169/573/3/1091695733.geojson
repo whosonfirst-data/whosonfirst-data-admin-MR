@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Tidjikja"
     ],
+    "name:frr_x_preferred":[
+        "Tidjikja"
+    ],
+    "name:nor_x_preferred":[
+        "Tidjikja"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u5409\u514b\u8cc8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1091695733,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096820,
     "wof:name":"Tidjikja",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

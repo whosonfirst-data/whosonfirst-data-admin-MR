@@ -37,6 +37,12 @@
         "Mederdra",
         "M\u00e9derdra"
     ],
+    "name:ron_x_preferred":[
+        "Mederdra"
+    ],
+    "name:swe_x_preferred":[
+        "Mederdra"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091695465,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096826,
     "wof:name":"Mederdra",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

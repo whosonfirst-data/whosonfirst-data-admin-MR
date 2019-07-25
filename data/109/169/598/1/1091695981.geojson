@@ -36,6 +36,12 @@
     "name:eng_x_variant":[
         "Atar"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Atar"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1091695981,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096822,
     "wof:name":"Atar",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

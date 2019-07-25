@@ -34,10 +34,19 @@
     "name:eng_x_preferred":[
         "S\u00e9libaby"
     ],
+    "name:ita_x_preferred":[
+        "S\u00e9libabi"
+    ],
     "name:und_x_variant":[
         "S\u00e9libaby",
         "S\u00e9libabi",
         "Saylib\u0101b\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0644\u06cc\u0628\u0627\u0628\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5229\u5df4\u6bd4"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1226560259,
-    "wof:lastmodified":1537665793,
+    "wof:lastmodified":1564096875,
     "wof:name":"Selibaby",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

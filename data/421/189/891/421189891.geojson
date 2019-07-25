@@ -19,8 +19,44 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0627\u0643\u0634\u0648\u0637\u200e"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u0648\u0627\u06a9\u0634\u06c6\u062a"
+    ],
     "name:eng_x_preferred":[
         "Nouakchott"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0627\u06a9\u0634\u0648\u062a"
+    ],
+    "name:hak_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ido_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\uc545\uc1fc\ud2b8"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0935\u093e\u0915\u0938\u0941\u0924"
+    ],
+    "name:pms_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:slv_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e39\u0e2d\u0e32\u0e01\u0e0a\u0e2d\u0e15"
+    ],
+    "name:vol_x_preferred":[
+        "N\u00e4vakjut"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u74e6\u514b\u8096\u7279"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -69,7 +105,7 @@
         }
     ],
     "wof:id":421189891,
-    "wof:lastmodified":1552519484,
+    "wof:lastmodified":1564096834,
     "wof:name":"Nouakchott",
     "wof:parent_id":85674873,
     "wof:placetype":"locality",

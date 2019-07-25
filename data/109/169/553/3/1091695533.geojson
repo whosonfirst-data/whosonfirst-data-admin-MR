@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Aleg"
     ],
+    "name:isl_x_preferred":[
+        "Aleg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u840a\u683c"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1091695533,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564096822,
     "wof:name":"Aleg",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

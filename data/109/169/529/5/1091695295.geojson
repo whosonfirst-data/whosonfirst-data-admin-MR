@@ -37,6 +37,9 @@
         "Nema",
         "N\u00e9ma"
     ],
+    "name:tur_x_preferred":[
+        "Nema"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091695295,
-    "wof:lastmodified":1553717905,
+    "wof:lastmodified":1564096818,
     "wof:name":"Nema",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

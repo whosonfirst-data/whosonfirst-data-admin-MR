@@ -25,8 +25,14 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Tintane"
+    ],
     "name:und_x_variant":[
         "\u1e6cin\u1e6d\u00e2ne"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u06cc\u0646\u0637\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243276667,
-    "wof:lastmodified":1537665816,
+    "wof:lastmodified":1564096849,
     "wof:name":"Tintane",
     "wof:parent_id":1091695069,
     "wof:placetype":"locality",

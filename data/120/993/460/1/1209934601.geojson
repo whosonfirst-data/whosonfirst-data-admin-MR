@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Bondi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209934601,
-    "wof:lastmodified":1536391222,
+    "wof:lastmodified":1564096776,
     "wof:name":"Bondi",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

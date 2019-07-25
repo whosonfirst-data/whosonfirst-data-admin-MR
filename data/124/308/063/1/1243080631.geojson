@@ -25,6 +25,18 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Mara"
+    ],
+    "name:krc_x_preferred":[
+        "\u041c\u0430\u0440\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Mara"
+    ],
+    "name:war_x_preferred":[
+        "Mara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243080631,
-    "wof:lastmodified":1536834736,
+    "wof:lastmodified":1564096837,
     "wof:name":"Mara",
     "wof:parent_id":1091695069,
     "wof:placetype":"locality",
