@@ -25,6 +25,24 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M'Bagne"
+    ],
+    "name:ita_x_preferred":[
+        "M'Bagne"
+    ],
+    "name:msa_x_preferred":[
+        "Mbagne"
+    ],
+    "name:pol_x_preferred":[
+        "Amban"
+    ],
+    "name:ron_x_preferred":[
+        "M'Bagne"
+    ],
+    "name:spa_x_preferred":[
+        "M'Bagne"
+    ],
     "name:swe_x_preferred":[
         "M'Bagne"
     ],
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1209620117,
-    "wof:lastmodified":1564096768,
+    "wof:lastmodified":1564100749,
     "wof:name":"Mbagne",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",

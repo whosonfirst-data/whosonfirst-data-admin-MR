@@ -25,7 +25,19 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Blajmil"
+    ],
+    "name:ita_x_preferred":[
+        "Blajmil"
+    ],
+    "name:msa_x_preferred":[
+        "Blajmil"
+    ],
     "name:ron_x_preferred":[
+        "Blajmil"
+    ],
+    "name:spa_x_preferred":[
         "Blajmil"
     ],
     "name:und_x_variant":[
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1226647923,
-    "wof:lastmodified":1564096884,
+    "wof:lastmodified":1564100854,
     "wof:name":"Blajmil",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

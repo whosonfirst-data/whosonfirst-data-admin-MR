@@ -28,7 +28,19 @@
     "name:fra_x_preferred":[
         "Nbe\u00efka"
     ],
+    "name:fra_x_variant":[
+        "Nbeika"
+    ],
+    "name:msa_x_preferred":[
+        "Nbeika"
+    ],
+    "name:pol_x_preferred":[
+        "N\u2019Beika"
+    ],
     "name:ron_x_preferred":[
+        "Nbeika"
+    ],
+    "name:spa_x_preferred":[
         "Nbeika"
     ],
     "src:geom":"geonames",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1210000949,
-    "wof:lastmodified":1564096782,
+    "wof:lastmodified":1564100762,
     "wof:name":"Nbeika",
     "wof:parent_id":1091695647,
     "wof:placetype":"locality",

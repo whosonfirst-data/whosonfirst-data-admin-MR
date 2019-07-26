@@ -31,11 +31,35 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0632\u0648\u064a\u0631\u0627\u062a"
     ],
+    "name:bel_x_preferred":[
+        "\u0417\u0443\u044d\u0440\u0430\u0442"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0443\u0435\u0440\u0430\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:dan_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:deu_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03b5\u03c1\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Zou\u00e9rat"
     ],
+    "name:epo_x_preferred":[
+        "Zuerato"
+    ],
     "name:est_x_preferred":[
         "Zou\u00e9rat"
+    ],
+    "name:eus_x_preferred":[
+        "Zouerat"
     ],
     "name:fin_x_preferred":[
         "Zou\u00e9rat"
@@ -43,8 +67,20 @@
     "name:fra_x_preferred":[
         "Zouerate"
     ],
+    "name:frr_x_preferred":[
+        "Zou\u00e9rat"
+    ],
+    "name:ita_x_preferred":[
+        "Zou\u00e9rat"
+    ],
     "name:jpn_x_preferred":[
         "\u30ba\u30a8\u30e9\u30c3\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0443\u044d\u0440\u0430\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\uc8fc\uc5d0\ub77c\ud2b8"
     ],
     "name:lit_x_preferred":[
         "Zueratas"
@@ -58,11 +94,26 @@
     "name:pol_x_preferred":[
         "Zuwirat"
     ],
+    "name:pol_x_variant":[
+        "Az-Zuwajrat"
+    ],
+    "name:ron_x_preferred":[
+        "Zou\u00e9rate"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u044d\u0440\u0430\u0442"
+    ],
     "name:spa_x_preferred":[
         "Zu\u00e9rate"
     ],
     "name:swe_x_preferred":[
         "Zou\u00e9rat"
+    ],
+    "name:szl_x_preferred":[
+        "Az-Zuwajrat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0443\u0435\u0440\u0430\u0442"
     ],
     "name:und_x_variant":[
         "Zou\u00eer\u00e2t",
@@ -72,6 +123,12 @@
         "Zouerate",
         "Azuwayr\u0101t",
         "Az Zuwayr\u0101t"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0648\u06cc\u0631\u0627\u062a"
+    ],
+    "name:vep_x_preferred":[
+        "Zuerat"
     ],
     "name:zho_x_preferred":[
         "\u7956\u57c3\u62c9\u7279"
@@ -101,7 +158,7 @@
         }
     ],
     "wof:id":1293082141,
-    "wof:lastmodified":1564096730,
+    "wof:lastmodified":1564100714,
     "wof:name":"Zouerate",
     "wof:parent_id":1091696097,
     "wof:placetype":"locality",

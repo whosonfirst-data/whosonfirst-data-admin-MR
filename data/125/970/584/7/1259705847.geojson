@@ -25,6 +25,18 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boyo"
+    ],
+    "name:deu_x_preferred":[
+        "Boyo"
+    ],
+    "name:fra_x_preferred":[
+        "Boyo"
+    ],
+    "name:nld_x_preferred":[
+        "Boyo"
+    ],
     "name:swe_x_preferred":[
         "Boyo"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259705847,
-    "wof:lastmodified":1564096858,
+    "wof:lastmodified":1564100832,
     "wof:name":"Boyo",
     "wof:parent_id":1091695227,
     "wof:placetype":"locality",

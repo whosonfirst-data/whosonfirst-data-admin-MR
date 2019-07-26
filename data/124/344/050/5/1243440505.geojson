@@ -25,6 +25,15 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ksar"
+    ],
+    "name:msa_x_preferred":[
+        "Ksar"
+    ],
     "name:ron_x_preferred":[
         "Ksar"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243440505,
-    "wof:lastmodified":1564096853,
+    "wof:lastmodified":1564100827,
     "wof:name":"Ksar",
     "wof:parent_id":1091695565,
     "wof:placetype":"locality",

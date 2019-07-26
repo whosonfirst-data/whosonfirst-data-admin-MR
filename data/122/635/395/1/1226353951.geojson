@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Borie"
+    ],
     "name:fra_x_preferred":[
         "Borie"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226353951,
-    "wof:lastmodified":1564096877,
+    "wof:lastmodified":1564100847,
     "wof:name":"Borie",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

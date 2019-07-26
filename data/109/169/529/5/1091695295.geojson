@@ -30,12 +30,27 @@
     "mps:longitude":-7.256098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nema"
+    ],
     "name:eng_x_preferred":[
         "N\u00e9ma"
     ],
     "name:eng_x_variant":[
         "Nema",
         "N\u00e9ma"
+    ],
+    "name:epo_x_preferred":[
+        "Nema"
+    ],
+    "name:fra_x_preferred":[
+        "Nema"
+    ],
+    "name:ita_x_preferred":[
+        "Nema"
+    ],
+    "name:swe_x_preferred":[
+        "Nema"
     ],
     "name:tur_x_preferred":[
         "Nema"
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":1091695295,
-    "wof:lastmodified":1564096818,
+    "wof:lastmodified":1564100795,
     "wof:name":"Nema",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

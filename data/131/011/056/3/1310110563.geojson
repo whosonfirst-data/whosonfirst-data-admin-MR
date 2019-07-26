@@ -25,7 +25,22 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mal"
+    ],
+    "name:ita_x_preferred":[
+        "Mal"
+    ],
+    "name:msa_x_preferred":[
+        "Sori Mal\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Mal"
+    ],
     "name:ron_x_preferred":[
+        "Mal"
+    ],
+    "name:spa_x_preferred":[
         "Mal"
     ],
     "name:und_x_variant":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310110563,
-    "wof:lastmodified":1564096802,
+    "wof:lastmodified":1564100780,
     "wof:name":"Sori Male",
     "wof:parent_id":1108691515,
     "wof:placetype":"locality",

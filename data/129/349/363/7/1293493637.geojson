@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ganki"
+    ],
+    "name:ita_x_preferred":[
+        "Ganki"
+    ],
+    "name:msa_x_preferred":[
+        "Ganki"
+    ],
+    "name:ron_x_preferred":[
+        "Ganki"
+    ],
+    "name:spa_x_preferred":[
+        "Ganki"
+    ],
     "name:swe_x_preferred":[
         "Ganki"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293493637,
-    "wof:lastmodified":1564096734,
+    "wof:lastmodified":1564100717,
     "wof:name":"Ganki",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

@@ -30,11 +30,77 @@
     "mps:longitude":-15.955846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ady_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:afr_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:amh_x_preferred":[
+        "\u1291\u12cb\u12ad\u123e\u1275"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627\u0643\u0634\u0648\u0637"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u0627\u0643\u0634\u0648\u0637"
+    ],
+    "name:ast_x_preferred":[
+        "Nuakxot"
+    ],
+    "name:aze_x_preferred":[
+        "Nuak\u015fot"
+    ],
     "name:bel_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c1\u0993\u09af\u09bc\u09be\u0995\u09b6\u09c1\u09a4"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f53\u0f60\u0f74\u0f0b\u0f40\u0f0b\u0f45\u0f7c\u0f0b\u0f4a\u0f72\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:bre_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:cdo_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ces_x_preferred":[
+        "Nuak\u0161ott"
+    ],
+    "name:che_x_preferred":[
         "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u0648\u0627\u06a9\u0634\u06c6\u062a"
+    ],
+    "name:cor_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:cym_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:dan_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:deu_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03b1\u03ba\u03c3\u03cc\u03c4"
     ],
     "name:eng_x_preferred":[
         "Nouakchott"
@@ -42,32 +108,269 @@
     "name:eng_x_variant":[
         "Nouakchott"
     ],
+    "name:epo_x_preferred":[
+        "Nuak\u015doto"
+    ],
+    "name:est_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:eus_x_preferred":[
+        "Nuakxot"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0627\u06a9\u0634\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:fra_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:frr_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:fry_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ful_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:gla_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:gle_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:glg_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:grn_x_preferred":[
+        "Nuakech\u00f3te"
     ],
     "name:hak_x_preferred":[
         "Nouakchott"
     ],
+    "name:hat_x_preferred":[
+        "Nouakchot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05e7\u05e9\u05d5\u05d8"
+    ],
+    "name:hif_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0935\u093e\u0915\u094d\u0936\u0942\u0924"
+    ],
+    "name:hrv_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:hun_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0561\u056f\u0577\u0578\u057f"
+    ],
     "name:ido_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ile_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ind_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:isl_x_preferred":[
+        "N\u00faaksjott"
+    ],
+    "name:ita_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:jav_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a2\u30af\u30b7\u30e7\u30c3\u30c8"
+    ],
+    "name:kab_x_preferred":[
+        "Nwaqcu\u1e6d"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d0\u10e5\u10e8\u10dd\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:kbp_x_preferred":[
+        "Nuwakic\u0254\u0254t\u0269"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:kon_x_preferred":[
         "Nouakchott"
     ],
     "name:kor_x_preferred":[
         "\ub204\uc545\uc1fc\ud2b8"
     ],
+    "name:lat_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:lav_x_preferred":[
+        "Nuak\u0161ota"
+    ],
+    "name:lit_x_preferred":[
+        "Nuak\u0161otas"
+    ],
+    "name:lmo_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:ltz_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4c\u0d35\u0d3e\u0d15\u0d4d\u0d15\u0d4d\u0d1a\u0d4d\u0d1a\u0d4b\u0d1f\u0d4d\u0d1f\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u0935\u093e\u0915\u0938\u0941\u0924"
     ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:nah_x_preferred":[
+        "Nuakchot"
+    ],
+    "name:nld_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:nno_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:nor_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:oci_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a28\u0a41\u0a06\u0a15\u0a1a\u0a4b\u0a24"
+    ],
     "name:pms_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0648\u0627\u06a9\u0634\u0648\u0637"
+    ],
+    "name:pol_x_preferred":[
+        "Nawakszut"
+    ],
+    "name:por_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:pus_x_preferred":[
+        "\u0646\u0648\u0627\u06a9\u0634\u0648\u062a"
+    ],
+    "name:ron_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:slk_x_preferred":[
         "Nouakchott"
     ],
     "name:slv_x_preferred":[
         "Nouakchott"
     ],
+    "name:sna_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:som_x_preferred":[
+        "Nawakshot"
+    ],
+    "name:spa_x_preferred":[
+        "Nuakchot"
+    ],
+    "name:sqi_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:swe_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:szl_x_preferred":[
+        "Nawakszut"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b9a\u0bc2\u0ba4\u0bcd"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:tgl_x_preferred":[
+        "Nouakchott"
+    ],
     "name:tha_x_preferred":[
         "\u0e19\u0e39\u0e2d\u0e32\u0e01\u0e0a\u0e2d\u0e15"
     ],
+    "name:tur_x_preferred":[
+        "Nuak\u015fot"
+    ],
+    "name:udm_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0430\u043a\u0448\u043e\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0627\u06a9\u0634\u0648\u0637"
+    ],
+    "name:uzb_x_preferred":[
+        "Nuakshot"
+    ],
+    "name:vec_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:vep_x_preferred":[
+        "Nuak\u0161ot"
+    ],
+    "name:vie_x_preferred":[
+        "Nouakchott"
+    ],
     "name:vol_x_preferred":[
         "N\u00e4vakjut"
+    ],
+    "name:war_x_preferred":[
+        "Nouakchott"
+    ],
+    "name:wol_x_preferred":[
+        "Nuwaaksot"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52aa\u74e6\u514b\u8096\u7279"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10e3\u10d0\u10e5\u10e8\u10dd\u10e2\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05e7\u05e9\u05d5\u05d8"
+    ],
+    "name:yor_x_preferred":[
+        "Nouakchott"
     ],
     "name:zho_x_preferred":[
         "\u52aa\u74e6\u514b\u8096\u7279"
@@ -93,7 +396,7 @@
         }
     ],
     "wof:id":1091695565,
-    "wof:lastmodified":1564096815,
+    "wof:lastmodified":1564100792,
     "wof:name":"Nouakchott",
     "wof:parent_id":85674873,
     "wof:placetype":"county",

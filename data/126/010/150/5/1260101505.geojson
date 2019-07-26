@@ -25,7 +25,22 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0637\u0648\u0627\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Tawaz"
+    ],
+    "name:ita_x_preferred":[
+        "Tawaz"
+    ],
+    "name:msa_x_preferred":[
+        "Tawaz"
+    ],
     "name:ron_x_preferred":[
+        "Tawaz"
+    ],
+    "name:spa_x_preferred":[
         "Tawaz"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1260101505,
-    "wof:lastmodified":1564096791,
+    "wof:lastmodified":1564100770,
     "wof:name":"Tawaz",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sagne"
+    ],
     "name:und_x_variant":[
         "Sagn\u00e9"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226832833,
-    "wof:lastmodified":1564096883,
+    "wof:lastmodified":1564100853,
     "wof:name":"Sagne",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

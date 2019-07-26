@@ -25,7 +25,22 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0628\u0644\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "M'Balel"
+    ],
+    "name:ita_x_preferred":[
+        "M'Balel"
+    ],
+    "name:msa_x_preferred":[
+        "Mbalal"
+    ],
     "name:ron_x_preferred":[
+        "M'Balel"
+    ],
+    "name:spa_x_preferred":[
         "M'Balel"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1242699925,
-    "wof:lastmodified":1564096844,
+    "wof:lastmodified":1564100819,
     "wof:name":"Mbalal",
     "wof:parent_id":1091695465,
     "wof:placetype":"locality",

@@ -30,6 +30,33 @@
     "mps:longitude":-15.98532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0627\u0630\u064a\u0628\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0443\u0430\u0434\u0437\u0456\u0431\u0443"
+    ],
+    "name:bre_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:cat_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ceb_x_preferred":[
+        "Nou\u00e2dhibou"
+    ],
+    "name:ces_x_preferred":[
+        "Nuadhib\u00fa"
+    ],
+    "name:cym_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:dan_x_preferred":[
+        "Nouadhibou"
+    ],
     "name:deu_x_preferred":[
         "Nouadhibou"
     ],
@@ -39,14 +66,113 @@
     "name:eng_x_variant":[
         "Nouadhibou"
     ],
+    "name:epo_x_preferred":[
+        "Nuadibu"
+    ],
+    "name:eus_x_preferred":[
+        "Nuadhibu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0627\u062f\u06cc\u0628\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:fra_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:frr_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:grn_x_preferred":[
+        "Nuandivu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05d3\u05d9\u05d1\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ile_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ina_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ind_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ita_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a2\u30c7\u30a3\u30d6"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0443\u0430\u0434\u0438\u0431\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\uc544\ub514\ubd80"
+    ],
+    "name:lat_x_preferred":[
         "Nouadhibou"
     ],
     "name:lav_x_preferred":[
         "Nuadibu"
     ],
+    "name:lit_x_preferred":[
+        "Nuadibu"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0443\u0430\u0434\u0438\u0431\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:nld_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:nor_x_preferred":[
+        "Nou\u00e2dhibou"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0648\u0627\u0630\u064a\u0628\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Nawazibu"
+    ],
+    "name:por_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ron_x_preferred":[
+        "Nouadhibou"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0430\u0434\u0438\u0431\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Nuadib\u00fa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0443\u0430\u0434\u0438\u0431\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:swe_x_preferred":[
+        "Nouadhibou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0430\u0434\u0456\u0431\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0627\u0630\u06cc\u0628\u0648"
+    ],
+    "name:vep_x_preferred":[
+        "Nuadibu"
+    ],
+    "name:vie_x_preferred":[
+        "Nouadhibou"
     ],
     "name:zho_x_preferred":[
         "\u52aa\u74e6\u8fea\u5e03"
@@ -86,7 +212,7 @@
         }
     ],
     "wof:id":1091695961,
-    "wof:lastmodified":1564096821,
+    "wof:lastmodified":1564100798,
     "wof:name":"Nouadhibou",
     "wof:parent_id":85674865,
     "wof:placetype":"county",

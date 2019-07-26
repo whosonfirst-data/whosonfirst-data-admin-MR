@@ -25,6 +25,12 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kalifa"
+    ],
+    "name:fra_x_preferred":[
+        "Kalifa"
+    ],
     "name:jpn_x_preferred":[
         "\u30cf\u30ea\u30fc\u30d5\u30a1"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343962219,
-    "wof:lastmodified":1564096711,
+    "wof:lastmodified":1564100696,
     "wof:name":"Kalifa",
     "wof:parent_id":1091695193,
     "wof:placetype":"locality",

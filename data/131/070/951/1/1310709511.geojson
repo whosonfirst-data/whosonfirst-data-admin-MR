@@ -25,8 +25,29 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kankossa"
+    ],
+    "name:ita_x_preferred":[
+        "Kankossa"
+    ],
+    "name:lit_x_preferred":[
+        "Kankosa"
+    ],
+    "name:msa_x_preferred":[
+        "Kankossa"
+    ],
+    "name:pol_x_preferred":[
+        "Kankusa"
+    ],
+    "name:ron_x_preferred":[
+        "Kankossa"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u043a\u043e\u0441\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kankossa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1310709511,
-    "wof:lastmodified":1564096793,
+    "wof:lastmodified":1564100772,
     "wof:name":"Kankossa",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

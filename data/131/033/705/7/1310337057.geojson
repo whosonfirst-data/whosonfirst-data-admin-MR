@@ -25,6 +25,33 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u0431\u044d"
+    ],
+    "name:fra_x_preferred":[
+        "Babab\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Babab\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Babab\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Bababi"
+    ],
+    "name:ron_x_preferred":[
+        "Babab\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u0431\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Babab\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Babab\u00e9"
+    ],
     "name:und_x_variant":[
         "Babab\u00e9"
     ],
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1310337057,
-    "wof:lastmodified":1564096806,
+    "wof:lastmodified":1564100783,
     "wof:name":"Bababe",
     "wof:parent_id":1091695099,
     "wof:placetype":"locality",

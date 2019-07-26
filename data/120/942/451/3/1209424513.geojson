@@ -25,6 +25,9 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Segue"
+    ],
     "name:ron_x_preferred":[
         "Segue"
     ],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209424513,
-    "wof:lastmodified":1564096780,
+    "wof:lastmodified":1564100760,
     "wof:name":"Segue",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",

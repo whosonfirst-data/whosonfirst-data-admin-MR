@@ -30,17 +30,95 @@
     "mps:longitude":-11.551596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u062c\u0643\u062c\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Tidjikja"
+    ],
+    "name:dan_x_preferred":[
+        "Tidjikdja"
+    ],
+    "name:deu_x_preferred":[
+        "Tidjikja"
+    ],
     "name:eng_x_preferred":[
         "Tidjikja"
     ],
     "name:eng_x_variant":[
         "Tidjikja"
     ],
+    "name:epo_x_preferred":[
+        "Tid\u0135ik\u0135a"
+    ],
+    "name:eus_x_preferred":[
+        "Tidjikdja"
+    ],
+    "name:fin_x_preferred":[
+        "Tidjikja"
+    ],
+    "name:fra_x_preferred":[
+        "Tidjikdja"
+    ],
     "name:frr_x_preferred":[
         "Tidjikja"
     ],
+    "name:hun_x_preferred":[
+        "Tidjikdja"
+    ],
+    "name:ita_x_preferred":[
+        "Tijikja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30b8\u30af\u30b8\u30e3"
+    ],
+    "name:kab_x_preferred":[
+        "Tijikja"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\uc9c0\ud06c\uc790"
+    ],
+    "name:lav_x_preferred":[
+        "Tid\u017eikd\u017ea"
+    ],
+    "name:lit_x_preferred":[
+        "Tid\u017eikd\u017ea"
+    ],
+    "name:msa_x_preferred":[
+        "Tidjikja"
+    ],
+    "name:nld_x_preferred":[
+        "Tidjikdja"
+    ],
     "name:nor_x_preferred":[
         "Tidjikja"
+    ],
+    "name:pol_x_preferred":[
+        "Tid\u017cikd\u017ca"
+    ],
+    "name:por_x_preferred":[
+        "Tidjikja"
+    ],
+    "name:ron_x_preferred":[
+        "Tidjikdja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0434\u0436\u0438\u043a\u0436\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tiyikya"
+    ],
+    "name:swe_x_preferred":[
+        "Tijigje"
+    ],
+    "name:szl_x_preferred":[
+        "Tid\u017cikd\u017ca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0434\u0436\u0438\u043a\u0436\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u062c\u06a9\u062c\u06c1"
     ],
     "name:zho_x_preferred":[
         "\u63d0\u5409\u514b\u8cc8"
@@ -80,7 +158,7 @@
         }
     ],
     "wof:id":1091695733,
-    "wof:lastmodified":1564096820,
+    "wof:lastmodified":1564100796,
     "wof:name":"Tidjikja",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

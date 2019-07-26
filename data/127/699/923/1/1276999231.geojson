@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Noual"
+    ],
+    "name:ita_x_preferred":[
+        "Noual"
+    ],
+    "name:msa_x_preferred":[
+        "Noual"
+    ],
+    "name:ron_x_preferred":[
+        "Noual"
+    ],
+    "name:spa_x_preferred":[
+        "Noual"
+    ],
     "name:swe_x_preferred":[
         "Noual"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276999231,
-    "wof:lastmodified":1564096761,
+    "wof:lastmodified":1564100743,
     "wof:name":"Noual",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

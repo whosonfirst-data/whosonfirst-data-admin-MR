@@ -25,6 +25,24 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djewol"
+    ],
+    "name:ita_x_preferred":[
+        "Djewol"
+    ],
+    "name:msa_x_preferred":[
+        "Djeol"
+    ],
+    "name:ron_x_preferred":[
+        "Djewol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043e\u0432\u043e\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Djebol"
+    ],
     "name:swe_x_preferred":[
         "Djewol"
     ],
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293595139,
-    "wof:lastmodified":1564096739,
+    "wof:lastmodified":1564100722,
     "wof:name":"Djowol",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

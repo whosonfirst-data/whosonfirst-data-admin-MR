@@ -30,12 +30,36 @@
     "mps:longitude":-11.273297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0645\u062f\u064a\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Boumde\u00eft"
+    ],
     "name:eng_x_preferred":[
         "Boumde\u00efd"
     ],
     "name:eng_x_variant":[
         "Boumdeid",
         "Boumde\u00efd"
+    ],
+    "name:fra_x_preferred":[
+        "Boumdeid"
+    ],
+    "name:ita_x_preferred":[
+        "Boumdeid"
+    ],
+    "name:msa_x_preferred":[
+        "Boumdeid"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Madid"
+    ],
+    "name:ron_x_preferred":[
+        "Boumdeid"
+    ],
+    "name:spa_x_preferred":[
+        "Boumdeid"
     ],
     "name:swe_x_preferred":[
         "Boumdeid"
@@ -75,7 +99,7 @@
         }
     ],
     "wof:id":1091695577,
-    "wof:lastmodified":1564096816,
+    "wof:lastmodified":1564100793,
     "wof:name":"Boumdeid",
     "wof:parent_id":85674885,
     "wof:placetype":"county",
