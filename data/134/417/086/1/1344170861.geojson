@@ -28,13 +28,79 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0639\u0645\u0629"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u043c\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:deu_x_preferred":[
+        "N\u00e9ma"
+    ],
     "name:eng_x_preferred":[
         "N\u00e9ma"
+    ],
+    "name:epo_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:est_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:eus_x_preferred":[
+        "Nema"
+    ],
+    "name:fin_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:frr_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:lit_x_preferred":[
+        "Nema"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:pol_x_preferred":[
+        "An-Nama"
+    ],
+    "name:ron_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:tur_x_preferred":[
+        "N\u00e9ma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043c\u0430"
     ],
     "name:und_x_variant":[
         "En Na\u2018ma",
         "N\u00e9ma",
         "An Na\u2018mah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0639\u0645\u06c1"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +127,7 @@
         }
     ],
     "wof:id":1344170861,
-    "wof:lastmodified":1537665798,
+    "wof:lastmodified":1564100707,
     "wof:name":"Nema",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

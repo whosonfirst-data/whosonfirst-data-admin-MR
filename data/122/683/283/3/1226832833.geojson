@@ -25,8 +25,14 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sagne"
+    ],
     "name:und_x_variant":[
         "Sagn\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0646\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226832833,
-    "wof:lastmodified":1537665794,
+    "wof:lastmodified":1564100853,
     "wof:name":"Sagne",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

@@ -36,6 +36,30 @@
     "name:eng_x_variant":[
         "Kankossa"
     ],
+    "name:fra_x_preferred":[
+        "Kankossa"
+    ],
+    "name:ita_x_preferred":[
+        "Kankossa"
+    ],
+    "name:lit_x_preferred":[
+        "Kankosa"
+    ],
+    "name:msa_x_preferred":[
+        "Kankossa"
+    ],
+    "name:pol_x_preferred":[
+        "Kankusa"
+    ],
+    "name:ron_x_preferred":[
+        "Kankossa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u043a\u043e\u0441\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kankossa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1091694911,
-    "wof:lastmodified":1553717905,
+    "wof:lastmodified":1564100795,
     "wof:name":"Kankossa",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

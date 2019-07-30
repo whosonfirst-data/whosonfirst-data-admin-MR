@@ -25,6 +25,24 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Abaje"
+    ],
+    "name:fra_x_preferred":[
+        "Abaye"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d9\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Abbaye"
+    ],
+    "name:por_x_preferred":[
+        "Abaye"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05d1\u05d9\u05d9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1360008421,
-    "wof:lastmodified":1537053934,
+    "wof:lastmodified":1564100786,
     "wof:name":"Abaye",
     "wof:parent_id":1091695129,
     "wof:placetype":"locality",

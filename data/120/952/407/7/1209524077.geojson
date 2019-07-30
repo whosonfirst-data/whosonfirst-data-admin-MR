@@ -26,6 +26,24 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kobenni"
+    ],
+    "name:ita_x_preferred":[
+        "Kobenni"
+    ],
+    "name:pol_x_preferred":[
+        "Kubanni"
+    ],
+    "name:ron_x_preferred":[
+        "Kobenni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u043d\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kobenni"
+    ],
     "name:und_x_variant":[
         "Kobonni",
         "Kobenni"
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1209524077,
-    "wof:lastmodified":1537665815,
+    "wof:lastmodified":1564100750,
     "wof:name":"Kobenni",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",

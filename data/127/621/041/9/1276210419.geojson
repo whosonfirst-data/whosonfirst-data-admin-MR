@@ -25,6 +25,18 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boully"
+    ],
+    "name:msa_x_preferred":[
+        "Bouly"
+    ],
+    "name:ron_x_preferred":[
+        "Boully"
+    ],
+    "name:spa_x_preferred":[
+        "Boully"
+    ],
     "name:und_x_variant":[
         "Bouli",
         "Bouly"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276210419,
-    "wof:lastmodified":1537665810,
+    "wof:lastmodified":1564100734,
     "wof:name":"Bouly",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

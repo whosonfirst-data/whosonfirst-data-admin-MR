@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Touil"
+    ],
+    "name:ita_x_preferred":[
+        "Touil"
+    ],
+    "name:msa_x_preferred":[
+        "Touil"
+    ],
+    "name:ron_x_preferred":[
+        "Touil"
+    ],
+    "name:spa_x_preferred":[
+        "Touil"
+    ],
     "name:und_x_variant":[
         "Tou\u00efl"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276237167,
-    "wof:lastmodified":1537665791,
+    "wof:lastmodified":1564100741,
     "wof:name":"Touil",
     "wof:parent_id":1091695069,
     "wof:placetype":"locality",

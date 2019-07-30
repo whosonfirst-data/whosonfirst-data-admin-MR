@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lexeiba"
+    ],
+    "name:msa_x_preferred":[
+        "Lexelba"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kusajba"
+    ],
+    "name:ron_x_preferred":[
+        "Lexeiba"
+    ],
+    "name:swe_x_preferred":[
+        "Lexeiba"
+    ],
     "name:und_x_variant":[
         "L\u00e9kselba",
         "L\u00e9xelba"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327018845,
-    "wof:lastmodified":1537665801,
+    "wof:lastmodified":1564100679,
     "wof:name":"Lexelba",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

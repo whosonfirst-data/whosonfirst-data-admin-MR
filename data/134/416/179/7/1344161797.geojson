@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bagodine"
+    ],
+    "name:ita_x_preferred":[
+        "Bagodine"
+    ],
+    "name:msa_x_preferred":[
+        "Bagodine"
+    ],
+    "name:ron_x_preferred":[
+        "Bagodine"
+    ],
+    "name:spa_x_preferred":[
+        "Bagodine"
+    ],
     "name:und_x_variant":[
         "Bagoudine",
         "Bagodine"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344161797,
-    "wof:lastmodified":1537665813,
+    "wof:lastmodified":1564100708,
     "wof:name":"Bagodine",
     "wof:parent_id":1091694985,
     "wof:placetype":"locality",

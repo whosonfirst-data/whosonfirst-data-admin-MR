@@ -30,11 +30,47 @@
     "mps:longitude":-10.311001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0646\u0637\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Tintane"
+    ],
     "name:eng_x_preferred":[
         "Tintane"
     ],
     "name:eng_x_variant":[
         "Tintane"
+    ],
+    "name:fra_x_preferred":[
+        "Tintane"
+    ],
+    "name:ita_x_preferred":[
+        "Tintane"
+    ],
+    "name:lit_x_preferred":[
+        "Tintanas"
+    ],
+    "name:msa_x_preferred":[
+        "Tintane"
+    ],
+    "name:nld_x_preferred":[
+        "Tintane"
+    ],
+    "name:pol_x_preferred":[
+        "Tintan"
+    ],
+    "name:ron_x_preferred":[
+        "Tintane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u0442\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Tintane"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u06cc\u0646\u0637\u0627\u0646"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +107,7 @@
         }
     ],
     "wof:id":1091695069,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564100797,
     "wof:name":"Tintane",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

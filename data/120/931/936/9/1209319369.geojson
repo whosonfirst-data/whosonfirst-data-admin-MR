@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Niabina"
+    ],
+    "name:ita_x_preferred":[
+        "Niabina"
+    ],
+    "name:msa_x_preferred":[
+        "Niabina"
+    ],
+    "name:ron_x_preferred":[
+        "Niabina"
+    ],
+    "name:spa_x_preferred":[
+        "Niabina"
+    ],
     "name:und_x_variant":[
         "Ni\u00e2bina"
     ],
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209319369,
-    "wof:lastmodified":1537665797,
+    "wof:lastmodified":1564100748,
     "wof:name":"Niabina",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",

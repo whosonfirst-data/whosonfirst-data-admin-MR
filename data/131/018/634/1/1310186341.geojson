@@ -25,6 +25,48 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0645 \u0627\u0643\u0631\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u00eer Mogre\u00efn"
+    ],
+    "name:deu_x_preferred":[
+        "Bir Moghrein"
+    ],
+    "name:fin_x_preferred":[
+        "Bir Moghrein"
+    ],
+    "name:fra_x_preferred":[
+        "Bir Moghre\u00efn"
+    ],
+    "name:ita_x_preferred":[
+        "Bir Moghrein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30eb\u30fb\u30e2\u30b0\u30ec\u30a4\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Bir Mogreinas"
+    ],
+    "name:nld_x_preferred":[
+        "Bir Moghre\u00efn"
+    ],
+    "name:pol_x_preferred":[
+        "Bir Umm Karajn"
+    ],
+    "name:ron_x_preferred":[
+        "Bir Moghre\u00efn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440-\u041c\u043e\u0433\u0440\u0435\u0439\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Bir Mogrein"
+    ],
+    "name:swe_x_preferred":[
+        "Birmougrein"
+    ],
     "name:und_x_variant":[
         "Bir Morhrein",
         "Bir el Moghre\u00efn",
@@ -64,7 +106,7 @@
         }
     ],
     "wof:id":1310186341,
-    "wof:lastmodified":1537665812,
+    "wof:lastmodified":1564100779,
     "wof:name":"Bir Mogrein",
     "wof:parent_id":1091696117,
     "wof:placetype":"locality",

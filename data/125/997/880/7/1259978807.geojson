@@ -28,10 +28,49 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u063a\u064a"
     ],
+    "name:dan_x_preferred":[
+        "Bogu\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Bogu\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Bogh\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bogh\u00e9"
+    ],
+    "name:lit_x_preferred":[
+        "Bog\u0117"
+    ],
+    "name:msa_x_preferred":[
+        "Bogh\u00e9"
+    ],
+    "name:nor_x_preferred":[
+        "Bogu\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Bughi"
+    ],
+    "name:ron_x_preferred":[
+        "Bogh\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Bogu\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Bogh\u00e9"
+    ],
     "name:und_x_variant":[
         "Bogh\u00e9",
         "Bogu\u00e9 Dow",
         "Bogu\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u063a\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +96,7 @@
         }
     ],
     "wof:id":1259978807,
-    "wof:lastmodified":1537665811,
+    "wof:lastmodified":1564100829,
     "wof:name":"Bogue",
     "wof:parent_id":1091695129,
     "wof:placetype":"locality",

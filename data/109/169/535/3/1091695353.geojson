@@ -30,12 +30,33 @@
     "mps:longitude":-12.475114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bark\u00e9wol"
+    ],
     "name:eng_x_preferred":[
         "Bark\u00e9ol"
     ],
     "name:eng_x_variant":[
         "Barkeol",
         "Bark\u00e9ol"
+    ],
+    "name:fra_x_preferred":[
+        "Barkewol"
+    ],
+    "name:ita_x_preferred":[
+        "Barkewol"
+    ],
+    "name:msa_x_preferred":[
+        "Barkeol"
+    ],
+    "name:pol_x_preferred":[
+        "Barkijul"
+    ],
+    "name:ron_x_preferred":[
+        "Barkewol"
+    ],
+    "name:swe_x_preferred":[
+        "Bark\u00e9wol"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +93,7 @@
         }
     ],
     "wof:id":1091695353,
-    "wof:lastmodified":1553717906,
+    "wof:lastmodified":1564100794,
     "wof:name":"Barkeol",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

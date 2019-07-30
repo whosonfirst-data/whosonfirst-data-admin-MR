@@ -25,6 +25,21 @@
     "iso:country":"MR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Foum Gleita"
+    ],
+    "name:ita_x_preferred":[
+        "Foum Gleita"
+    ],
+    "name:msa_x_preferred":[
+        "Foum Gleita"
+    ],
+    "name:ron_x_preferred":[
+        "Foum Gleita"
+    ],
+    "name:spa_x_preferred":[
+        "Foum Gleita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293499283,
-    "wof:lastmodified":1536770498,
+    "wof:lastmodified":1564100718,
     "wof:name":"Foum Gleita",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",
