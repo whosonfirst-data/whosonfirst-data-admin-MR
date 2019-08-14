@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TG"
+    ],
     "lbl:latitude":18.628203,
     "lbl:longitude":-9.925267,
     "meso:name_local":"Tagant",
@@ -283,16 +286,13 @@
         }
     ],
     "wof:id":85674909,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298013,
+    "wof:lastmodified":1565728065,
     "wof:name":"Tagant",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

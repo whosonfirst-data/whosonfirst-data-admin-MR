@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":16.562124,
     "lbl:longitude":-11.518644,
     "meso:name_local":"Assaba",
@@ -282,16 +285,13 @@
         }
     ],
     "wof:id":85674885,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298022,
+    "wof:lastmodified":1565728065,
     "wof:name":"Assaba",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

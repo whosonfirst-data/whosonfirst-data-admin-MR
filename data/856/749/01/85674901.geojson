@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HC"
+    ],
     "lbl:latitude":17.984586,
     "lbl:longitude":-7.2186,
     "meso:name_local":"Hodh Ech Chargi",
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85674901,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298014,
+    "wof:lastmodified":1565728065,
     "wof:name":"Hodh Ech Chargi",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

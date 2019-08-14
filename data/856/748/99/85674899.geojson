@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":21.031294,
     "lbl:longitude":-8.950686,
     "meso:name_local":"Adrar",
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85674899,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298021,
+    "wof:lastmodified":1565728065,
     "wof:name":"Adrar",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

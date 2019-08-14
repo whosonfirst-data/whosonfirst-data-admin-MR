@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Nouakchott District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
+    ],
     "lbl:latitude":18.058559,
     "lbl:longitude":-15.955846,
     "meso:name_local":"Nouakchott",
@@ -570,16 +573,13 @@
         }
     ],
     "wof:id":85674873,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298017,
+    "wof:lastmodified":1565728065,
     "wof:name":"Nouakchott",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

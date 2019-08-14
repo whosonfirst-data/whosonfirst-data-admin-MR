@@ -15,6 +15,9 @@
     "itu:country_code":[
         "222"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MR"
+    ],
     "lbl:latitude":19.599264,
     "lbl:longitude":-9.737341,
     "mps:latitude":19.599264,
@@ -1005,16 +1008,13 @@
         }
     ],
     "wof:id":85632679,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298025,
+    "wof:lastmodified":1565728066,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":17.950668,
     "lbl:longitude":-14.884122,
     "meso:name_local":"Trarza",
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85674881,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563298018,
+    "wof:lastmodified":1565728065,
     "wof:name":"Trarza",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
