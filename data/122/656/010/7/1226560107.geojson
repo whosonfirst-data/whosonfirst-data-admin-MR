@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.25218,15.79852,-12.21218,15.83852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bouanz\u00e9"
     ],
@@ -35,9 +39,6 @@
         "Bouanz\u00e9"
     ],
     "name:spa_x_preferred":[
-        "Bouanz\u00e9"
-    ],
-    "name:und_x_variant":[
         "Bouanz\u00e9"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1226560107,
-    "wof:lastmodified":1564100846,
+    "wof:lastmodified":1566612024,
     "wof:name":"Bouanze",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":18.55644,
     "geom:longitude":-11.42715,
     "iso:country":"MR",
+    "lbl:bbox":"-11.44715,18.53644,-11.40715,18.57644",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u0434\u0436\u0438\u043a\u0436\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort Cappolani"
     ],
     "name:urd_x_preferred":[
@@ -236,7 +239,7 @@
     "wof:concordances":{
         "gn:id":2376193,
         "gp:id":1505073,
-        "qs:id":917589,
+        "qs_pg:id":917589,
         "wd:id":"Q757041",
         "wk:page":"Tidjikja"
     },
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":421195805,
-    "wof:lastmodified":1563298123,
+    "wof:lastmodified":1566611999,
     "wof:name":"Tidjikja",
     "wof:parent_id":1091695733,
     "wof:placetype":"locality",

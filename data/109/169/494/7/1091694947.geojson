@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.886969,
     "lbl:longitude":-9.588583,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Hodh El Gharbi",
     "meso:gadm_admin":"Kobenni",
     "meso:gadm_hasc2":"MR.HG.KB",
@@ -30,6 +32,7 @@
     "mps:longitude":-9.588583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0431\u0435\u043d\u0438"
     ],
@@ -59,9 +62,9 @@
         "Kobenni"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-03-25",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1091694947,
-    "wof:lastmodified":1563298112,
+    "wof:lastmodified":1566611992,
     "wof:name":"Kobeni",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

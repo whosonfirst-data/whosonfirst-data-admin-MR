@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-7.01477,16.25986,-6.97477,16.29986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bangou"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1276887839,
-    "wof:lastmodified":1564100733,
+    "wof:lastmodified":1566611947,
     "wof:name":"Bangou",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

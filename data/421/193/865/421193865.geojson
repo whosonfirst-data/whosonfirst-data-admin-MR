@@ -10,8 +10,12 @@
     "geom:latitude":20.44036,
     "geom:longitude":-12.2622,
     "iso:country":"MR",
+    "lbl:bbox":"-12.2822,20.42036,-12.2422,20.46036",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0646\u0642\u064a\u0637"
@@ -112,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u043d\u0491\u0435\u0442\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Chingue\u1e6d\u1e6di"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0646\u0642\u06cc\u0637"
     ],
@@ -152,7 +153,7 @@
     "wof:concordances":{
         "gn:id":2380519,
         "gp:id":1503772,
-        "qs:id":492962,
+        "qs_pg:id":492962,
         "wd:id":"Q312357",
         "wk:page":"Chinguetti"
     },
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421193865,
-    "wof:lastmodified":1563298124,
+    "wof:lastmodified":1566611999,
     "wof:name":"Chinguetti",
     "wof:parent_id":1091695857,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.028556,
     "lbl:longitude":-14.945378,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Inchiri",
     "meso:gadm_admin":"Akjoujt",
     "meso:gadm_hasc2":"MR.IN.AK",
@@ -30,6 +32,7 @@
     "mps:longitude":-14.945378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u062c\u0648\u062c\u062a"
     ],
@@ -112,9 +115,9 @@
         "\u963f\u514b\u8339\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-03-25",
     "statoids:capital":"",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1091695891,
-    "wof:lastmodified":1564100796,
+    "wof:lastmodified":1566611990,
     "wof:name":"Akjoujt",
     "wof:parent_id":85674869,
     "wof:placetype":"county",

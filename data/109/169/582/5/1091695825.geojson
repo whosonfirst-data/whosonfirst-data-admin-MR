@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.504486,
     "lbl:longitude":-13.093474,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Adrar",
     "meso:gadm_admin":"Aoujeft",
     "meso:gadm_hasc2":"MR.AD.AO",
@@ -30,6 +32,7 @@
     "mps:longitude":-13.093474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u062c\u0641\u062a"
     ],
@@ -67,9 +70,9 @@
         "Aoujeft"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-03-25",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1091695825,
-    "wof:lastmodified":1564100800,
+    "wof:lastmodified":1566611993,
     "wof:name":"Aoujeft",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

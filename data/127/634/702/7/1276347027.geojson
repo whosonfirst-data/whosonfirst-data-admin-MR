@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.70526,16.91318,-12.66526,16.95318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00caleib",
         "\u2019Ale\u00efb"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276347027,
-    "wof:lastmodified":1537665814,
+    "wof:lastmodified":1566611949,
     "wof:name":"'Aleib",
     "wof:parent_id":1091695353,
     "wof:placetype":"locality",

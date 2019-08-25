@@ -10,6 +10,9 @@
     "geom:latitude":20.51686,
     "geom:longitude":-13.04986,
     "iso:country":"MR",
+    "lbl:bbox":"-13.06986,20.49686,-13.02986,20.53686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "At\u00e2r"
     ],
     "name:urd_x_preferred":[
@@ -289,7 +292,7 @@
     "wof:concordances":{
         "gn:id":2381334,
         "gp:id":1503532,
-        "qs:id":911022,
+        "qs_pg:id":911022,
         "wd:id":"Q735645",
         "wk:page":"Atar, Mauritania"
     },
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":421201087,
-    "wof:lastmodified":1563298129,
+    "wof:lastmodified":1566612000,
     "wof:name":"Atar",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

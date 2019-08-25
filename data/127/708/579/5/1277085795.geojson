@@ -24,8 +24,12 @@
     "gn:population":500,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.77724,16.79995,-11.73724,16.83995",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277085795,
-    "wof:lastmodified":1536763479,
+    "wof:lastmodified":1566611945,
     "wof:name":"Hovratt ehl Cheikh Sid'Elemine hfrt ahl alshykh sydy alamyn",
     "wof:parent_id":1091695319,
     "wof:placetype":"locality",

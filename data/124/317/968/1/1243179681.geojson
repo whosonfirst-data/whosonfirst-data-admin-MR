@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-10.81606,15.57868,-10.77606,15.61868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243179681,
-    "wof:lastmodified":1536693302,
+    "wof:lastmodified":1566612010,
     "wof:name":"Boukereya",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

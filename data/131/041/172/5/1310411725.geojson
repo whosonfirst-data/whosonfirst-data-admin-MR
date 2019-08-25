@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.67031,15.69398,-12.63031,15.73398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gouret Farba",
         "Gourel Farba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310411725,
-    "wof:lastmodified":1537665804,
+    "wof:lastmodified":1566611974,
     "wof:name":"Gourel Farba",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

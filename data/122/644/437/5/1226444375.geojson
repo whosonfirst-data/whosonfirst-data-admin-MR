@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.05995,17.05623,-12.01995,17.09623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kamor"
     ],
     "name:und_x_variant":[
-        "Ek\u00e2mo\u00fbr",
-        "Kamor"
+        "Ek\u00e2mo\u00fbr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226444375,
-    "wof:lastmodified":1537665803,
+    "wof:lastmodified":1566612022,
     "wof:name":"Ekamour",
     "wof:parent_id":1091695319,
     "wof:placetype":"locality",

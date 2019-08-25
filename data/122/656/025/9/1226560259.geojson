@@ -23,8 +23,12 @@
     "gn:population":18424,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.2043,15.13846,-12.1643,15.17846",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0628\u0627\u0628\u064a"
     ],
@@ -89,8 +93,6 @@
         "\u0421\u0435\u043b\u0456\u0431\u0430\u0431\u0456"
     ],
     "name:und_x_variant":[
-        "S\u00e9libaby",
-        "S\u00e9libabi",
         "Saylib\u0101b\u012b"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1226560259,
-    "wof:lastmodified":1564100846,
+    "wof:lastmodified":1566612024,
     "wof:name":"Selibaby",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

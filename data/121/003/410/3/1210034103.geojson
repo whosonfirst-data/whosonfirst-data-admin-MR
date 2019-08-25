@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-7.26965,15.98089,-7.22965,16.02089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210034103,
-    "wof:lastmodified":1536387269,
+    "wof:lastmodified":1566611968,
     "wof:name":"Bou Mes`oud",
     "wof:parent_id":1091694873,
     "wof:placetype":"locality",

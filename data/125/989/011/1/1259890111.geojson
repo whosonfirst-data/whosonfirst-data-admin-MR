@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-16.25333,19.01333,-16.21333,19.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Tikattane"
     ],
     "name:und_x_variant":[
         "Lemhaisrat",
-        "Tikattan",
-        "Tikattane"
+        "Tikattan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259890111,
-    "wof:lastmodified":1564096866,
+    "wof:lastmodified":1566612019,
     "wof:name":"Tikattane",
     "wof:parent_id":1091695961,
     "wof:placetype":"locality",

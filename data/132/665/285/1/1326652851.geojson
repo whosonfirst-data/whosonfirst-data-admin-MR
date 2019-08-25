@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-13.82275,16.12426,-13.78275,16.16426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Dabbe't\u00fcl Arz"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326652851,
-    "wof:lastmodified":1564096707,
+    "wof:lastmodified":1566611916,
     "wof:name":"Dabbe",
     "wof:parent_id":1091694985,
     "wof:placetype":"locality",

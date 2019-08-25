@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-13.67479,16.17079,-13.63479,16.21079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276156511,
-    "wof:lastmodified":1537015009,
+    "wof:lastmodified":1566611954,
     "wof:name":"Ouoloum Nere",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

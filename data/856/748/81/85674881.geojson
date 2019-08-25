@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.950668,
     "lbl:longitude":-14.884122,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Trarza",
     "meso:source":"mz",
     "mps:latitude":18.053429,
@@ -141,7 +142,7 @@
         "Trarza"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bcd\u0bb0\u0bb0\u0bcd\u0b9a\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9f\u0bcd\u0bb0\u0bb0\u0bcd\u0b9a\u0bbe \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4d\u0c30\u0c3e\u0c30\u0c4d\u0c1c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -155,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0422\u0440\u0430\u0440\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sixi\u00e8me R\u00e9gion"
     ],
     "name:urd_x_preferred":[
@@ -239,9 +240,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"67800",
     "statoids:area_mi":"26200",
     "statoids:as_of_date":"2013-03-25",
@@ -266,7 +267,7 @@
         "gp:id":2346246,
         "hasc:id":"MR.TR",
         "iso:id":"MR-6",
-        "qs:id":235612,
+        "qs_pg:id":235612,
         "unlc:id":"MR-06",
         "wd:id":"Q859581",
         "wk:page":"Trarza Region"
@@ -287,11 +288,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565728065,
+    "wof:lastmodified":1566611930,
     "wof:name":"Trarza",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":272773,
     "wof:population_rank":10,

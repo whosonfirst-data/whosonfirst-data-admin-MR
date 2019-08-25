@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-10.7681,16.7794,-10.7281,16.8194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mre\u00efmida Har\u00e2t\u00eene"
     ],
@@ -32,9 +36,7 @@
         "Mre\u00efmida Haratin"
     ],
     "name:und_x_variant":[
-        "Mre\u00efmida Haratin",
-        "Mre\u00efm\u00eedet el Har\u00e2t\u00eene",
-        "Mre\u00efmida Har\u00e2t\u00eene"
+        "Mre\u00efm\u00eedet el Har\u00e2t\u00eene"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1209109263,
-    "wof:lastmodified":1537665798,
+    "wof:lastmodified":1566611967,
     "wof:name":"Mreimidet el Haratine",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",

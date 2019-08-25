@@ -23,8 +23,12 @@
     "gn:population":12635,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-9.6349,16.6414,-9.5949,16.6814",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0644\u0639\u064a\u0648\u0646"
     ],
@@ -74,7 +78,6 @@
     "name:und_x_variant":[
         "A\u00efoun el Atrouss",
         "\u2019Ayo\u00fbn el \u2019Atro\u00fbs",
-        "Aioun",
         "A\u00efoun",
         "Ayo\u00fbn el Atro\u00fbs",
         "La\u2018y\u016bn",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1360187707,
-    "wof:lastmodified":1564100789,
+    "wof:lastmodified":1566611985,
     "wof:name":"Aioun",
     "wof:parent_id":1091695431,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":20.028556,
     "lbl:longitude":-14.945378,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Inchiri",
     "meso:source":"mz",
     "mps:latitude":19.870116,
@@ -159,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0448\u0438\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Douzi\u00e8me R\u00e9gion"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"46800",
     "statoids:area_mi":"18100",
     "statoids:as_of_date":"2013-03-25",
@@ -271,7 +272,7 @@
         "gp:id":2346252,
         "hasc:id":"MR.IN",
         "iso:id":"MR-12",
-        "qs:id":235611,
+        "qs_pg:id":235611,
         "unlc:id":"MR-12",
         "wd:id":"Q850022",
         "wk:page":"Inchiri Region"
@@ -292,11 +293,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565728065,
+    "wof:lastmodified":1566611929,
     "wof:name":"Inchiri",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":19639,
     "wof:population_rank":6,
