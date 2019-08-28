@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-8.76543,15.54601,-8.72543,15.58601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toue\u00efl",
         "To\u00e9il"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276772753,
-    "wof:lastmodified":1537665791,
+    "wof:lastmodified":1566611954,
     "wof:name":"Toeil",
     "wof:parent_id":1091695039,
     "wof:placetype":"locality",

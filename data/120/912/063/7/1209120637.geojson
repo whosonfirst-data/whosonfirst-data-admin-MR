@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.63667,16.16333,-11.59667,16.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632679
@@ -34,7 +38,7 @@
         "gn:id":2376018
     },
     "wof:country":"MR",
-    "wof:geomhash":"4213fd5367ddb85b6954f59ad1bcddf5",
+    "wof:geomhash":"d269cf88e9322d449142d6345759ea12",
     "wof:hierarchy":[
         {
             "country_id":85632679,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209120637,
-    "wof:lastmodified":1536297111,
+    "wof:lastmodified":1566611960,
     "wof:name":"Tinteina",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -11.61667,
-    16.183329999999998,
+    16.18333,
     -11.61667,
-    16.183329999999998
+    16.18333
 ],
   "geometry": {"coordinates":[-11.61667,16.18333],"type":"Point"}
 }

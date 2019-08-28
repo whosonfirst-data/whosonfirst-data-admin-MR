@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.84748,15.97183,-11.80748,16.01183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310512897,
-    "wof:lastmodified":1536906428,
+    "wof:lastmodified":1566611982,
     "wof:name":"Diandiourou",
     "wof:parent_id":1091695415,
     "wof:placetype":"locality",

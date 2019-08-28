@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-8.06348,15.62734,-8.02348,15.66734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "H\u00e2s\u00e8\u00ef Larha",
         "Hasse\u00ef Larha",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310123539,
-    "wof:lastmodified":1537665803,
+    "wof:lastmodified":1566611974,
     "wof:name":"Hasei Lagha",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":20.93098,
     "geom:longitude":-17.03465,
     "iso:country":"MR",
+    "lbl:bbox":"-17.05465,20.91098,-17.01465,20.95098",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -182,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0430\u0434\u0456\u0431\u0443"
     ],
-    "name:unk_x_variant":[
-        "Port-\u00c9tienne"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0627\u0630\u06cc\u0628\u0648"
     ],
@@ -319,7 +319,7 @@
     "wof:concordances":{
         "gn:id":2377457,
         "gp:id":1504734,
-        "qs:id":274212,
+        "qs_pg:id":274212,
         "wd:id":"Q184184",
         "wk:page":"Nouadhibou"
     },
@@ -336,7 +336,7 @@
         }
     ],
     "wof:id":421197945,
-    "wof:lastmodified":1563298128,
+    "wof:lastmodified":1566611999,
     "wof:name":"Port-Etienne",
     "wof:parent_id":1091695961,
     "wof:placetype":"locality",

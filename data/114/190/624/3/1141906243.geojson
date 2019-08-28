@@ -10,10 +10,14 @@
     "geom:latitude":22.679001,
     "geom:longitude":-12.707001,
     "iso:country":"MR",
+    "lbl:bbox":"-12.7270005319,22.6590011345,-12.6870005319,22.6990011345",
     "lbl:latitude":22.679001,
     "lbl:longitude":-12.707001,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0641\u062f\u064a\u0631\u0643"
     ],
@@ -205,7 +209,7 @@
         }
     ],
     "wof:id":1141906243,
-    "wof:lastmodified":1563298179,
+    "wof:lastmodified":1566612033,
     "wof:name":"Fderik",
     "wof:parent_id":1091696097,
     "wof:placetype":"locality",

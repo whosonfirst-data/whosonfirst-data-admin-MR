@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-13.74224,16.22013,-13.70224,16.26013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bagodine"
     ],
@@ -41,8 +45,7 @@
         "Bagodine"
     ],
     "name:und_x_variant":[
-        "Bagoudine",
-        "Bagodine"
+        "Bagoudine"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1344161797,
-    "wof:lastmodified":1564100708,
+    "wof:lastmodified":1566611927,
     "wof:name":"Bagodine",
     "wof:parent_id":1091694985,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.29685,15.64478,-11.25685,15.68478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242589339,
-    "wof:lastmodified":1537044814,
+    "wof:lastmodified":1566612005,
     "wof:name":"Lehoueidni",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

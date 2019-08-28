@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":16.562124,
     "lbl:longitude":-11.518644,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Assaba",
     "meso:source":"mz",
     "mps:latitude":16.57006,
@@ -159,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0410\u0441\u0430\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Troisi\u00e8me R\u00e9gion"
     ],
     "name:urd_x_preferred":[
@@ -243,9 +244,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"36600",
     "statoids:area_mi":"14100",
     "statoids:as_of_date":"2013-03-25",
@@ -270,7 +271,7 @@
         "gp:id":2346243,
         "hasc:id":"MR.AS",
         "iso:id":"MR-3",
-        "qs:id":318534,
+        "qs_pg:id":318534,
         "unlc:id":"MR-03",
         "wd:id":"Q738546",
         "wk:page":"Assaba Region"
@@ -291,11 +292,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565728065,
+    "wof:lastmodified":1566611931,
     "wof:name":"Assaba",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":325897,
     "wof:population_rank":10,

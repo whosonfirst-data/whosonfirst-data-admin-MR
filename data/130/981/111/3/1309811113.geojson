@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.0099,17.0994,-10.9699,17.1394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Oumm el Khezz"
     ],
@@ -33,12 +37,6 @@
         "Oumoulkheuze",
         "Oumoul Kheuz",
         "Oumm el Khez"
-    ],
-    "name:und_x_variant":[
-        "Oumm el Khez",
-        "Oumoulkheuze",
-        "Oumoul Kheuz",
-        "Oumoul Rheuz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +61,7 @@
         }
     ],
     "wof:id":1309811113,
-    "wof:lastmodified":1537665796,
+    "wof:lastmodified":1566611998,
     "wof:name":"Oumm el Khezz",
     "wof:parent_id":1091695415,
     "wof:placetype":"locality",

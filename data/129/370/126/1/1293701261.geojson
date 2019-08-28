@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.33667,19.63,-12.29667,19.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Casba des A\u00eft Maouin",
         "Casbah des A\u00eft Maouine"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293701261,
-    "wof:lastmodified":1537665810,
+    "wof:lastmodified":1566611936,
     "wof:name":"Casbah des Ait Maouine",
     "wof:parent_id":1091695857,
     "wof:placetype":"locality",

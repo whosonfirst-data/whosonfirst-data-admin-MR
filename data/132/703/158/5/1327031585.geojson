@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.14864,15.61549,-11.10864,15.65549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oumkch\u00e9ra",
         "Oumm Kch\u00e9ra"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327031585,
-    "wof:lastmodified":1537665796,
+    "wof:lastmodified":1566611912,
     "wof:name":"Oumm Kchera",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-10.7735,16.7996,-10.7335,16.8396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bargatanni"
     ],
     "name:fra_x_variant":[
-        "Bergatanni"
-    ],
-    "name:und_x_variant":[
         "Bergatanni"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1293886903,
-    "wof:lastmodified":1537665813,
+    "wof:lastmodified":1566611945,
     "wof:name":"Bargatanni",
     "wof:parent_id":1091695497,
     "wof:placetype":"locality",

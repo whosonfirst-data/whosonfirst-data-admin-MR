@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.75098,16.0336,-12.71098,16.0736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wind\u00e9 Mbordi",
         "Vind\u00e9 Mbordi",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326963135,
-    "wof:lastmodified":1537665790,
+    "wof:lastmodified":1566611916,
     "wof:name":"Vinde Mborndi",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

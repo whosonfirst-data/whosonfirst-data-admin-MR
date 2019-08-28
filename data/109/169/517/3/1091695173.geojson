@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.430865,
     "lbl:longitude":-12.99503,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Gorgol",
     "meso:gadm_admin":"Monguel",
     "meso:gadm_hasc2":"MR.GO.MN",
@@ -30,6 +32,7 @@
     "mps:longitude":-12.99503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0433\u0443\u0435\u043b"
     ],
@@ -58,9 +61,9 @@
         "Monguel"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-03-25",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1091695173,
-    "wof:lastmodified":1563298107,
+    "wof:lastmodified":1566611989,
     "wof:name":"Monguel",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

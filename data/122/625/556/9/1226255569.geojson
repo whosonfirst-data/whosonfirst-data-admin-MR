@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-9.10294,15.67419,-9.06294,15.71419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guel\u00e9\u00efbate",
         "Gle\u00efb\u00e2t Boukine",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226255569,
-    "wof:lastmodified":1537665805,
+    "wof:lastmodified":1566612026,
     "wof:name":"Gleibat Boukenni",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.82105,15.53067,-12.78105,15.57067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouro Ha\u00efr\u00e9",
         "Ouro A\u00efr\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326719607,
-    "wof:lastmodified":1537665795,
+    "wof:lastmodified":1566611913,
     "wof:name":"Ouro Aire",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

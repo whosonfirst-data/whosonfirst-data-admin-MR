@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.136802,
     "lbl:longitude":-10.468819,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Adrar",
     "meso:gadm_admin":"Chinguetti",
     "meso:gadm_hasc2":"MR.AD.CH",
@@ -30,6 +32,7 @@
     "mps:longitude":-10.468819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chinguity"
     ],
@@ -38,7 +41,7 @@
         "Chinguetti"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632679,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1091695857,
-    "wof:lastmodified":1555220358,
+    "wof:lastmodified":1566611993,
     "wof:name":"Chinguity",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

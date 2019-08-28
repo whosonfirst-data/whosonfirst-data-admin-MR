@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":20.644456,
     "lbl:longitude":-15.98532,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Dakhlet Nouadhibou",
     "meso:source":"mz",
     "mps:latitude":20.854736,
@@ -161,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0414\u0430\u0445\u043b\u0435\u0442-\u041d\u0443\u0430\u0434\u0456\u0431\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "VIII"
     ],
     "name:urd_x_preferred":[
@@ -245,9 +246,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"22300",
     "statoids:area_mi":"8600",
     "statoids:as_of_date":"2013-03-25",
@@ -272,7 +273,7 @@
         "gp:id":2346248,
         "hasc:id":"MR.DN",
         "iso:id":"MR-8",
-        "qs:id":1046934,
+        "qs_pg:id":1046934,
         "wd:id":"Q859573",
         "wk:page":"Dakhlet Nouadhibou Region"
     },
@@ -292,11 +293,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565728065,
+    "wof:lastmodified":1566611930,
     "wof:name":"Dakhlet Nouadhibou",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":123779,
     "wof:population_rank":9,

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.607227,
     "lbl:longitude":-15.714293,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Trarza",
     "meso:gadm_admin":"Rosso",
     "meso:gadm_hasc2":"MR.TR.RO",
@@ -30,6 +32,7 @@
     "mps:longitude":-15.714293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Rosso"
     ],
@@ -115,9 +118,9 @@
         "\u7f85\u7d22"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-03-25",
     "statoids:capital":"",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1091695159,
-    "wof:lastmodified":1564100802,
+    "wof:lastmodified":1566611994,
     "wof:name":"Rosso",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

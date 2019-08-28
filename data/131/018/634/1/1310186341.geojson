@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.59928,25.20125,-11.55928,25.24125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0645 \u0627\u0643\u0631\u064a\u0646"
     ],
@@ -72,15 +76,13 @@
         "Bir el Moghre\u00efn",
         "Bir Oum Grein",
         "Bir Oum Gre\u00efne",
-        "Bir Moghrein",
         "B\u00eer Moghre\u00efn",
         "Bir Moghreim",
         "Bir Moghrin",
         "Bir Umm Grain",
         "Bir Oum el Grein",
         "Bir Moghre\u00efne",
-        "Fort-Trinquet",
-        "B\u00eer Mogre\u00efn"
+        "Fort-Trinquet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1310186341,
-    "wof:lastmodified":1564100779,
+    "wof:lastmodified":1566611978,
     "wof:name":"Bir Mogrein",
     "wof:parent_id":1091696117,
     "wof:placetype":"locality",

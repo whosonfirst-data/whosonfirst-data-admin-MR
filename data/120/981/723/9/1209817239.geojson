@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-10.94079,15.17325,-10.90079,15.21325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209817239,
-    "wof:lastmodified":1536382598,
+    "wof:lastmodified":1566611967,
     "wof:name":"Moussala",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

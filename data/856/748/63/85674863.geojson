@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.18652,
     "lbl:longitude":-13.421989,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Brakna",
     "meso:source":"mz",
     "mps:latitude":17.186915,
@@ -162,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0411\u0440\u0430\u043a\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V"
     ],
     "name:urd_x_preferred":[
@@ -246,9 +247,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"33800",
     "statoids:area_mi":"13100",
     "statoids:as_of_date":"2013-03-25",
@@ -273,7 +274,7 @@
         "gp:id":2346245,
         "hasc:id":"MR.BR",
         "iso:id":"MR-5",
-        "qs:id":1222619,
+        "qs_pg:id":1222619,
         "unlc:id":"MR-05",
         "wd:id":"Q12632",
         "wk:page":"Brakna Region"
@@ -294,11 +295,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565728065,
+    "wof:lastmodified":1566611930,
     "wof:name":"Brakna",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":312277,
     "wof:population_rank":10,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.87106,15.03655,-11.83106,15.07655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boediam",
         "Ba\u00e9diam\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327317581,
-    "wof:lastmodified":1537665813,
+    "wof:lastmodified":1566611907,
     "wof:name":"Baediam",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.531532,
     "lbl:longitude":-10.424978,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Tiris-Zemmour",
     "meso:gadm_admin":"F'D\u00e9rik",
     "meso:gadm_hasc2":"MR.TZ.FD",
@@ -30,6 +32,7 @@
     "mps:longitude":-10.424978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "F'D\u00e9rik"
     ],
@@ -47,9 +50,9 @@
         "F'Derik"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-03-25",
     "statoids:capital":"",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1091696097,
-    "wof:lastmodified":1561845022,
+    "wof:lastmodified":1566611992,
     "wof:name":"F'Derik",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

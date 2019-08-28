@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.08693,15.21898,-12.04693,15.25898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632679
@@ -34,7 +38,7 @@
         "gn:id":2381640
     },
     "wof:country":"MR",
-    "wof:geomhash":"f85d9e3dc010f5edeea17e0c1b709e88",
+    "wof:geomhash":"8bb491e234825f08b51b7d7a4a4125e5",
     "wof:hierarchy":[
         {
             "country_id":85632679,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209095377,
-    "wof:lastmodified":1536297903,
+    "wof:lastmodified":1566611958,
     "wof:name":"Amague-Bedia",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -12.06693,
-    15.238979999999998,
+    15.23898,
     -12.06693,
-    15.238979999999998
+    15.23898
 ],
   "geometry": {"coordinates":[-12.06693,15.23898],"type":"Point"}
 }

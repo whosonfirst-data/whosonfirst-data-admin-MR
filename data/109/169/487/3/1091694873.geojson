@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.789753,
     "lbl:longitude":-6.976864,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Hodh Ech Chargi",
     "meso:gadm_admin":"Amourj",
     "meso:gadm_hasc2":"MR.HC.AM",
@@ -30,6 +32,7 @@
     "mps:longitude":-6.976864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0622\u0645\u0631\u062c"
     ],
@@ -64,9 +67,9 @@
         "Amourj"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2013-03-25",
+    "src:population_date":"2013-03-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2013-03-25",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1091694873,
-    "wof:lastmodified":1564100799,
+    "wof:lastmodified":1566611992,
     "wof:name":"Amourj",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

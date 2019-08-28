@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.18969,15.60577,-11.14969,15.64577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u00efn Taiss",
         "\u2019A\u00efn Tass",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293401507,
-    "wof:lastmodified":1537665814,
+    "wof:lastmodified":1566611937,
     "wof:name":"'Ain Tais",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

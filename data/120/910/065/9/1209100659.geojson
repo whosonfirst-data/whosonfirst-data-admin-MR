@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-13.24753,20.25864,-13.20753,20.29864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632679
@@ -34,7 +38,7 @@
         "gn:id":7395465
     },
     "wof:country":"MR",
-    "wof:geomhash":"7f900c050030e6fded5df3ee028347e0",
+    "wof:geomhash":"c8eb4284e9dbc6bebc07e433f6cfc1dc",
     "wof:hierarchy":[
         {
             "country_id":85632679,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209100659,
-    "wof:lastmodified":1536297744,
+    "wof:lastmodified":1566611967,
     "wof:name":"Aneffig",
     "wof:parent_id":85632679,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.227529999999998,
+    -13.22753,
     20.27864,
-    -13.227529999999998,
+    -13.22753,
     20.27864
 ],
   "geometry": {"coordinates":[-13.22753,20.27864],"type":"Point"}

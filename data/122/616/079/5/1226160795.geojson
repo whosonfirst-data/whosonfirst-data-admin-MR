@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-8.96665,15.51182,-8.92665,15.55182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dyamw\u00e9li",
         "Dyamawali"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226160795,
-    "wof:lastmodified":1537665807,
+    "wof:lastmodified":1566612023,
     "wof:name":"Dyamawali",
     "wof:parent_id":1091695039,
     "wof:placetype":"locality",

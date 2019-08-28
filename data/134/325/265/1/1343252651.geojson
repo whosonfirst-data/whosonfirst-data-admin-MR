@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-16.52415,21.24494,-16.48415,21.28494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boulanouar",
         "Bo\u00fb Lanou\u00e2r",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343252651,
-    "wof:lastmodified":1537665815,
+    "wof:lastmodified":1566611923,
     "wof:name":"Bou Lanouar",
     "wof:parent_id":1091695961,
     "wof:placetype":"locality",

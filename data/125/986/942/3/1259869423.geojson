@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-12.52988,17.73645,-12.48988,17.77645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Letfata"
-    ],
-    "name:und_x_variant":[
         "Letfata"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1259869423,
-    "wof:lastmodified":1537665816,
+    "wof:lastmodified":1566612020,
     "wof:name":"Letfatar",
     "wof:parent_id":1091695647,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nouakchott",
     "iso:country":"MR",
+    "lbl:bbox":"-11.65177,15.57964,-11.61177,15.61964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oudeye Lebhanis",
         "Oudeye Lebhaniss",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310417597,
-    "wof:lastmodified":1537665797,
+    "wof:lastmodified":1566611974,
     "wof:name":"Oudei Lebhanis",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",
