@@ -294,6 +294,9 @@
         "wk:page":"Adrar Region"
     },
     "wof:country":"MR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb3fbc7f6f867dffe16665f31d733c53",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582314084,
     "wof:name":"Adrar",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

@@ -273,6 +273,9 @@
         "wk:page":"Trarza Region"
     },
     "wof:country":"MR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5583499412e939032583473fd4595a3d",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582314083,
     "wof:name":"Trarza",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

@@ -996,6 +996,11 @@
     },
     "wof:country":"MR",
     "wof:country_alpha3":"MRT",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"a289526f97755cb3be1be60e266d8392",
     "wof:hierarchy":[
         {
@@ -1010,7 +1015,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582314084,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
