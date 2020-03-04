@@ -565,6 +565,9 @@
         "wd:id":"Q859581"
     },
     "wof:country":"MR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66a3145fabdf4cedf2450c5dcde500f9",
     "wof:hierarchy":[
         {
@@ -580,7 +583,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611929,
+    "wof:lastmodified":1582314083,
     "wof:name":"Nouakchott",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

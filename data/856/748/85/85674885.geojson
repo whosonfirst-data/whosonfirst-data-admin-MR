@@ -277,6 +277,9 @@
         "wk:page":"Assaba Region"
     },
     "wof:country":"MR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39e7b20013cd5b493f72653ed627ba47",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582314084,
     "wof:name":"Assaba",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

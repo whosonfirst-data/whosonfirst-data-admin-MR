@@ -277,6 +277,9 @@
         "wk:page":"Gorgol Region"
     },
     "wof:country":"MR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee3e1f189bd284698198fd25ac75e7a6",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582314084,
     "wof:name":"Gorgol",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

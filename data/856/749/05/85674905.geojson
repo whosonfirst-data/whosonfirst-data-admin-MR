@@ -279,6 +279,9 @@
         "wk:page":"Hodh El Gharbi Region"
     },
     "wof:country":"MR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b4daf55cd17b93a7ea1b8a948081630",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611929,
+    "wof:lastmodified":1582314083,
     "wof:name":"Hodh El Gharbi",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

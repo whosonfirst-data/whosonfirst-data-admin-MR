@@ -280,6 +280,9 @@
         "wk:page":"Brakna Region"
     },
     "wof:country":"MR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"872af1b873a2a50c74d9a5335c1c8914",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582314084,
     "wof:name":"Brakna",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
