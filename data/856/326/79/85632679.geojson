@@ -972,9 +972,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Mauritania",
-        "digitalenvoy:country_code":[
-            478
-        ],
+        "digitalenvoy:country_code":478,
         "fb:id":"en.mauritania",
         "fifa:id":"MTN",
         "fips:code":"MR",
@@ -1018,7 +1016,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529188,
+    "wof:lastmodified":1583797396,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
