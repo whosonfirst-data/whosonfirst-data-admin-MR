@@ -9,7 +9,6 @@
     "geom:bbox":"-9.14959716797,15.4948730469,-5.32713366027,23.1572686945",
     "geom:latitude":18.195861,
     "geom:longitude":-7.088263,
-    "gn:id":"",
     "gn:population":298625,
     "iso:country":"MR",
     "label:eng_x_preferred_longname":[
@@ -298,7 +297,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582314083,
+    "wof:lastmodified":1603244152,
     "wof:name":"Hodh Ech Chargi",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

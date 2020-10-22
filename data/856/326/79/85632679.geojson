@@ -9,7 +9,6 @@
     "geom:bbox":"-17.070134,14.721273,-4.833334,27.294444",
     "geom:latitude":20.253806,
     "geom:longitude":-10.337533,
-    "gn:id":"",
     "gn:population":3205060,
     "iso:country":"MR",
     "itu:country_code":[
@@ -1085,7 +1084,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1587428767,
+    "wof:lastmodified":1603244152,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -9,7 +9,6 @@
     "geom:bbox":"-13.7131958008,15.1240844727,-12.0048217773,16.8593139648",
     "geom:latitude":16.004972,
     "geom:longitude":-12.836737,
-    "gn:id":"",
     "gn:population":274337,
     "iso:country":"MR",
     "label:eng_x_preferred_longname":[
@@ -295,7 +294,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582314084,
+    "wof:lastmodified":1603244152,
     "wof:name":"Gorgol",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
