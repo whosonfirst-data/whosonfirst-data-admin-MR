@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327434913,
-    "wof:lastmodified":1566611918,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752734,
     "wof:name":"Bathet Dhenaba",
     "wof:parent_id":1091695497,
     "wof:placetype":"locality",

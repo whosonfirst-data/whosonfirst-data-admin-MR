@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1193126351,
-    "wof:lastmodified":1566611969,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752746,
     "wof:name":"Lemjajta",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

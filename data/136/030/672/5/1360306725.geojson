@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360306725,
-    "wof:lastmodified":1566611984,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Tachot",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

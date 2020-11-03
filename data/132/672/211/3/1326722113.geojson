@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326722113,
-    "wof:lastmodified":1566611907,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752731,
     "wof:name":"Taouarit",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

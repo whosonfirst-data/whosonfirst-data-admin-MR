@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326535927,
-    "wof:lastmodified":1566611917,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752734,
     "wof:name":"Doubbel Batha",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

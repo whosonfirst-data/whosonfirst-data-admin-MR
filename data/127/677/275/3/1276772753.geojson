@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276772753,
-    "wof:lastmodified":1566611954,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752744,
     "wof:name":"Toeil",
     "wof:parent_id":1091695039,
     "wof:placetype":"locality",

@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226255569,
-    "wof:lastmodified":1566612026,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"Gleibat Boukenni",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

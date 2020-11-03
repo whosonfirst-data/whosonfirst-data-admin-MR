@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1226832833,
-    "wof:lastmodified":1566612028,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"Sagne",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

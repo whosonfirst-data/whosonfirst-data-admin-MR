@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309744957,
-    "wof:lastmodified":1566611997,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Echkata",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

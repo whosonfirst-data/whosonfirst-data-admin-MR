@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1276896493,
-    "wof:lastmodified":1566611948,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752742,
     "wof:name":"Tiguent",
     "wof:parent_id":1091695465,
     "wof:placetype":"locality",

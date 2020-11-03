@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326836261,
-    "wof:lastmodified":1566611914,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752733,
     "wof:name":"Bokar Bouyal",
     "wof:parent_id":1091695353,
     "wof:placetype":"locality",

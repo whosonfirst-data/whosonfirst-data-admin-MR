@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293872759,
-    "wof:lastmodified":1566611943,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752741,
     "wof:name":"Tassota Botokolo",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

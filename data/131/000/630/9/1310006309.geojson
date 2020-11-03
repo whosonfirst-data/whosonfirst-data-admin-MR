@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310006309,
-    "wof:lastmodified":1566611977,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752749,
     "wof:name":"Monguel Foulbe Dieri",
     "wof:parent_id":1091695173,
     "wof:placetype":"locality",

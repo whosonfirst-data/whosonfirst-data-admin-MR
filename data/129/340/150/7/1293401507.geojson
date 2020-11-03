@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1293401507,
-    "wof:lastmodified":1566611937,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"'Ain Tais",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

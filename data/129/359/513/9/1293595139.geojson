@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1293595139,
-    "wof:lastmodified":1566611939,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"Djowol",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

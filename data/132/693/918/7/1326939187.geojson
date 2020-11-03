@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326939187,
-    "wof:lastmodified":1566611909,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752732,
     "wof:name":"El Mleihes",
     "wof:parent_id":1091695431,
     "wof:placetype":"locality",

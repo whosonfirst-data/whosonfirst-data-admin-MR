@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326530255,
-    "wof:lastmodified":1566611917,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752734,
     "wof:name":"Nouma",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

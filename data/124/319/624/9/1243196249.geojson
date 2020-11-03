@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243196249,
-    "wof:lastmodified":1566612010,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"Mbout Chorfa",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

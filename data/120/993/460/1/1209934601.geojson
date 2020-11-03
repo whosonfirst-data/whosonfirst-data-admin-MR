@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1209934601,
-    "wof:lastmodified":1566611963,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752746,
     "wof:name":"Bondi",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

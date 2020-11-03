@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344270047,
-    "wof:lastmodified":1566611927,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752737,
     "wof:name":"Eli Bab",
     "wof:parent_id":1091695069,
     "wof:placetype":"locality",

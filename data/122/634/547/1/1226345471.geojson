@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226345471,
-    "wof:lastmodified":1566612024,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752761,
     "wof:name":"Marsila",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

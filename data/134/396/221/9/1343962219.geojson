@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1343962219,
-    "wof:lastmodified":1566611919,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752734,
     "wof:name":"Kalifa",
     "wof:parent_id":1091695193,
     "wof:placetype":"locality",

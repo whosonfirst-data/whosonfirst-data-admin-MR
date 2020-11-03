@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1292916395,
-    "wof:lastmodified":1566611941,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752740,
     "wof:name":"Akaouini",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

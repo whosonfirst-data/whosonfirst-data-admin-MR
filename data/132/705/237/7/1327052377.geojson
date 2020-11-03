@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327052377,
-    "wof:lastmodified":1566611911,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752732,
     "wof:name":"KeurMassene",
     "wof:parent_id":1091695227,
     "wof:placetype":"locality",

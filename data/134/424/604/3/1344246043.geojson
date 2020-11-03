@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1344246043,
-    "wof:lastmodified":1566611920,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752735,
     "wof:name":"Bargou",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

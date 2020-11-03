@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1209733359,
-    "wof:lastmodified":1566611965,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752746,
     "wof:name":"Medala",
     "wof:parent_id":1091695193,
     "wof:placetype":"locality",

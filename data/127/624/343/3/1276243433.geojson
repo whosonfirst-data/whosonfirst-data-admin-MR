@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276243433,
-    "wof:lastmodified":1566611953,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752743,
     "wof:name":"Fanaye Niakouar",
     "wof:parent_id":1091695385,
     "wof:placetype":"locality",

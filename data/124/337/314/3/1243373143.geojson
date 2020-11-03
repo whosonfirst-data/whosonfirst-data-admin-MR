@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243373143,
-    "wof:lastmodified":1566612001,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752755,
     "wof:name":"Tichilit el Hradem",
     "wof:parent_id":1091695039,
     "wof:placetype":"locality",

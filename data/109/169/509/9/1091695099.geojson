@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091695099,
-    "wof:lastmodified":1566611991,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752753,
     "wof:name":"Bababe",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

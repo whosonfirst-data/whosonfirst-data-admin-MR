@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226160795,
-    "wof:lastmodified":1566612023,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752761,
     "wof:name":"Dyamawali",
     "wof:parent_id":1091695039,
     "wof:placetype":"locality",

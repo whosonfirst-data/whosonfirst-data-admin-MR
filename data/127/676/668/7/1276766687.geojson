@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276766687,
-    "wof:lastmodified":1566611951,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752743,
     "wof:name":"Awinet Nemadi",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

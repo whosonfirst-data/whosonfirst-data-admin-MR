@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1292994615,
-    "wof:lastmodified":1566611942,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752740,
     "wof:name":"Miloatane",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

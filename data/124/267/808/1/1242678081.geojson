@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242678081,
-    "wof:lastmodified":1566612005,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752756,
     "wof:name":"Filke",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

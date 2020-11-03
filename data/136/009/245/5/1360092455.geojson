@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1360092455,
-    "wof:lastmodified":1566611984,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Teguel Oueze",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

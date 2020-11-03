@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193273187,
-    "wof:lastmodified":1566611971,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752747,
     "wof:name":"Beila",
     "wof:parent_id":1091695675,
     "wof:placetype":"locality",

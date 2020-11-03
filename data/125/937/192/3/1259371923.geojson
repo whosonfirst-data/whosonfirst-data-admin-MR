@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259371923,
-    "wof:lastmodified":1566612013,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"Goouad",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

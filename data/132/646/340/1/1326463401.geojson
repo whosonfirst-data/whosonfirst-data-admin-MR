@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326463401,
-    "wof:lastmodified":1566611913,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752733,
     "wof:name":"Guidemballa",
     "wof:parent_id":1091695353,
     "wof:placetype":"locality",

@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242681701,
-    "wof:lastmodified":1566612004,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752756,
     "wof:name":"Bousteile",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

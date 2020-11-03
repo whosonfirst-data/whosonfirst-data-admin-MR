@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343676741,
-    "wof:lastmodified":1566611924,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752736,
     "wof:name":"Ksar Chams",
     "wof:parent_id":1091695159,
     "wof:placetype":"locality",

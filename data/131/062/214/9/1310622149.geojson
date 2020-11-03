@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310622149,
-    "wof:lastmodified":1566611976,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752749,
     "wof:name":"Ibenkar",
     "wof:parent_id":1091695825,
     "wof:placetype":"locality",

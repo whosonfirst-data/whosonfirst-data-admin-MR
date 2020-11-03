@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1225954229,
-    "wof:lastmodified":1566612021,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752760,
     "wof:name":"Taizent",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

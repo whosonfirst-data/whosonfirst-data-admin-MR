@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243069815,
-    "wof:lastmodified":1566612002,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752755,
     "wof:name":"Sorototo",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

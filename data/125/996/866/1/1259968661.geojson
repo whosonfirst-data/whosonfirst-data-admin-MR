@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259968661,
-    "wof:lastmodified":1566612012,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"Gourel Malalfa",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

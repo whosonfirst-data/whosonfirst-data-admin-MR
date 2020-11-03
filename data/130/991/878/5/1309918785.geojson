@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309918785,
-    "wof:lastmodified":1566611995,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752753,
     "wof:name":"Dabai Amidi",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

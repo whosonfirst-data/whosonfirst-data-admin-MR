@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310485549,
-    "wof:lastmodified":1566611975,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Bouroudji",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

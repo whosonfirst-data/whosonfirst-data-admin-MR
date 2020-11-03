@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1360269209,
-    "wof:lastmodified":1566611986,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Godiovol",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

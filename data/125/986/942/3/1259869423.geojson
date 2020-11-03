@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259869423,
-    "wof:lastmodified":1566612020,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752760,
     "wof:name":"Letfatar",
     "wof:parent_id":1091695647,
     "wof:placetype":"locality",

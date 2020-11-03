@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327337471,
-    "wof:lastmodified":1566611912,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752733,
     "wof:name":"Zough",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

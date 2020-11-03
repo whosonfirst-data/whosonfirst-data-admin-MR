@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310485425,
-    "wof:lastmodified":1566611974,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Ferlankobe",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

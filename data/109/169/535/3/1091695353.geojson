@@ -96,7 +96,13 @@
         }
     ],
     "wof:id":1091695353,
-    "wof:lastmodified":1566611988,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752752,
     "wof:name":"Barkeol",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

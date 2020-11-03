@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1293595095,
-    "wof:lastmodified":1566611939,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"Toulel",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

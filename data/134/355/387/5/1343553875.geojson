@@ -134,7 +134,13 @@
         }
     ],
     "wof:id":1343553875,
-    "wof:lastmodified":1566611920,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752735,
     "wof:name":"Tanit",
     "wof:parent_id":1091695675,
     "wof:placetype":"locality",

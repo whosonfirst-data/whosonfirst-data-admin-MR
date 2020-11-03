@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360073327,
-    "wof:lastmodified":1566611983,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Touajil",
     "wof:parent_id":1091696097,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260298309,
-    "wof:lastmodified":1566611973,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Sott",
     "wof:parent_id":1091695069,
     "wof:placetype":"locality",

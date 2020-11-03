@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242681009,
-    "wof:lastmodified":1566612004,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752756,
     "wof:name":"Kelele",
     "wof:parent_id":1091695069,
     "wof:placetype":"locality",

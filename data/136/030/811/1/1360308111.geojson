@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1360308111,
-    "wof:lastmodified":1566611985,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Moit",
     "wof:parent_id":1091695173,
     "wof:placetype":"locality",

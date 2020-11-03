@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1209931901,
-    "wof:lastmodified":1566611963,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752745,
     "wof:name":"Timbedgha",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

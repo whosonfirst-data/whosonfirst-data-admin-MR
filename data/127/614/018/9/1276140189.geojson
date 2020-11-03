@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276140189,
-    "wof:lastmodified":1566611951,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752743,
     "wof:name":"Takoutala",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

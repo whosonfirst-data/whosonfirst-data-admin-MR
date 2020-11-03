@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360190913,
-    "wof:lastmodified":1566611986,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Loureme",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

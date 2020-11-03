@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276339565,
-    "wof:lastmodified":1566611949,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752742,
     "wof:name":"Aguini",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

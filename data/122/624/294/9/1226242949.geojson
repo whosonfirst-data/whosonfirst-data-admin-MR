@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226242949,
-    "wof:lastmodified":1566612027,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"Mareifa",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

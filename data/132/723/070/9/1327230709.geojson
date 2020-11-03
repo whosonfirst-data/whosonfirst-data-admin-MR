@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327230709,
-    "wof:lastmodified":1566611910,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752732,
     "wof:name":"Fadia",
     "wof:parent_id":1091695173,
     "wof:placetype":"locality",

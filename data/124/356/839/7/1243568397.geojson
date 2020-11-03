@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243568397,
-    "wof:lastmodified":1566612007,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752757,
     "wof:name":"Fra` el Kettane",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

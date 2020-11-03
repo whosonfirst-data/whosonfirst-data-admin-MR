@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259476997,
-    "wof:lastmodified":1566612016,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752759,
     "wof:name":"Ould Yenje",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

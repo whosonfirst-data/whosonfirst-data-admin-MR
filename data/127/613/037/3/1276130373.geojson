@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1276130373,
-    "wof:lastmodified":1566611951,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752743,
     "wof:name":"Guerou",
     "wof:parent_id":1091695319,
     "wof:placetype":"locality",

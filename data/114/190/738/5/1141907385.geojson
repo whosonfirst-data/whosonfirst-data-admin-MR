@@ -135,7 +135,13 @@
         }
     ],
     "wof:id":1141907385,
-    "wof:lastmodified":1566612032,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752763,
     "wof:name":"Magta Lajar",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

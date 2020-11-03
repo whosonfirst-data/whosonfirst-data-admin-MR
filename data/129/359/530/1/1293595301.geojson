@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293595301,
-    "wof:lastmodified":1566611939,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"Avoinat",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

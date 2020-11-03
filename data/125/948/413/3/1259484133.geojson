@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259484133,
-    "wof:lastmodified":1566612014,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"Gourel Tierna Amadou",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

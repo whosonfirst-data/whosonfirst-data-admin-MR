@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1226345311,
-    "wof:lastmodified":1566612024,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752761,
     "wof:name":"Grair Anzai",
     "wof:parent_id":1091695497,
     "wof:placetype":"locality",

@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310214633,
-    "wof:lastmodified":1566611980,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752750,
     "wof:name":"Diade",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

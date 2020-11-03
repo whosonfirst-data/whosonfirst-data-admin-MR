@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1310693957,
-    "wof:lastmodified":1566611982,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752750,
     "wof:name":"Ouad Naga",
     "wof:parent_id":1091695675,
     "wof:placetype":"locality",

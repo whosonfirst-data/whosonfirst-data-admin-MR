@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226546125,
-    "wof:lastmodified":1566612030,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752763,
     "wof:name":"Atta'ine",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

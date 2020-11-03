@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226460273,
-    "wof:lastmodified":1566612028,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"Kataouane",
     "wof:parent_id":1091695193,
     "wof:placetype":"locality",

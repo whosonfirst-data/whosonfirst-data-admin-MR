@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343254539,
-    "wof:lastmodified":1566611922,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752735,
     "wof:name":"Messaoud",
     "wof:parent_id":1091695697,
     "wof:placetype":"locality",

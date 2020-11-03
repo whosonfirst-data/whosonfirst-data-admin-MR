@@ -200,7 +200,13 @@
         }
     ],
     "wof:id":1141907389,
-    "wof:lastmodified":1566612032,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752763,
     "wof:name":"Boutilimit",
     "wof:parent_id":1091695697,
     "wof:placetype":"locality",

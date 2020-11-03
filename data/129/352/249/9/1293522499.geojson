@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293522499,
-    "wof:lastmodified":1566611934,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752738,
     "wof:name":"Barbarak",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

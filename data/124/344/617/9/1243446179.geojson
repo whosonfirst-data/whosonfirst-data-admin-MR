@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243446179,
-    "wof:lastmodified":1566612011,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"El Maleh",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

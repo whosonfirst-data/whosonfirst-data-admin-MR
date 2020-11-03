@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259567623,
-    "wof:lastmodified":1566612018,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752760,
     "wof:name":"Tamassoumit",
     "wof:parent_id":1091695825,
     "wof:placetype":"locality",

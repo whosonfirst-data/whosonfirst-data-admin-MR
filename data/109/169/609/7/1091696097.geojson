@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1091696097,
-    "wof:lastmodified":1566611992,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752753,
     "wof:name":"F'Derik",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

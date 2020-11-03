@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326941761,
-    "wof:lastmodified":1566611909,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752732,
     "wof:name":"Oulamantess",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1209739541,
-    "wof:lastmodified":1566611965,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752746,
     "wof:name":"Kov Nimadi",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

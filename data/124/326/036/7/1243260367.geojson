@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243260367,
-    "wof:lastmodified":1566612011,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"'Aggui",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1293499283,
-    "wof:lastmodified":1566611937,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"Foum Gleita",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

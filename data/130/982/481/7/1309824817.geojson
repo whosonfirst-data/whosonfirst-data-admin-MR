@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1309824817,
-    "wof:lastmodified":1566611997,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Kamour",
     "wof:parent_id":1091695319,
     "wof:placetype":"locality",

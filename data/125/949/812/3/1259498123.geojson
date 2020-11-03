@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259498123,
-    "wof:lastmodified":1566612016,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752759,
     "wof:name":"Keur Mour",
     "wof:parent_id":1091695159,
     "wof:placetype":"locality",

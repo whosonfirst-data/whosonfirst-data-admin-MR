@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259985865,
-    "wof:lastmodified":1566612012,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"Botoula Taring",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

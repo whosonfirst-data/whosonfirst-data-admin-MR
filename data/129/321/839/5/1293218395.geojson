@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293218395,
-    "wof:lastmodified":1566611944,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752741,
     "wof:name":"Tchera Oulad El Faghi",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

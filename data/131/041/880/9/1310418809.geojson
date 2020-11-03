@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310418809,
-    "wof:lastmodified":1566611974,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Dabai 'Ain Memounia",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293390539,
-    "wof:lastmodified":1566611934,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752738,
     "wof:name":"Diaoube",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

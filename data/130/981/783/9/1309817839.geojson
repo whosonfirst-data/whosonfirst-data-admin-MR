@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309817839,
-    "wof:lastmodified":1566611998,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Fereni",
     "wof:parent_id":1091695039,
     "wof:placetype":"locality",

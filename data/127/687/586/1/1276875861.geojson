@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276875861,
-    "wof:lastmodified":1566611949,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752742,
     "wof:name":"Dabai Sonkarou",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

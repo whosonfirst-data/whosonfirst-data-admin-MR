@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310711683,
-    "wof:lastmodified":1566611976,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Youmane Yire",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

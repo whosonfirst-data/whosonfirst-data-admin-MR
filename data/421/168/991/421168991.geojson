@@ -234,7 +234,13 @@
         }
     ],
     "wof:id":421168991,
-    "wof:lastmodified":1566611998,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Kaedi",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

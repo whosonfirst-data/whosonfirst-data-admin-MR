@@ -159,7 +159,13 @@
         }
     ],
     "wof:id":1293082141,
-    "wof:lastmodified":1566611933,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752738,
     "wof:name":"Zouerate",
     "wof:parent_id":1091696097,
     "wof:placetype":"locality",

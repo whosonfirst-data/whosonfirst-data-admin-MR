@@ -165,7 +165,13 @@
         }
     ],
     "wof:id":1091696039,
-    "wof:lastmodified":1566611988,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752752,
     "wof:name":"Oualata",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

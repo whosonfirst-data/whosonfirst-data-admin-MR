@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243179681,
-    "wof:lastmodified":1566612010,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"Boukereya",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

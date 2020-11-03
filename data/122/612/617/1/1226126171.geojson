@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226126171,
-    "wof:lastmodified":1566612028,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"El Joumaa",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276653761,
-    "wof:lastmodified":1566611955,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752744,
     "wof:name":"Ragg Ould 'Ali Ould Barka",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

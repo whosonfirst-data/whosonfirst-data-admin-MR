@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243362821,
-    "wof:lastmodified":1566612000,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752755,
     "wof:name":"Adabai Deili",
     "wof:parent_id":1091695099,
     "wof:placetype":"locality",

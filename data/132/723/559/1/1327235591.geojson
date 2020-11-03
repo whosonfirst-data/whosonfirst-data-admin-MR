@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327235591,
-    "wof:lastmodified":1566611910,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752732,
     "wof:name":"En Njama",
     "wof:parent_id":1091694873,
     "wof:placetype":"locality",

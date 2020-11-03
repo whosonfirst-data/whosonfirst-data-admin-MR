@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1343766043,
-    "wof:lastmodified":1566611922,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752735,
     "wof:name":"Nere",
     "wof:parent_id":1091695193,
     "wof:placetype":"locality",

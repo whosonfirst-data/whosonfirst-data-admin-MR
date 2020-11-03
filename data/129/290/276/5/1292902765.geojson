@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1292902765,
-    "wof:lastmodified":1566611941,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752740,
     "wof:name":"Poleti",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

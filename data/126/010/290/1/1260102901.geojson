@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1260102901,
-    "wof:lastmodified":1566611973,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Vinde Aboidi",
     "wof:parent_id":1091695099,
     "wof:placetype":"locality",

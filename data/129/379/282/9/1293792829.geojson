@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1293792829,
-    "wof:lastmodified":1566611935,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752738,
     "wof:name":"Bounouwara",
     "wof:parent_id":1091695069,
     "wof:placetype":"locality",

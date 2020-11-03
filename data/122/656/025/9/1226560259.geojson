@@ -126,7 +126,13 @@
         }
     ],
     "wof:id":1226560259,
-    "wof:lastmodified":1566612024,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752761,
     "wof:name":"Selibaby",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

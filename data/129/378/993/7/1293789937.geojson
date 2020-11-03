@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293789937,
-    "wof:lastmodified":1566611937,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"La'oueissi",
     "wof:parent_id":1091695353,
     "wof:placetype":"locality",

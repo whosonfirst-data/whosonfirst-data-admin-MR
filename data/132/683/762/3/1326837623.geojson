@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326837623,
-    "wof:lastmodified":1566611913,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752733,
     "wof:name":"Ahel Cheiheb",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

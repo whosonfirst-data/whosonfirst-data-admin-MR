@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293704683,
-    "wof:lastmodified":1566611936,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"Hassei Atila",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

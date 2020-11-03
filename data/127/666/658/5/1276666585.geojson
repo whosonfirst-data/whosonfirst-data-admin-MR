@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276666585,
-    "wof:lastmodified":1566611950,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752743,
     "wof:name":"Kouroukere el Kabar",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

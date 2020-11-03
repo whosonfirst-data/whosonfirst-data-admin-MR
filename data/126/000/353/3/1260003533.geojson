@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1260003533,
-    "wof:lastmodified":1566611971,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752747,
     "wof:name":"Beilougue Yero",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

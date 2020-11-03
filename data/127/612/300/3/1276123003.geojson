@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276123003,
-    "wof:lastmodified":1566611953,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752744,
     "wof:name":"Mourtogal Gar",
     "wof:parent_id":1091694985,
     "wof:placetype":"locality",

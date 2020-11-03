@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1293701261,
-    "wof:lastmodified":1566611936,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"Casbah des Ait Maouine",
     "wof:parent_id":1091695857,
     "wof:placetype":"locality",

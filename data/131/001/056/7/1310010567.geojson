@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310010567,
-    "wof:lastmodified":1566611978,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752749,
     "wof:name":"Chogar",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

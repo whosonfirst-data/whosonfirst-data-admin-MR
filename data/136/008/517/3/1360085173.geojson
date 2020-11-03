@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360085173,
-    "wof:lastmodified":1566611985,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Bourele",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

@@ -89,7 +89,13 @@
         }
     ],
     "wof:id":1091695619,
-    "wof:lastmodified":1566611987,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752752,
     "wof:name":"Maghta Lahjar",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243575529,
-    "wof:lastmodified":1566612007,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752757,
     "wof:name":"El Mraifig",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

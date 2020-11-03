@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242956857,
-    "wof:lastmodified":1566612005,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752756,
     "wof:name":"Chelkha Dakhna",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

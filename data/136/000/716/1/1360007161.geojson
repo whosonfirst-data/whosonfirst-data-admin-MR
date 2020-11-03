@@ -181,7 +181,13 @@
         }
     ],
     "wof:id":1360007161,
-    "wof:lastmodified":1566611983,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752751,
     "wof:name":"Toul",
     "wof:parent_id":1091695825,
     "wof:placetype":"locality",

@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1091695767,
-    "wof:lastmodified":1566611993,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752753,
     "wof:name":"Tichitt",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

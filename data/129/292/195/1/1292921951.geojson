@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1292921951,
-    "wof:lastmodified":1566611935,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752738,
     "wof:name":"Dolol Sivre",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

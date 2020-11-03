@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326629365,
-    "wof:lastmodified":1566611915,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752734,
     "wof:name":"Bassi Nguiddi",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

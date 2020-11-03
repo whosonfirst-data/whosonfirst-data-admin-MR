@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242589339,
-    "wof:lastmodified":1566612005,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752756,
     "wof:name":"Lehoueidni",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

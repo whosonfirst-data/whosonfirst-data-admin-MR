@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326963155,
-    "wof:lastmodified":1566611916,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752734,
     "wof:name":"Agreyate",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

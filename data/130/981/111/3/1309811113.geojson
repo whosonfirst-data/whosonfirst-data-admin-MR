@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1309811113,
-    "wof:lastmodified":1566611998,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Oumm el Khezz",
     "wof:parent_id":1091695415,
     "wof:placetype":"locality",

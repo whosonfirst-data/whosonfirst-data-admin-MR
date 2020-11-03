@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310398067,
-    "wof:lastmodified":1566611978,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752749,
     "wof:name":"Gourel Mama Dado",
     "wof:parent_id":1091695129,
     "wof:placetype":"locality",

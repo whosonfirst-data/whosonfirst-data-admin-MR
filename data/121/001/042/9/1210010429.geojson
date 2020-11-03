@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1210010429,
-    "wof:lastmodified":1566611968,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752746,
     "wof:name":"Fofana Debe",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

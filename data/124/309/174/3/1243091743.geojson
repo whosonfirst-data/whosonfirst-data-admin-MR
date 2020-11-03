@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243091743,
-    "wof:lastmodified":1566612001,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752755,
     "wof:name":"Bokkoul",
     "wof:parent_id":1091695173,
     "wof:placetype":"locality",

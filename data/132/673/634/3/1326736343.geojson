@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1326736343,
-    "wof:lastmodified":1566611908,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752731,
     "wof:name":"Mbout",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226231259,
-    "wof:lastmodified":1566612027,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"Guenetir",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

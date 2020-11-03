@@ -83,7 +83,13 @@
         }
     ],
     "wof:id":1226164849,
-    "wof:lastmodified":1566612023,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752761,
     "wof:name":"Bareina",
     "wof:parent_id":1091695385,
     "wof:placetype":"locality",

@@ -414,7 +414,13 @@
         }
     ],
     "wof:id":421189891,
-    "wof:lastmodified":1582314085,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Nouakchott",
     "wof:parent_id":85674873,
     "wof:placetype":"locality",

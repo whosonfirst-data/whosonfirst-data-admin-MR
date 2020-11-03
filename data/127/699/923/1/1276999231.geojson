@@ -71,7 +71,13 @@
         }
     ],
     "wof:id":1276999231,
-    "wof:lastmodified":1566611954,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752744,
     "wof:name":"Noual",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

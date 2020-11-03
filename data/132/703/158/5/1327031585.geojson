@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327031585,
-    "wof:lastmodified":1566611912,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752733,
     "wof:name":"Oumm Kchera",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

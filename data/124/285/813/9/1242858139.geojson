@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242858139,
-    "wof:lastmodified":1566612008,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752757,
     "wof:name":"Bouda",
     "wof:parent_id":1091694841,
     "wof:placetype":"locality",

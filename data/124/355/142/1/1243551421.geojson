@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243551421,
-    "wof:lastmodified":1566612002,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752755,
     "wof:name":"Jalet el Meda",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1310123539,
-    "wof:lastmodified":1566611974,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Hasei Lagha",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

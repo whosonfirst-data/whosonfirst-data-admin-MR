@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225961881,
-    "wof:lastmodified":1566612026,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"El Boibou",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276435703,
-    "wof:lastmodified":1566611947,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752742,
     "wof:name":"Bouerik",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

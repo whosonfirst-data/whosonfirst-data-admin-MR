@@ -264,7 +264,13 @@
         }
     ],
     "wof:id":421168989,
-    "wof:lastmodified":1566611999,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Rosso",
     "wof:parent_id":1091695159,
     "wof:placetype":"locality",

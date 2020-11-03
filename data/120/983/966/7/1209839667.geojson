@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209839667,
-    "wof:lastmodified":1566611960,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752745,
     "wof:name":"Rindiao",
     "wof:parent_id":1091694955,
     "wof:placetype":"locality",

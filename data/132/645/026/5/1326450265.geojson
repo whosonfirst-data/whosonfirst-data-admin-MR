@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1326450265,
-    "wof:lastmodified":1566611908,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752731,
     "wof:name":"Iouik",
     "wof:parent_id":1091695961,
     "wof:placetype":"locality",

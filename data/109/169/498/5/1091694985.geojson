@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1091694985,
-    "wof:lastmodified":1566611989,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752752,
     "wof:name":"M'Bagne",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

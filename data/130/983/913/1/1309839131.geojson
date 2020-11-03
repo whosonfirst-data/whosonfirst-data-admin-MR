@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309839131,
-    "wof:lastmodified":1566611996,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752754,
     "wof:name":"Dieba",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

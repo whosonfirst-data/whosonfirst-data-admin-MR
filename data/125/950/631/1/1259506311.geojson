@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259506311,
-    "wof:lastmodified":1566612017,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752759,
     "wof:name":"Haire Golere",
     "wof:parent_id":1091695099,
     "wof:placetype":"locality",

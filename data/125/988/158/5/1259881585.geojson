@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259881585,
-    "wof:lastmodified":1566612019,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752760,
     "wof:name":"El Mouinesse",
     "wof:parent_id":1091694911,
     "wof:placetype":"locality",

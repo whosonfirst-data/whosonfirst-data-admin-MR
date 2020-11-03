@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293134045,
-    "wof:lastmodified":1566611938,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"El-Moulali",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

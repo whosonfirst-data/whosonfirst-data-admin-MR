@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310319013,
-    "wof:lastmodified":1566611977,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752749,
     "wof:name":"Braydid",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",

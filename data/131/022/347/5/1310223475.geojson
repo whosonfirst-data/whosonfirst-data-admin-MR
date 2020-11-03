@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1310223475,
-    "wof:lastmodified":1566611976,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752748,
     "wof:name":"Sahout el Ma",
     "wof:parent_id":1091695385,
     "wof:placetype":"locality",

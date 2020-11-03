@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327033191,
-    "wof:lastmodified":1566611912,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752733,
     "wof:name":"Kouroukere Beda",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

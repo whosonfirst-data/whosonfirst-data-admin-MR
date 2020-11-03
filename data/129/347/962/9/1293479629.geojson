@@ -135,7 +135,13 @@
         }
     ],
     "wof:id":1293479629,
-    "wof:lastmodified":1566611937,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752739,
     "wof:name":"Tichit",
     "wof:parent_id":1091695767,
     "wof:placetype":"locality",

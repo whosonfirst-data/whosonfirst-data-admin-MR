@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1209804351,
-    "wof:lastmodified":1566611966,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752746,
     "wof:name":"Godiowel Galaoual",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

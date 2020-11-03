@@ -96,7 +96,13 @@
         }
     ],
     "wof:id":1091695647,
-    "wof:lastmodified":1566611990,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752752,
     "wof:name":"Moudjeria",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

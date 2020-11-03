@@ -101,7 +101,13 @@
         }
     ],
     "wof:id":1091694811,
-    "wof:lastmodified":1566611991,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752753,
     "wof:name":"Maghama",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243548205,
-    "wof:lastmodified":1566612001,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752755,
     "wof:name":"Moudji Babangol",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

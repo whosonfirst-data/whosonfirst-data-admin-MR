@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276430015,
-    "wof:lastmodified":1566611947,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752742,
     "wof:name":"Guiegui",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

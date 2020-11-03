@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243477059,
-    "wof:lastmodified":1566612007,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752757,
     "wof:name":"Idegjemolla",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

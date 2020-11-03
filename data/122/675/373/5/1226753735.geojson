@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226753735,
-    "wof:lastmodified":1566612022,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752760,
     "wof:name":"Nemahidi",
     "wof:parent_id":1091695009,
     "wof:placetype":"locality",

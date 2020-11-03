@@ -143,7 +143,13 @@
         }
     ],
     "wof:id":1259904081,
-    "wof:lastmodified":1566612013,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752758,
     "wof:name":"Wali",
     "wof:parent_id":1091694811,
     "wof:placetype":"locality",

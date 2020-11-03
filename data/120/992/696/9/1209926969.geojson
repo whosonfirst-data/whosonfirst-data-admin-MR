@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209926969,
-    "wof:lastmodified":1566611963,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752745,
     "wof:name":"Ncafenni",
     "wof:parent_id":1091695431,
     "wof:placetype":"locality",

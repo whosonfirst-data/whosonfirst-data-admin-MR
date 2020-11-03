@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1293014779,
-    "wof:lastmodified":1566611934,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752738,
     "wof:name":"Madel",
     "wof:parent_id":1091695039,
     "wof:placetype":"locality",

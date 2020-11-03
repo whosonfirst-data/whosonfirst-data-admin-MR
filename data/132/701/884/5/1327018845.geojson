@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1327018845,
-    "wof:lastmodified":1566611907,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752731,
     "wof:name":"Lexelba",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

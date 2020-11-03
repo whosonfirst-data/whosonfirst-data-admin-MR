@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226463677,
-    "wof:lastmodified":1566612028,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752762,
     "wof:name":"Mnacir",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

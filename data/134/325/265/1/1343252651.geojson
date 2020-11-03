@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343252651,
-    "wof:lastmodified":1566611923,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752736,
     "wof:name":"Bou Lanouar",
     "wof:parent_id":1091695961,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260089017,
-    "wof:lastmodified":1566611972,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752747,
     "wof:name":"Boutel Ahir",
     "wof:parent_id":1091694947,
     "wof:placetype":"locality",

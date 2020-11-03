@@ -130,7 +130,13 @@
         }
     ],
     "wof:id":1344170861,
-    "wof:lastmodified":1566611926,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752736,
     "wof:name":"Nema",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

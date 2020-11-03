@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277065651,
-    "wof:lastmodified":1566611945,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752741,
     "wof:name":"Koussane",
     "wof:parent_id":1091694791,
     "wof:placetype":"locality",

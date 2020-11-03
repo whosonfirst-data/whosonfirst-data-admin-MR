@@ -182,7 +182,13 @@
         }
     ],
     "wof:id":1141907401,
-    "wof:lastmodified":1566612032,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1603752764,
     "wof:name":"Timbedra",
     "wof:parent_id":1091695261,
     "wof:placetype":"locality",
