@@ -400,6 +400,10 @@
         "gp:id":1504735,
         "qs_pg:id":1117891
     },
+    "wof:coterminous":[
+        1091695565,
+        85674873
+    ],
     "wof:country":"MR",
     "wof:created":1459009639,
     "wof:geom_alt":[
@@ -416,7 +420,7 @@
         }
     ],
     "wof:id":421189891,
-    "wof:lastmodified":1607390898,
+    "wof:lastmodified":1608002940,
     "wof:name":"Nouakchott",
     "wof:parent_id":85674873,
     "wof:placetype":"locality",
