@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-12.7070005319,22.6790011345,-12.7070005319,22.6790011345",
+    "geom:bbox":"-12.707001,22.679001,-12.707001,22.679001",
     "geom:latitude":22.679001,
     "geom:longitude":-12.707001,
     "iso:country":"MR",
@@ -27,6 +27,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u0434\u044d\u0440\u044b\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ab\u09a6\u09c7\u09b0\u09bf\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0434\u0435\u0440\u0438\u043a"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:deu_x_preferred":[
         "F\u2019d\u00e9rik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bd\u03c4\u03b5\u03c1\u03af\u03ba"
     ],
     "name:eng_x_preferred":[
         "Fder\u00eeck"
@@ -54,6 +60,18 @@
     "name:fra_x_preferred":[
         "F'Derick"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05e8\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u094d\u0921\u0947\u0930\u093f\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Fderik"
+    ],
+    "name:ind_x_preferred":[
+        "Fderik"
+    ],
     "name:ita_x_preferred":[
         "Fderik"
     ],
@@ -72,6 +90,9 @@
     "name:pol_x_preferred":[
         "Fudajrik"
     ],
+    "name:por_x_preferred":[
+        "Fder\u00eeck"
+    ],
     "name:ron_x_preferred":[
         "F'Derick"
     ],
@@ -84,8 +105,17 @@
     "name:swe_x_preferred":[
         "F'D\u00e9rik"
     ],
+    "name:tur_x_preferred":[
+        "Fderik"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0434\u0435\u0440\u0438\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0631\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Fderik"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u5fb7\u91cc\u514b"
@@ -198,7 +228,7 @@
     },
     "wof:country":"MR",
     "wof:created":1499130560,
-    "wof:geomhash":"ec35062f008e492d9222bf7957fdc87b",
+    "wof:geomhash":"ad9efce1c0b0346718830f3659014202",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -209,7 +239,7 @@
         }
     ],
     "wof:id":1141906243,
-    "wof:lastmodified":1566612033,
+    "wof:lastmodified":1636494849,
     "wof:name":"Fderik",
     "wof:parent_id":1091696097,
     "wof:placetype":"locality",
@@ -219,10 +249,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -12.70700053190666,
-    22.67900113446359,
-    -12.70700053190666,
-    22.67900113446359
+    -12.707001,
+    22.679001,
+    -12.707001,
+    22.679001
 ],
-  "geometry": {"coordinates":[-12.70700053190666,22.67900113446359],"type":"Point"}
+  "geometry": {"coordinates":[-12.707001,22.679001],"type":"Point"}
 }

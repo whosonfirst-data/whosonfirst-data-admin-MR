@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ben_x_preferred":[
+        "\u09a4\u09bf\u09ae\u09cd\u09ac\u09cd\u09b0\u09c7\u09a6\u09cd\u09b0\u09be"
+    ],
     "name:eng_x_preferred":[
         "Timb\u00e9dra"
     ],
@@ -40,8 +43,41 @@
         "Timbedra",
         "Timb\u00e9dra"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0645\u0628\u062f\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Timbedra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05de\u05d1\u05d3\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093f\u092e\u094d\u092c\u0947\u0921\u094d\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Timbedra"
+    ],
+    "name:ind_x_preferred":[
+        "Timbedra"
+    ],
+    "name:kor_x_preferred":[
+        "\ud300\ubca0\ub4dc\ub77c"
+    ],
+    "name:tur_x_preferred":[
+        "Timbedra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043c\u0431\u0435\u0434\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Timbedra"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5ef7\u8d1d\u5fb7\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5ef7\u8c9d\u5fb7\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -78,7 +114,7 @@
         }
     ],
     "wof:id":1091695261,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1636494845,
     "wof:name":"Timbedra",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

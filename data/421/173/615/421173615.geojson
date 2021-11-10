@@ -68,8 +68,14 @@
     "name:haw_x_preferred":[
         "Kipa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u092b\u094d\u092b\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Kiffa"
     ],
     "name:ind_x_preferred":[
         "Kiffa"
@@ -300,7 +306,7 @@
         }
     ],
     "wof:id":421173615,
-    "wof:lastmodified":1566611999,
+    "wof:lastmodified":1636494846,
     "wof:name":"Kiffa",
     "wof:parent_id":1091695415,
     "wof:placetype":"locality",

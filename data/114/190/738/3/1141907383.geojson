@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.77996789695,25.3804004099,-5.77996789695,25.3804004099",
+    "geom:bbox":"-5.779968,25.3804,-5.779968,25.3804",
     "geom:latitude":25.3804,
     "geom:longitude":-5.779968,
     "iso:country":"MR",
@@ -21,23 +21,80 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0642\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u0997\u0997\u09be"
+    ],
     "name:ces_x_preferred":[
         "Chegga"
     ],
     "name:deu_x_preferred":[
         "Chegga"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03b3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Chegga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Chegga"
     ],
+    "name:fra_x_preferred":[
+        "Chegg\u00e2t"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d2\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Chegga"
+    ],
+    "name:ind_x_preferred":[
+        "Chegga"
+    ],
+    "name:ita_x_preferred":[
+        "Chegga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30c3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\uac00"
+    ],
     "name:nld_x_preferred":[
+        "Chegga"
+    ],
+    "name:pol_x_preferred":[
+        "Chegga"
+    ],
+    "name:por_x_preferred":[
         "Chegga"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u0433\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Chegga"
+    ],
+    "name:swe_x_preferred":[
+        "Chegga"
+    ],
+    "name:tur_x_preferred":[
+        "Chegga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0433\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Chegga"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mauritania",
@@ -147,7 +204,7 @@
     },
     "wof:country":"MR",
     "wof:created":1499130718,
-    "wof:geomhash":"20a84321029537d450148fa2456d9841",
+    "wof:geomhash":"87d363f187c0df69abc69d44df87935a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -158,7 +215,7 @@
         }
     ],
     "wof:id":1141907383,
-    "wof:lastmodified":1566612032,
+    "wof:lastmodified":1636494848,
     "wof:name":"Chegga",
     "wof:parent_id":1091696117,
     "wof:placetype":"locality",
@@ -168,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.77996789694549,
-    25.38040040994866,
-    -5.77996789694549,
-    25.38040040994866
+    -5.779968,
+    25.3804,
+    -5.779968,
+    25.3804
 ],
-  "geometry": {"coordinates":[-5.77996789694549,25.38040040994866],"type":"Point"}
+  "geometry": {"coordinates":[-5.779968,25.3804],"type":"Point"}
 }

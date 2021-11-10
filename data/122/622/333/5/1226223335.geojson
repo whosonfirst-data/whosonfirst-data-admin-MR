@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0424\u0434\u044d\u0440\u044b\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ab\u09a6\u09c7\u09b0\u09bf\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0434\u0435\u0440\u0438\u043a"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:deu_x_variant":[
         "F\u2019d\u00e9rik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bd\u03c4\u03b5\u03c1\u03af\u03ba"
     ],
     "name:eng_x_preferred":[
         "Fder\u00eeck"
@@ -71,6 +77,18 @@
     "name:fra_x_variant":[
         "F'Derick"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05e8\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u094d\u0921\u0947\u0930\u093f\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Fderik"
+    ],
+    "name:ind_x_preferred":[
+        "Fderik"
+    ],
     "name:ita_x_preferred":[
         "F'Derick"
     ],
@@ -92,6 +110,9 @@
     "name:pol_x_variant":[
         "Fudajrik"
     ],
+    "name:por_x_preferred":[
+        "Fder\u00eeck"
+    ],
     "name:ron_x_preferred":[
         "F'Derick"
     ],
@@ -104,6 +125,9 @@
     "name:swe_x_preferred":[
         "F'D\u00e9rik"
     ],
+    "name:tur_x_preferred":[
+        "Fderik"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0434\u0435\u0440\u0438\u043a"
     ],
@@ -114,6 +138,12 @@
         "Fort Gouraud",
         "Fort Goureaud",
         "Fort Trinquet"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0631\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Fderik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -139,7 +169,7 @@
         }
     ],
     "wof:id":1226223335,
-    "wof:lastmodified":1566612026,
+    "wof:lastmodified":1636494847,
     "wof:name":"Fderik",
     "wof:parent_id":1091696097,
     "wof:placetype":"locality",

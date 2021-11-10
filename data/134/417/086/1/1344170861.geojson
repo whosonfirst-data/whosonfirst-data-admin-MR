@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u041d\u0435\u043c\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c7\u09ae\u09be"
+    ],
     "name:dan_x_preferred":[
         "N\u00e9ma"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:frr_x_preferred":[
         "N\u00e9ma"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0947\u092e\u093e"
     ],
     "name:hun_x_preferred":[
         "N\u00e9ma"
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1344170861,
-    "wof:lastmodified":1566611926,
+    "wof:lastmodified":1636494842,
     "wof:name":"Nema",
     "wof:parent_id":1091695295,
     "wof:placetype":"locality",

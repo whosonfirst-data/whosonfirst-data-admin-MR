@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-14.7000435806,17.5503873891,-14.7000435806,17.5503873891",
+    "geom:bbox":"-14.700044,17.550387,-14.700044,17.550387",
     "geom:latitude":17.550387,
     "geom:longitude":-14.700044,
     "iso:country":"MR",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0644\u0645\u064a\u062a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u0989\u09a4\u09bf\u09b2\u09bf\u09ae\u09bf\u09a4"
+    ],
     "name:cat_x_preferred":[
         "Boutilimit"
     ],
@@ -30,13 +33,28 @@
     "name:deu_x_preferred":[
         "Boutilimit"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c4\u03b9\u03bb\u03af\u03bc\u03b9\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Boutilimit"
     ],
     "name:epo_x_preferred":[
         "Boutilimit"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u06cc\u0644\u06cc\u0645\u06cc\u062a"
+    ],
     "name:fra_x_preferred":[
+        "Boutilimit"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u092f\u0942\u091f\u0940\u0932\u093f\u092e\u093f\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Boutilimit"
+    ],
+    "name:ind_x_preferred":[
         "Boutilimit"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +62,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30c1\u30ea\u30df\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ud2f0\ub9ac\ubbf8\ud2b8"
     ],
     "name:lit_x_preferred":[
         "Butilimitas"
@@ -63,6 +84,9 @@
     "name:pol_x_preferred":[
         "Bu Tilimit"
     ],
+    "name:por_x_preferred":[
+        "Boutilimit"
+    ],
     "name:ron_x_preferred":[
         "Boutilimit"
     ],
@@ -75,8 +99,14 @@
     "name:swe_x_preferred":[
         "Boutilimit"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0442\u0438\u043b\u0456\u043c\u0456\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u062a\u0644\u0645\u06cc\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Boutilimit"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u63d0\u5229\u7c73\u7279"
@@ -189,7 +219,7 @@
     },
     "wof:country":"MR",
     "wof:created":1499130719,
-    "wof:geomhash":"e8024228dbd9a53c6d58b54e14f05d8a",
+    "wof:geomhash":"964508402e269841366e0086184a474c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -200,7 +230,7 @@
         }
     ],
     "wof:id":1141907389,
-    "wof:lastmodified":1566612032,
+    "wof:lastmodified":1636494847,
     "wof:name":"Boutilimit",
     "wof:parent_id":1091695697,
     "wof:placetype":"locality",
@@ -210,10 +240,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.70004358057497,
-    17.55038738908405,
-    -14.70004358057497,
-    17.55038738908405
+    -14.700044,
+    17.550387,
+    -14.700044,
+    17.550387
 ],
-  "geometry": {"coordinates":[-14.70004358057497,17.55038738908405],"type":"Point"}
+  "geometry": {"coordinates":[-14.700044,17.550387],"type":"Point"}
 }

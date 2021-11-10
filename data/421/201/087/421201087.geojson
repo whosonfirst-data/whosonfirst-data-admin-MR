@@ -74,6 +74,9 @@
     "name:hin_x_preferred":[
         "\u0905\u091f\u0930"
     ],
+    "name:hun_x_preferred":[
+        "Atar"
+    ],
     "name:ind_x_preferred":[
         "Atar"
     ],
@@ -309,7 +312,7 @@
         }
     ],
     "wof:id":421201087,
-    "wof:lastmodified":1566612000,
+    "wof:lastmodified":1636494846,
     "wof:name":"Atar",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",
