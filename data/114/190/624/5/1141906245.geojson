@@ -24,6 +24,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u0435\u0433"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u0435\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09c7\u0997"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:eus_x_preferred":[
         "Aleg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u06af"
     ],
     "name:fin_x_preferred":[
         "Aleg"
@@ -125,6 +131,9 @@
     ],
     "name:swe_x_preferred":[
         "Al\u00e9g"
+    ],
+    "name:szl_x_preferred":[
+        "Alak"
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0bb2\u0bc6\u0b9c\u0bcd"
@@ -269,7 +278,7 @@
         }
     ],
     "wof:id":1141906245,
-    "wof:lastmodified":1636494849,
+    "wof:lastmodified":1690846476,
     "wof:name":"Aleg",
     "wof:parent_id":1091695533,
     "wof:placetype":"locality",

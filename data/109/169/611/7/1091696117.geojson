@@ -36,6 +36,12 @@
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0 \u09ae\u09cb\u0997\u09cd\u09b0\u09c7\u0987\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Bir Moghre\u00efn"
+    ],
+    "name:deu_x_preferred":[
+        "Bir Moghrein"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b9\u03c1 \u039c\u03bf\u03b3\u03ba\u03c1\u03ad\u03b9\u03bd"
     ],
@@ -43,8 +49,7 @@
         "Bir Moghre\u00efn"
     ],
     "name:eng_x_variant":[
-        "Bir Mogrein",
-        "Bir Moghre\u00efn"
+        "Bir Mogrein"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0631 \u0645\u0648\u06af\u0631\u06cc\u0646"
@@ -72,6 +77,9 @@
     ],
     "name:nld_x_preferred":[
         "Birmoguren Department"
+    ],
+    "name:spa_x_preferred":[
+        "Bir Mogrein"
     ],
     "name:swe_x_preferred":[
         "Bir Moghre\u00efn"
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1091696117,
-    "wof:lastmodified":1636494845,
+    "wof:lastmodified":1690846470,
     "wof:name":"Bir Mogrein",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

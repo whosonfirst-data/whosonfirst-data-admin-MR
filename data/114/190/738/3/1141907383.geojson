@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0642\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u0642\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09c7\u0997\u0997\u09be"
     ],
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":1141907383,
-    "wof:lastmodified":1636494848,
+    "wof:lastmodified":1690846475,
     "wof:name":"Chegga",
     "wof:parent_id":1091696117,
     "wof:placetype":"locality",

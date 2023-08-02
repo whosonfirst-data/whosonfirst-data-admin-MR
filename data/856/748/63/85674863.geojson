@@ -75,6 +75,9 @@
     "name:epo_x_preferred":[
         "Brakna"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u0627\u06a9\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Braknan alue"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\ud06c\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube0c\ub77c\ud06c\ub098\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Braknas vil\u0101js"
@@ -304,7 +310,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494844,
+    "wof:lastmodified":1690846468,
     "wof:name":"Brakna",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

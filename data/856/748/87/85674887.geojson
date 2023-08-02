@@ -118,6 +118,9 @@
     "name:kor_x_preferred":[
         "\uae30\ub514\ub9c8\uce74 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uae30\ub514\ub9c8\uce74\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Gidimakas vil\u0101js"
     ],
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636494843,
+    "wof:lastmodified":1690846466,
     "wof:name":"Guidimaka",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
