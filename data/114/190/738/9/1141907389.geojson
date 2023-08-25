@@ -45,8 +45,14 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u062a\u06cc\u0644\u06cc\u0645\u06cc\u062a"
     ],
+    "name:fin_x_preferred":[
+        "Boutilimit"
+    ],
     "name:fra_x_preferred":[
         "Boutilimit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05d8\u05dc\u05d9\u05de\u05d9\u05d8"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u092f\u0942\u091f\u0940\u0932\u093f\u092e\u093f\u091f"
@@ -97,6 +103,9 @@
         "Boutilimit"
     ],
     "name:swe_x_preferred":[
+        "Boutilimit"
+    ],
+    "name:tur_x_preferred":[
         "Boutilimit"
     ],
     "name:ukr_x_preferred":[
@@ -230,7 +239,7 @@
         }
     ],
     "wof:id":1141907389,
-    "wof:lastmodified":1636494847,
+    "wof:lastmodified":1690846475,
     "wof:name":"Boutilimit",
     "wof:parent_id":1091695697,
     "wof:placetype":"locality",

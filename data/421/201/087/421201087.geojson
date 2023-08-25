@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0637\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0637\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Atar"
+    ],
     "name:aze_x_preferred":[
         "Atar"
     ],
@@ -312,7 +318,7 @@
         }
     ],
     "wof:id":421201087,
-    "wof:lastmodified":1636494846,
+    "wof:lastmodified":1690846474,
     "wof:name":"Atar",
     "wof:parent_id":1091695981,
     "wof:placetype":"locality",

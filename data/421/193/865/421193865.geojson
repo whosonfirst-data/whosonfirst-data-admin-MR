@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0634\u0646\u0642\u064a\u0637"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0646\u0642\u064a\u0637"
+    ],
     "name:ast_x_preferred":[
+        "Chinguetti"
+    ],
+    "name:avk_x_preferred":[
         "Chinguetti"
     ],
     "name:cat_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:eus_x_preferred":[
         "Chinguetti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u0642\u06cc\u0637"
     ],
     "name:fin_x_preferred":[
         "Chinguetti"
@@ -107,6 +116,9 @@
     "name:spa_x_preferred":[
         "Chinguetti"
     ],
+    "name:spa_x_variant":[
+        "Chingueti"
+    ],
     "name:swe_x_preferred":[
         "Chinguetti"
     ],
@@ -170,7 +182,7 @@
         }
     ],
     "wof:id":421193865,
-    "wof:lastmodified":1566611999,
+    "wof:lastmodified":1690846473,
     "wof:name":"Chinguetti",
     "wof:parent_id":1091695857,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u062c\u0643\u062c\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Tidjikja"
+    ],
     "name:ceb_x_preferred":[
         "Tidjikja"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:eus_x_preferred":[
         "Tidjikdja"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u062c\u06a9\u062c\u0647"
     ],
     "name:fin_x_preferred":[
         "Tidjikja"
@@ -100,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Tijigje"
+    ],
+    "name:swe_x_variant":[
+        "Tidjikdja"
     ],
     "name:szl_x_preferred":[
         "Tid\u017cikd\u017ca"
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":421195805,
-    "wof:lastmodified":1566611999,
+    "wof:lastmodified":1690846472,
     "wof:name":"Tidjikja",
     "wof:parent_id":1091695733,
     "wof:placetype":"locality",
