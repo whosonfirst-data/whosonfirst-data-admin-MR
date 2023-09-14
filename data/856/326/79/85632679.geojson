@@ -15,6 +15,9 @@
     "itu:country_code":[
         "222"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "MR"
     ],
@@ -1168,7 +1171,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"222",
     "statoids:ds":"RIM",
     "statoids:fifa":"MTN",
@@ -1227,7 +1231,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"24253122d4facec261a4ba0f4718b474",
+    "wof:geomhash":"d48592b7d70e3fde62dbaa33c45577f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1241,12 +1245,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846469,
+    "wof:lastmodified":1694639499,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":3889880,
-    "wof:population_rank":12,
+    "wof:population":4525696,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mr",
     "wof:shortcode":"MR",
     "wof:superseded_by":[],
