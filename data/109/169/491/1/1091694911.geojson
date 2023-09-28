@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.866178,
-    "geom:area_square_m":10304632193.734669,
+    "geom:area_square_m":10304632193.73469,
     "geom:bbox":"-11.7116336603,15.1052713683,-10.5825830293,16.3059082031",
     "geom:latitude":15.818668,
     "geom:longitude":-11.121115,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"MR.AS.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879520,
-    "wof:geomhash":"473b058fd4788444a987155947dc04a6",
+    "wof:geomhash":"bba94d677080968510b73faef41d0e13",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091694911,
-    "wof:lastmodified":1566611989,
+    "wof:lastmodified":1695886849,
     "wof:name":"Kankossa",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

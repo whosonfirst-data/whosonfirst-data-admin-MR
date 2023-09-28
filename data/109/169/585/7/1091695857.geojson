@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.059657,
-    "geom:area_square_m":58739602678.756958,
+    "geom:area_square_m":58739608330.443787,
     "geom:bbox":"-12.849334,19.179851,-7.52948,21.119324",
     "geom:latitude":20.141696,
     "geom:longitude":-10.455727,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"MR.AD.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879558,
-    "wof:geomhash":"a582608157287e0f07c2de607929e08d",
+    "wof:geomhash":"a9d94423eeabc99dfa22676eaaa6d4af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091695857,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1695886033,
     "wof:name":"Chinguity",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

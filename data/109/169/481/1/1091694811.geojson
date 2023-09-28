@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202419,
-    "geom:area_square_m":2411590309.365713,
+    "geom:area_square_m":2411590309.365697,
     "geom:bbox":"-13.1669653198,15.1240844727,-12.5375520755,15.9218713683",
     "geom:latitude":15.531775,
     "geom:longitude":-12.836233,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"MR.GO.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879517,
-    "wof:geomhash":"0c2792ab43a4f4c2ce7f8c06a3369613",
+    "wof:geomhash":"e3d2daf00dba16f33bfb3fd1af2cbdf4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091694811,
-    "wof:lastmodified":1566611991,
+    "wof:lastmodified":1695886849,
     "wof:name":"Maghama",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

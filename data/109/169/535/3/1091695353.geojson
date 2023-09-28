@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.559268,
-    "geom:area_square_m":6624581345.503875,
+    "geom:area_square_m":6624581345.503909,
     "geom:bbox":"-12.8389892578,16.0507202148,-11.9443336603,17.2755126953",
     "geom:latitude":16.674785,
     "geom:longitude":-12.393778,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"MR.AS.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879539,
-    "wof:geomhash":"f0d798142bd27e7c0f57e7764ea5e807",
+    "wof:geomhash":"897090ca77c429882fc4df02b8d2e359",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091695353,
-    "wof:lastmodified":1566611988,
+    "wof:lastmodified":1695886849,
     "wof:name":"Barkeol",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

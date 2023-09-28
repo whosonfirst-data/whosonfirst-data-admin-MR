@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.017518,
-    "geom:area_square_m":11975902306.942167,
+    "geom:area_square_m":11975902306.942141,
     "geom:bbox":"-12.6690063477,17.0805053711,-11.5269775391,18.8997192383",
     "geom:latitude":17.843558,
     "geom:longitude":-12.159978,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"MR.TG.MJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879550,
-    "wof:geomhash":"ba6f839e2d34fae8e238d4ddbfbbe1ad",
+    "wof:geomhash":"f0acefe9b2ccf3ac959ceaedaa2deaa0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091695647,
-    "wof:lastmodified":1566611990,
+    "wof:lastmodified":1695886849,
     "wof:name":"Moudjeria",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

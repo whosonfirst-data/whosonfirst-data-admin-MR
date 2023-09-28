@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.214205,
-    "geom:area_square_m":172783771186.966064,
+    "geom:area_square_m":172783731733.51532,
     "geom:bbox":"-13.145234,21.351685,-6.485534,25.007171",
     "geom:latitude":23.457146,
     "geom:longitude":-10.188538,
@@ -84,9 +84,10 @@
         "hasc:id":"MR.TZ.FD",
         "wd:id":"Q27754083"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879567,
-    "wof:geomhash":"5e2fe8c7472c02795b148df6a83a9265",
+    "wof:geomhash":"cb9aa0a1411d153c1928641e29e7a498",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091696097,
-    "wof:lastmodified":1690846471,
+    "wof:lastmodified":1695886034,
     "wof:name":"F'Derik",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

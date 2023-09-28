@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.387767,
-    "geom:area_square_m":39355664295.981285,
+    "geom:area_square_m":39355679411.786148,
     "geom:bbox":"-16.035234,18.996271,-14.154419,21.150871",
     "geom:latitude":20.028239,
     "geom:longitude":-14.995566,
@@ -161,9 +161,10 @@
     "wof:concordances":{
         "hasc:id":"MR.IN.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879559,
-    "wof:geomhash":"ef1422298e6d2679adb45248cc4576cf",
+    "wof:geomhash":"37e0c0bbff7598ce25e3993d2a3b5102",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1091695891,
-    "wof:lastmodified":1636494845,
+    "wof:lastmodified":1695886620,
     "wof:name":"Akjoujt",
     "wof:parent_id":85674869,
     "wof:placetype":"county",

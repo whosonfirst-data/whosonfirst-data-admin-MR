@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363236,
-    "geom:area_square_m":4277248429.640393,
+    "geom:area_square_m":4277248429.640317,
     "geom:bbox":"-11.5980834961,17.1773247109,-10.9705810547,18.3110961914",
     "geom:latitude":17.769035,
     "geom:longitude":-11.273399,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"MR.AS.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879547,
-    "wof:geomhash":"eff3b916d532d247332c390b6940a8e5",
+    "wof:geomhash":"32fc970b1cf1eefa744fa4039b800fef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091695577,
-    "wof:lastmodified":1566611987,
+    "wof:lastmodified":1695886848,
     "wof:name":"Boumdeid",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

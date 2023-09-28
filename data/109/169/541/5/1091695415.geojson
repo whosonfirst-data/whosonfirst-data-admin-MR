@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.027126,
-    "geom:area_square_m":12165660986.724239,
+    "geom:area_square_m":12165665528.114269,
     "geom:bbox":"-12.052734,15.900513,-10.698425,17.478088",
     "geom:latitude":16.684116,
     "geom:longitude":-11.413202,
@@ -155,9 +155,10 @@
     "wof:concordances":{
         "hasc:id":"MR.AS.KF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879541,
-    "wof:geomhash":"a529389e71f4b40125ae4c4b357743e1",
+    "wof:geomhash":"e20b7987be6d160329e70b0bc8d4b838",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1091695415,
-    "wof:lastmodified":1636494846,
+    "wof:lastmodified":1695886621,
     "wof:name":"Kiffa",
     "wof:parent_id":85674885,
     "wof:placetype":"county",

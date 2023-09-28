@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.819684,
-    "geom:area_square_m":87153555080.320572,
+    "geom:area_square_m":87153555349.461777,
     "geom:bbox":"-12.005634,24.996771,-4.834434,27.298071",
     "geom:latitude":25.659261,
     "geom:longitude":-8.63016,
@@ -120,9 +120,10 @@
         "hasc:id":"MR.TZ.BM",
         "wd:id":"Q27754076"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879568,
-    "wof:geomhash":"d9cc54b2cf06624b79f1a3c5f18240c7",
+    "wof:geomhash":"8440d82382eeae802faddc0e8e834bad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091696117,
-    "wof:lastmodified":1690846470,
+    "wof:lastmodified":1695886620,
     "wof:name":"Bir Mogrein",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

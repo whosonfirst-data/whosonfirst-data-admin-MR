@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.34589,
-    "geom:area_square_m":15914191576.47994,
+    "geom:area_square_m":15914192492.666639,
     "geom:bbox":"-14.733215,16.289673,-12.815125,17.800068",
     "geom:latitude":16.98863,
     "geom:longitude":-13.641721,
@@ -137,9 +137,10 @@
     "wof:concordances":{
         "hasc:id":"MR.BR.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879545,
-    "wof:geomhash":"5909f2732edefaee0a610cd8e25ba08b",
+    "wof:geomhash":"54e0f1720816b9bcb60da77ece60b5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1091695533,
-    "wof:lastmodified":1636494845,
+    "wof:lastmodified":1695886620,
     "wof:name":"Aleg",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

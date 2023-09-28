@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.119459,
-    "geom:area_square_m":13230696434.862171,
+    "geom:area_square_m":13230696305.59186,
     "geom:bbox":"-11.095825,16.511771,-9.722595,17.7229",
     "geom:latitude":17.101384,
     "geom:longitude":-10.456579,
@@ -84,9 +84,10 @@
         "hasc:id":"MR.HG.TA",
         "wd:id":"Q27754089"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879544,
-    "wof:geomhash":"eedd923fc51b955e6ad00af5b4605043",
+    "wof:geomhash":"e219fe6993b176acccb7119fd94173d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091695497,
-    "wof:lastmodified":1690846471,
+    "wof:lastmodified":1695886849,
     "wof:name":"Tamchekett",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.39992,
-    "geom:area_square_m":16621805607.170815,
+    "geom:area_square_m":16621804795.33663,
     "geom:bbox":"-6.756634,15.495371,-5.327134,16.884871",
     "geom:latitude":16.208268,
     "geom:longitude":-6.014681,
@@ -90,9 +90,10 @@
         "hasc:id":"MR.HC.BA",
         "wd:id":"Q3044601"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879533,
-    "wof:geomhash":"198d77f560ed5d2b8e73146aab24cb47",
+    "wof:geomhash":"80dc14956302d1111ac82a71c93cdebd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091695193,
-    "wof:lastmodified":1690846470,
+    "wof:lastmodified":1695886849,
     "wof:name":"Bassikounou",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

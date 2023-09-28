@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463063,
-    "geom:area_square_m":5502761196.150782,
+    "geom:area_square_m":5502765631.643944,
     "geom:bbox":"-12.991734,15.538879,-12.004822,16.489685",
     "geom:latitude":16.045631,
     "geom:longitude":-12.525187,
@@ -84,9 +84,10 @@
         "hasc:id":"MR.GO.MT",
         "wd:id":"Q3044653"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879525,
-    "wof:geomhash":"bb39ba6e236b7bb7c5abd230ab1afede",
+    "wof:geomhash":"61b5427313eefad36585025bead75862",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091695009,
-    "wof:lastmodified":1690846470,
+    "wof:lastmodified":1695886849,
     "wof:name":"M'Bout",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

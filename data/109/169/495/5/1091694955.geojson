@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358004,
-    "geom:area_square_m":4254448951.152836,
+    "geom:area_square_m":4254446300.133576,
     "geom:bbox":"-13.713196,15.606873,-12.726434,16.403911",
     "geom:latitude":16.038286,
     "geom:longitude":-13.185531,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MR.GO.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879522,
-    "wof:geomhash":"da26bb332d82662d2d40a77498f502b9",
+    "wof:geomhash":"c12e9cefc7d34549dd4173e4c572faf2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091694955,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1695886033,
     "wof:name":"Kaedi",
     "wof:parent_id":85674891,
     "wof:placetype":"county",

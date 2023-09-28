@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.465779,
-    "geom:area_square_m":5509526052.123646,
+    "geom:area_square_m":5509523039.791023,
     "geom:bbox":"-15.501932,16.543518,-14.562536,17.364471",
     "geom:latitude":16.936387,
     "geom:longitude":-15.07276,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MR.TR.RK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879540,
-    "wof:geomhash":"50c40f0b05b8ac65bfec5e62ba6c8be6",
+    "wof:geomhash":"49670953ca1b1510ce8818bfc104adb3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091695385,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1695886033,
     "wof:name":"R'kiz",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

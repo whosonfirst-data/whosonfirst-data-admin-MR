@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203704,
-    "geom:area_square_m":2413713293.625236,
+    "geom:area_square_m":2413713293.625278,
     "geom:bbox":"-16.5152336603,16.0623168945,-15.9507336603,16.9990713683",
     "geom:latitude":16.610767,
     "geom:longitude":-16.273319,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"MR.TR.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879534,
-    "wof:geomhash":"e6925bb630b459d910a2f2d79902f471",
+    "wof:geomhash":"1ed2a200c8ed87ddfb769b89b070319d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091695227,
-    "wof:lastmodified":1566611993,
+    "wof:lastmodified":1695886849,
     "wof:name":"Keur-Macene",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

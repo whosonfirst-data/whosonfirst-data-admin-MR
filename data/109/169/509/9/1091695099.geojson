@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095375,
-    "geom:area_square_m":1130841342.304998,
+    "geom:area_square_m":1130839247.865205,
     "geom:bbox":"-14.155404,16.271087,-13.750734,16.665071",
     "geom:latitude":16.485812,
     "geom:longitude":-13.913207,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MR.BR.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879529,
-    "wof:geomhash":"c47275558cfb9bcd2631916dbf4cdc57",
+    "wof:geomhash":"d7fbbe255335830ac57fe1a0d1d08877",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091695099,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1695886033,
     "wof:name":"Bababe",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.992524,
-    "geom:area_square_m":23071090177.209373,
+    "geom:area_square_m":23071087810.476261,
     "geom:bbox":"-17.066534,18.600171,-14.154419,21.343671",
     "geom:latitude":20.5336,
     "geom:longitude":-15.967023,
@@ -206,9 +206,10 @@
     "wof:concordances":{
         "hasc:id":"MR.DN.ND"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879561,
-    "wof:geomhash":"d39729f5dbfa6af0dbfbf0066610f28e",
+    "wof:geomhash":"8de066af9fcb2f3811313ca04d164b86",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":1091695961,
-    "wof:lastmodified":1636494845,
+    "wof:lastmodified":1695886620,
     "wof:name":"Nouadhibou",
     "wof:parent_id":85674865,
     "wof:placetype":"county",

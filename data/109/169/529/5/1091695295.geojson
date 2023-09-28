@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.839796,
-    "geom:area_square_m":9961089594.547775,
+    "geom:area_square_m":9961089613.407019,
     "geom:bbox":"-7.924334,15.792271,-6.711334,17.028871",
     "geom:latitude":16.409599,
     "geom:longitude":-7.316029,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"MR.HC.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879536,
-    "wof:geomhash":"bbfa6356c6514aa119dd231a6dd9ccd3",
+    "wof:geomhash":"524af1f27b3ac7b7679308a9b6715303",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091695295,
-    "wof:lastmodified":1636494845,
+    "wof:lastmodified":1695886620,
     "wof:name":"Nema",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

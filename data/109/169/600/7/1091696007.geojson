@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038231,
-    "geom:area_square_m":436214633.145051,
+    "geom:area_square_m":436214634.316218,
     "geom:bbox":"-12.474434,22.557571,-12.132134,22.785771",
     "geom:latitude":22.669167,
     "geom:longitude":-12.288056,
@@ -84,9 +84,10 @@
         "hasc:id":"MR.TZ.ZO",
         "wd:id":"Q27754083"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879564,
-    "wof:geomhash":"9f8d9ebefc6bde733b6a29d28337faa3",
+    "wof:geomhash":"5e9b86f8280cb78cdc615b8fbceaa962",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091696007,
-    "wof:lastmodified":1690846471,
+    "wof:lastmodified":1695886033,
     "wof:name":"Zoueratt",
     "wof:parent_id":85674857,
     "wof:placetype":"county",

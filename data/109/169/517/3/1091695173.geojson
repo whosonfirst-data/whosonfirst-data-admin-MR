@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145297,
-    "geom:area_square_m":1723061414.475443,
+    "geom:area_square_m":1723063465.121169,
     "geom:bbox":"-13.221146,16.209071,-12.731873,16.859314",
     "geom:latitude":16.452538,
     "geom:longitude":-12.970945,
@@ -87,9 +87,10 @@
         "hasc:id":"MR.GO.MN",
         "wd:id":"Q3044661"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879532,
-    "wof:geomhash":"eb6743bf0cb7048e8d6098f9c9a59aab",
+    "wof:geomhash":"0dc0242ba7d471c7b0d9b0bb0eec0cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091695173,
-    "wof:lastmodified":1690846470,
+    "wof:lastmodified":1695886849,
     "wof:name":"Monguel",
     "wof:parent_id":85674891,
     "wof:placetype":"county",
