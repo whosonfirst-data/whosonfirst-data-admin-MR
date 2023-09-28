@@ -1210,6 +1210,7 @@
         "hasc:id":"MR",
         "icao:code":"5T",
         "ioc:id":"MTN",
+        "iso:code":"MR",
         "itu:id":"MTN",
         "loc:id":"n79061287",
         "m49:code":"478",
@@ -1224,6 +1225,7 @@
         "wk:page":"Mauritania",
         "wmo:id":"MT"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:country_alpha3":"MRT",
     "wof:geom_alt":[
@@ -1245,7 +1247,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639499,
+    "wof:lastmodified":1695881153,
     "wof:name":"Mauritania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
