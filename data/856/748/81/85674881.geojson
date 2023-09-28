@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.929308,
-    "geom:area_square_m":69754795260.566879,
+    "geom:area_square_m":69754792054.174164,
     "geom:bbox":"-16.515234,16.062317,-12.669006,19.000488",
     "geom:latitude":17.924023,
     "geom:longitude":-14.855242,
@@ -284,17 +284,19 @@
         "gn:id":2375742,
         "gp:id":2346246,
         "hasc:id":"MR.TR",
+        "iso:code":"MR-6",
         "iso:id":"MR-6",
         "qs_pg:id":235612,
         "unlc:id":"MR-06",
         "wd:id":"Q859581",
         "wk:page":"Trarza Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3468ca3f36517bf84989abac37f8cda6",
+    "wof:geomhash":"878612ed7d48457ef835f77522222ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846466,
+    "wof:lastmodified":1695884778,
     "wof:name":"Trarza",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

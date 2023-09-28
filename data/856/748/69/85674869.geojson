@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.387767,
-    "geom:area_square_m":39355664295.981285,
+    "geom:area_square_m":39355679411.786148,
     "geom:bbox":"-16.035234,18.996271,-14.154419,21.150871",
     "geom:latitude":20.028239,
     "geom:longitude":-14.995566,
@@ -286,17 +286,19 @@
         "gn:id":2378903,
         "gp:id":2346252,
         "hasc:id":"MR.IN",
+        "iso:code":"MR-12",
         "iso:id":"MR-12",
         "qs_pg:id":235611,
         "unlc:id":"MR-12",
         "wd:id":"Q850022",
         "wk:page":"Inchiri Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef1422298e6d2679adb45248cc4576cf",
+    "wof:geomhash":"37e0c0bbff7598ce25e3993d2a3b5102",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846466,
+    "wof:lastmodified":1695884778,
     "wof:name":"Inchiri",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

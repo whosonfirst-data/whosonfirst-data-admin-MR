@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.923832,
-    "geom:area_square_m":186875325595.421204,
+    "geom:area_square_m":186875288887.377045,
     "geom:bbox":"-9.149597,15.494873,-5.327134,23.157269",
     "geom:latitude":18.19586,
     "geom:longitude":-7.088263,
@@ -282,17 +282,19 @@
         "gn:id":2379025,
         "gp:id":2346241,
         "hasc:id":"MR.HC",
+        "iso:code":"MR-1",
         "iso:id":"MR-1",
         "qs_pg:id":91353,
         "unlc:id":"MR-01",
         "wd:id":"Q12621",
         "wk:page":"Hodh Ech Chargui Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c0ce682bbc0e3485dd7faa04071126a",
+    "wof:geomhash":"e80e07db5157e59947a0bb0f9e39c6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846465,
+    "wof:lastmodified":1695884331,
     "wof:name":"Hodh Ech Chargi",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

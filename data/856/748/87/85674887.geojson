@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.903659,
-    "geom:area_square_m":10773767472.386581,
+    "geom:area_square_m":10773766869.575733,
     "geom:bbox":"-12.748718,14.718971,-11.500305,16.056274",
     "geom:latitude":15.375668,
     "geom:longitude":-12.12595,
@@ -285,17 +285,19 @@
         "gn:id":2379216,
         "gp:id":2346250,
         "hasc:id":"MR.GD",
+        "iso:code":"MR-10",
         "iso:id":"MR-10",
         "qs_pg:id":1065879,
         "unlc:id":"MR-10",
         "wd:id":"Q768119",
         "wk:page":"Guidimaka Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b3467904f6246763b3aaa53c86166ff",
+    "wof:geomhash":"4bdf3ca2e9eef2ac0dcdf19a626af002",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846466,
+    "wof:lastmodified":1695884778,
     "wof:name":"Guidimaka",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

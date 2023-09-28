@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.168783,
-    "geom:area_square_m":13891861871.144527,
+    "geom:area_square_m":13891862846.965429,
     "geom:bbox":"-13.713196,15.124084,-12.004822,16.859314",
     "geom:latitude":16.004972,
     "geom:longitude":-12.836737,
@@ -285,17 +285,19 @@
         "gn:id":2379384,
         "gp:id":2346244,
         "hasc:id":"MR.GO",
+        "iso:code":"MR-4",
         "iso:id":"MR-4",
         "qs_pg:id":91354,
         "unlc:id":"MR-04",
         "wd:id":"Q859831",
         "wk:page":"Gorgol Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da06c31b2595112016cd7061814ffd29",
+    "wof:geomhash":"4b57791280487aa7ecf04e9b9028f5d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846467,
+    "wof:lastmodified":1695884778,
     "wof:name":"Gorgol",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

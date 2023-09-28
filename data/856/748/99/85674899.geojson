@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.303319,
-    "geom:area_square_m":222583982458.105896,
+    "geom:area_square_m":222583996561.434479,
     "geom:bbox":"-14.301084,18.557129,-6.354629,24.306771",
     "geom:latitude":21.016491,
     "geom:longitude":-10.2143,
@@ -294,17 +294,19 @@
         "gn:id":2381972,
         "gp:id":2346247,
         "hasc:id":"MR.AD",
+        "iso:code":"MR-7",
         "iso:id":"MR-7",
         "qs_pg:id":894923,
         "unlc:id":"MR-07",
         "wd:id":"Q366626",
         "wk:page":"Adrar Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8aff45d602e136b68898133bf7d77be3",
+    "wof:geomhash":"d084201125216f4ac01057e2572f2d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846467,
+    "wof:lastmodified":1695884778,
     "wof:name":"Adrar",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

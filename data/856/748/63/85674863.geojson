@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.813746,
-    "geom:area_square_m":33224025477.163208,
+    "geom:area_square_m":33224024558.764568,
     "geom:bbox":"-14.952271,16.107117,-12.31012,18.557129",
     "geom:latitude":17.249921,
     "geom:longitude":-13.400989,
@@ -285,17 +285,19 @@
         "gn:id":2380635,
         "gp:id":2346245,
         "hasc:id":"MR.BR",
+        "iso:code":"MR-5",
         "iso:id":"MR-5",
         "qs_pg:id":1222619,
         "unlc:id":"MR-05",
         "wd:id":"Q12632",
         "wk:page":"Brakna Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"41143f6e3421158cfc111a9f4ebc9755",
+    "wof:geomhash":"976e00062295986496e64da2dd27c86e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846468,
+    "wof:lastmodified":1695884778,
     "wof:name":"Brakna",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

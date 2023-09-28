@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.121046,
-    "geom:area_square_m":95221326378.229309,
+    "geom:area_square_m":95221329694.099716,
     "geom:bbox":"-12.669006,17.080505,-7.98761,19.725525",
     "geom:latitude":18.573121,
     "geom:longitude":-10.393479,
@@ -283,17 +283,19 @@
         "gn:id":2376551,
         "gp:id":2346249,
         "hasc:id":"MR.TG",
+        "iso:code":"MR-9",
         "iso:id":"MR-9",
         "qs_pg:id":922808,
         "unlc:id":"MR-09",
         "wd:id":"Q843903",
         "wk:page":"Tagant Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e7051609b0ae7b884db376f29bb39a3",
+    "wof:geomhash":"fad46a0748380ff28d2031e6a8c51530",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -308,7 +310,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846465,
+    "wof:lastmodified":1695884778,
     "wof:name":"Tagant",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

@@ -573,10 +573,12 @@
         "gn:id":2377449,
         "gp:id":24550716,
         "hasc:id":"MR.NW",
+        "iso:code_pseudo":"MR-14",
         "qs_pg:id":1086156,
         "unlc:id":"MR-NKC",
         "wd:id":"Q859581"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:coterminous":[
         1091695565,
         421189891
@@ -600,7 +602,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493173,
+    "wof:lastmodified":1695884477,
     "wof:name":"Nouakchott",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
