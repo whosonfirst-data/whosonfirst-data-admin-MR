@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.474863,
-    "geom:area_square_m":64162631579.734459,
+    "geom:area_square_m":64162642493.157333,
     "geom:bbox":"-11.079407,17.282288,-7.98761,19.725525",
     "geom:latitude":18.692409,
     "geom:longitude":-9.720653,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"MR.TG.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879555,
-    "wof:geomhash":"7497de75d7fd54d82d6a406e2e04e09e",
+    "wof:geomhash":"6794c2ea7b8909267f15a5d6cce8944d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1091695767,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1695886033,
     "wof:name":"Tichitt",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

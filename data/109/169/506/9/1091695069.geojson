@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.863067,
-    "geom:area_square_m":10257962781.060034,
+    "geom:area_square_m":10257962781.059969,
     "geom:bbox":"-10.8737792969,15.4198713683,-9.83883366027,16.5671713683",
     "geom:latitude":16.010716,
     "geom:longitude":-10.32069,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"MR.HG.TT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879528,
-    "wof:geomhash":"158dcec39dca2e4960c8d73049252820",
+    "wof:geomhash":"489a466dcad7dc9634d3a16423104daa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091695069,
-    "wof:lastmodified":1566611990,
+    "wof:lastmodified":1695886849,
     "wof:name":"Tintane",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

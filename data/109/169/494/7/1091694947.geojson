@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.751771,
-    "geom:area_square_m":8941285116.691589,
+    "geom:area_square_m":8941285116.691547,
     "geom:bbox":"-9.94223366027,15.4222713683,-8.85632324219,16.3919067383",
     "geom:latitude":15.874708,
     "geom:longitude":-9.425616,
@@ -85,9 +85,10 @@
         "hasc:id":"MR.HG.KB",
         "wd:id":"Q3044647"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879521,
-    "wof:geomhash":"a2e7e6d3b768450d8aefa04eb1448d1e",
+    "wof:geomhash":"06a52d991887c3c6c7d4f23b22cf0ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1091694947,
-    "wof:lastmodified":1566611992,
+    "wof:lastmodified":1695886849,
     "wof:name":"Kobeni",
     "wof:parent_id":85674905,
     "wof:placetype":"county",

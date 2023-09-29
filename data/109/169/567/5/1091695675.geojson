@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.82255,
-    "geom:area_square_m":21394275744.377789,
+    "geom:area_square_m":21394275744.377686,
     "geom:bbox":"-16.1508883704,17.2719116211,-14.2620849609,19.0004882813",
     "geom:latitude":18.335624,
     "geom:longitude":-15.425221,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"MR.TR.ON"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879551,
-    "wof:geomhash":"5da04dab614cd6966555b8d76e2dba8f",
+    "wof:geomhash":"97eec35fedfab69bdb7cd1b46e6f5418",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091695675,
-    "wof:lastmodified":1566611987,
+    "wof:lastmodified":1695886848,
     "wof:name":"Ouad Naga",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

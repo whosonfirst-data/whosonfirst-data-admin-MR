@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.951058,
-    "geom:area_square_m":113994659367.452545,
+    "geom:area_square_m":113994659367.452515,
     "geom:bbox":"-12.4631958008,20.4923095703,-6.35462866914,24.3067713683",
     "geom:latitude":21.869131,
     "geom:longitude":-8.769049,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"MR.AD.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879566,
-    "wof:geomhash":"24d7b6ad1a71c4e59e59700676ef1a1f",
+    "wof:geomhash":"82b007f419e37feaf1def999271a1be0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1091696073,
-    "wof:lastmodified":1566611992,
+    "wof:lastmodified":1695886849,
     "wof:name":"Ouadane",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

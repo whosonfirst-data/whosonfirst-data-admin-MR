@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108059,
-    "geom:area_square_m":1280291129.771319,
+    "geom:area_square_m":1280289780.535216,
     "geom:bbox":"-16.002532,16.474915,-15.497734,16.842171",
     "geom:latitude":16.624299,
     "geom:longitude":-15.710551,
@@ -161,9 +161,10 @@
     "wof:concordances":{
         "hasc:id":"MR.TR.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879531,
-    "wof:geomhash":"e0f7f414e7f62263926f66b4156004c0",
+    "wof:geomhash":"3410bfdfd2d7a6744165d5d844464d62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1091695159,
-    "wof:lastmodified":1636494846,
+    "wof:lastmodified":1695886621,
     "wof:name":"Rosso",
     "wof:parent_id":85674881,
     "wof:placetype":"county",

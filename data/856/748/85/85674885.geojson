@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.038952,
-    "geom:area_square_m":36012412338.787354,
+    "geom:area_square_m":36012420224.690048,
     "geom:bbox":"-12.838989,15.105271,-10.582583,18.311096",
     "geom:latitude":16.579991,
     "geom:longitude":-11.535914,
@@ -288,17 +288,19 @@
         "gn:id":2381344,
         "gp:id":2346243,
         "hasc:id":"MR.AS",
+        "iso:code":"MR-3",
         "iso:id":"MR-3",
         "qs_pg:id":318534,
         "unlc:id":"MR-03",
         "wd:id":"Q738546",
         "wk:page":"Assaba Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb9813c80c6dae4f6534175128bbe286",
+    "wof:geomhash":"cfde771d36b4f4f4840e8f898d5c9205",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -313,7 +315,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846468,
+    "wof:lastmodified":1695885133,
     "wof:name":"Assaba",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.09049,
-    "geom:area_square_m":24378120414.907661,
+    "geom:area_square_m":24378120414.907623,
     "geom:bbox":"-14.2216796875,18.5571289063,-11.8907176933,20.6333007812",
     "geom:latitude":19.420463,
     "geom:longitude":-13.093494,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"MR.AD.AO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879557,
-    "wof:geomhash":"b6d7340e623f47e4d817b6538cc8b7c4",
+    "wof:geomhash":"9dd229730559fa1242862410efbc5359",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1091695825,
-    "wof:lastmodified":1566611993,
+    "wof:lastmodified":1695886849,
     "wof:name":"Aoujeft",
     "wof:parent_id":85674899,
     "wof:placetype":"county",

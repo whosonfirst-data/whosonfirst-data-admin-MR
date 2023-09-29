@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.430062,
-    "geom:area_square_m":5113439208.299421,
+    "geom:area_square_m":5113435487.620802,
     "geom:bbox":"-9.067505,15.495117,-8.358705,16.531921",
     "geom:latitude":15.928365,
     "geom:longitude":-8.722233,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MR.HC.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879527,
-    "wof:geomhash":"46a4b5816b5599d86e857421a46811e8",
+    "wof:geomhash":"7ede19d6b48f0eaea874db342aa34ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091695039,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1695886033,
     "wof:name":"Djigueni",
     "wof:parent_id":85674901,
     "wof:placetype":"county",

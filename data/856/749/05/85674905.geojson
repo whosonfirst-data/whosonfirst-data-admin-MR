@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.234999,
-    "geom:area_square_m":50188564986.990776,
+    "geom:area_square_m":50188571379.013115,
     "geom:bbox":"-11.095825,15.419871,-8.289185,17.7229",
     "geom:latitude":16.572763,
     "geom:longitude":-9.826749,
@@ -281,17 +281,19 @@
         "gn:id":2379024,
         "gp:id":2346242,
         "hasc:id":"MR.HG",
+        "iso:code":"MR-2",
         "iso:id":"MR-2",
         "qs_pg:id":984089,
         "unlc:id":"MR-02",
         "wd:id":"Q850435",
         "wk:page":"Hodh El Gharbi Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d9f5074d9ca6590a9c6f9d7ad18f910",
+    "wof:geomhash":"90c0e615b9fdd1e765ac3ac27b2f1307",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690846465,
+    "wof:lastmodified":1695884331,
     "wof:name":"Hodh El Gharbi",
     "wof:parent_id":85632679,
     "wof:placetype":"region",

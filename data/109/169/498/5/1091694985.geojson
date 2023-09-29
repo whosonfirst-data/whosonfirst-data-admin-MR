@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055944,
-    "geom:area_square_m":664038892.372159,
+    "geom:area_square_m":664038593.541113,
     "geom:bbox":"-13.965027,16.107117,-13.632385,16.463371",
     "geom:latitude":16.266232,
     "geom:longitude":-13.778992,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"MR.BR.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879524,
-    "wof:geomhash":"eb928fc8a9c7ae5f44f12267e7f756ac",
+    "wof:geomhash":"d6a4ab2085831101c970b225d17e9f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1091694985,
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1695886033,
     "wof:name":"M'Bagne",
     "wof:parent_id":85674863,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.628666,
-    "geom:area_square_m":19082792491.552982,
+    "geom:area_square_m":19082792491.553261,
     "geom:bbox":"-12.3421020508,17.1772713683,-10.9738336603,19.7114868164",
     "geom:latitude":18.627923,
     "geom:longitude":-11.551597,
@@ -149,9 +149,10 @@
     "wof:concordances":{
         "hasc:id":"MR.TG.TJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879553,
-    "wof:geomhash":"0f495d0355b04f815a272623ae9f9365",
+    "wof:geomhash":"3fe3e8b314d44e057bb3a58d78fa5355",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1091695733,
-    "wof:lastmodified":1566611990,
+    "wof:lastmodified":1695886849,
     "wof:name":"Tidjikja",
     "wof:parent_id":85674909,
     "wof:placetype":"county",

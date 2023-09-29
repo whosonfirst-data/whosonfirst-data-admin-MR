@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303165,
-    "geom:area_square_m":3609027407.560209,
+    "geom:area_square_m":3609026036.7724,
     "geom:bbox":"-12.267578,15.191501,-11.500305,16.056274",
     "geom:latitude":15.688434,
     "geom:longitude":-11.879885,
@@ -85,9 +85,10 @@
         "hasc:id":"MR.GD.OY",
         "wd:id":"Q3044595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879518,
-    "wof:geomhash":"b41ef37eb0c598a626f2085b9c05238f",
+    "wof:geomhash":"dbfba979582d0190f2c6bd9cbeef4758",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1091694841,
-    "wof:lastmodified":1690846469,
+    "wof:lastmodified":1695886849,
     "wof:name":"Ould Yenge",
     "wof:parent_id":85674887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.500702,
-    "geom:area_square_m":17758620654.377102,
+    "geom:area_square_m":17758632824.146336,
     "geom:bbox":"-10.005034,16.175671,-8.289185,17.556519",
     "geom:latitude":16.851361,
     "geom:longitude":-9.273798,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MR.HG.AI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MR",
     "wof:created":1473879542,
-    "wof:geomhash":"829c60be41b808e4a7aabfa9f5b382ff",
+    "wof:geomhash":"431af3cfe39cfd2345d396cfa9785094",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091695431,
-    "wof:lastmodified":1627522381,
+    "wof:lastmodified":1695886032,
     "wof:name":"Aioun",
     "wof:parent_id":85674905,
     "wof:placetype":"county",
